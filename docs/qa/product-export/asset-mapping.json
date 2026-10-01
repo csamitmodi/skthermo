@@ -1,0 +1,3208 @@
+{
+  "catalogues": [
+    {
+      "id": "08_29_50",
+      "file": "ChatGPT Image Oct 1, 2026, 08_29_50 PM.png",
+      "family": "Broad range / earlier reference",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/08_29_50.webp",
+      "usedBy": []
+    },
+    {
+      "id": "08_30_10",
+      "file": "ChatGPT Image Oct 1, 2026, 08_30_10 PM.png",
+      "family": "Broad studio range / earlier reference",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/08_30_10.webp",
+      "usedBy": []
+    },
+    {
+      "id": "08_33_22",
+      "file": "ChatGPT Image Oct 1, 2026, 08_33_22 PM.png",
+      "family": "Broad range / earlier reference",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/08_33_22.webp",
+      "usedBy": []
+    },
+    {
+      "id": "10_18_40",
+      "file": "ChatGPT Image Oct 1, 2026, 10_18_40 PM.png",
+      "family": "Catering / function range",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_18_40.webp",
+      "usedBy": [
+        "catering-range"
+      ]
+    },
+    {
+      "id": "10_18_49",
+      "file": "ChatGPT Image Oct 1, 2026, 10_18_49 PM.png",
+      "family": "Lids & accessories",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_18_49.webp",
+      "usedBy": [
+        "lids-accessories"
+      ]
+    },
+    {
+      "id": "10_18_54",
+      "file": "ChatGPT Image Oct 1, 2026, 10_18_54 PM.png",
+      "family": "Wooden / bamboo accessories",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_18_54.webp",
+      "usedBy": [
+        "wooden-bamboo"
+      ]
+    },
+    {
+      "id": "10_19_00",
+      "file": "ChatGPT Image Oct 1, 2026, 10_19_00 PM.png",
+      "family": "Tissues / napkins / dining",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_19_00.webp",
+      "usedBy": [
+        "tissues",
+        "paper-products"
+      ]
+    },
+    {
+      "id": "10_19_04",
+      "file": "ChatGPT Image Oct 1, 2026, 10_19_04 PM.png",
+      "family": "Paper bags / carry packaging",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_19_04.webp",
+      "usedBy": [
+        "paper-bags"
+      ]
+    },
+    {
+      "id": "10_19_08",
+      "file": "ChatGPT Image Oct 1, 2026, 10_19_08 PM.png",
+      "family": "Paper / kraft food packaging",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_19_08.webp",
+      "usedBy": [
+        "kraft-packaging"
+      ]
+    },
+    {
+      "id": "10_19_33",
+      "file": "ChatGPT Image Oct 1, 2026, 10_19_33 PM.png",
+      "family": "Bagasse / sugarcane range",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_19_33.webp",
+      "usedBy": [
+        "bagasse"
+      ]
+    },
+    {
+      "id": "10_20_11",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_11 PM.png",
+      "family": "Areca / supari leaf tableware",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_11.webp",
+      "usedBy": [
+        "areca"
+      ]
+    },
+    {
+      "id": "10_20_15",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_15 PM.png",
+      "family": "Bakery packaging",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_15.webp",
+      "usedBy": [
+        "bakery-packaging"
+      ]
+    },
+    {
+      "id": "10_20_31",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_31 PM.png",
+      "family": "Sweets / mithai packaging",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_31.webp",
+      "usedBy": [
+        "sweets-packaging"
+      ]
+    },
+    {
+      "id": "10_20_34",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_34 PM.png",
+      "family": "Takeaway packaging",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_34.webp",
+      "usedBy": [
+        "takeaway-packaging"
+      ]
+    },
+    {
+      "id": "10_20_38",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_38 PM.png",
+      "family": "Aluminium foil packaging",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_38.webp",
+      "usedBy": [
+        "aluminium-foil"
+      ]
+    },
+    {
+      "id": "10_20_43",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+      "family": "Portion / sauce / dessert / ice cream / utility cups",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_43.webp",
+      "usedBy": [
+        "portion-sauce-cups",
+        "dessert-ice-cream-cups",
+        "utility-cups"
+      ]
+    },
+    {
+      "id": "10_20_46",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+      "family": "Food / clamshell containers",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_46.webp",
+      "usedBy": [
+        "food-containers",
+        "clamshell-containers"
+      ]
+    },
+    {
+      "id": "10_20_50",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_50 PM.png",
+      "family": "Spoons / forks / cutlery",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_50.webp",
+      "usedBy": [
+        "cutlery"
+      ]
+    },
+    {
+      "id": "10_20_53",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_53 PM.png",
+      "family": "Packing thali / meal trays",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_53.webp",
+      "usedBy": [
+        "meal-trays"
+      ]
+    },
+    {
+      "id": "10_20_57",
+      "file": "ChatGPT Image Oct 1, 2026, 10_20_57 PM.png",
+      "family": "Bowls",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_20_57.webp",
+      "usedBy": [
+        "bowls"
+      ]
+    },
+    {
+      "id": "10_21_01",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_01 PM.png",
+      "family": "Trays",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_01.webp",
+      "usedBy": [
+        "trays"
+      ]
+    },
+    {
+      "id": "10_21_05",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_05 PM.png",
+      "family": "Plates",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_05.webp",
+      "usedBy": [
+        "plates"
+      ]
+    },
+    {
+      "id": "10_21_08",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_08 PM.png",
+      "family": "Cups",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_08.webp",
+      "usedBy": [
+        "cups-glasses",
+        "custom-products"
+      ]
+    },
+    {
+      "id": "10_21_12",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_12 PM.png",
+      "family": "Broad range / 16 families",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_12.webp",
+      "usedBy": []
+    },
+    {
+      "id": "10_21_33",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_33 PM.png",
+      "family": "Broad range / 15 families",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_33.webp",
+      "usedBy": []
+    },
+    {
+      "id": "10_21_37",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_37 PM.png",
+      "family": "Broad range / 16 families",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_37.webp",
+      "usedBy": [
+        "thermoformed-products"
+      ]
+    },
+    {
+      "id": "10_21_41",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_41 PM.png",
+      "family": "Broad range / 16 families",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_41.webp",
+      "usedBy": [
+        "specialty-products"
+      ]
+    },
+    {
+      "id": "10_21_47",
+      "file": "ChatGPT Image Oct 1, 2026, 10_21_47 PM.png",
+      "family": "Broad range / 20 families; export panel excluded from claims",
+      "status": "unverified",
+      "width": 1536,
+      "height": 1024,
+      "reviewed": true,
+      "webSource": "/assets/catalogues/10_21_47.webp",
+      "usedBy": []
+    }
+  ],
+  "derived": [
+    {
+      "id": "cup-paper",
+      "name": "Paper cup styles",
+      "source": "10_21_08",
+      "crop": [
+        35,
+        339,
+        485,
+        153
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/cups-glasses/cup-paper-485.webp",
+        "srcset": "/assets/products/cups-glasses/cup-paper-240.webp 240w, /assets/products/cups-glasses/cup-paper-485.webp 485w",
+        "width": 485,
+        "height": 153,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_08 PM.png",
+        "sourceCatalogue": "catalogue-10_21_08",
+        "crop": {
+          "left": 35,
+          "top": 339,
+          "width": 485,
+          "height": 153
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "cup-clear",
+      "name": "Clear beverage cup styles",
+      "source": "10_21_08",
+      "crop": [
+        565,
+        610,
+        225,
+        140
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/cups-glasses/cup-clear-225.webp",
+        "srcset": "/assets/products/cups-glasses/cup-clear-225.webp 225w",
+        "width": 225,
+        "height": 140,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_08 PM.png",
+        "sourceCatalogue": "catalogue-10_21_08",
+        "crop": {
+          "left": 565,
+          "top": 610,
+          "width": 225,
+          "height": 140
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "cup-textured",
+      "name": "Textured cup styles",
+      "source": "10_21_08",
+      "crop": [
+        1142,
+        338,
+        373,
+        145
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/cups-glasses/cup-textured-373.webp",
+        "srcset": "/assets/products/cups-glasses/cup-textured-240.webp 240w, /assets/products/cups-glasses/cup-textured-373.webp 373w",
+        "width": 373,
+        "height": 145,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_08 PM.png",
+        "sourceCatalogue": "catalogue-10_21_08",
+        "crop": {
+          "left": 1142,
+          "top": 338,
+          "width": 373,
+          "height": 145
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "cup-print",
+      "name": "Printed cup concepts",
+      "source": "10_21_08",
+      "crop": [
+        1100,
+        849,
+        425,
+        141
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/custom-products/cup-print-425.webp",
+        "srcset": "/assets/products/custom-products/cup-print-240.webp 240w, /assets/products/custom-products/cup-print-425.webp 425w",
+        "width": 425,
+        "height": 141,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_08 PM.png",
+        "sourceCatalogue": "catalogue-10_21_08",
+        "crop": {
+          "left": 1100,
+          "top": 849,
+          "width": 425,
+          "height": 141
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "plate-round",
+      "name": "Round plate styles",
+      "source": "10_21_05",
+      "crop": [
+        25,
+        276,
+        492,
+        144
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/plates/plate-round-492.webp",
+        "srcset": "/assets/products/plates/plate-round-240.webp 240w, /assets/products/plates/plate-round-492.webp 492w",
+        "width": 492,
+        "height": 144,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_05 PM.png",
+        "sourceCatalogue": "catalogue-10_21_05",
+        "crop": {
+          "left": 25,
+          "top": 276,
+          "width": 492,
+          "height": 144
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            355,
+            20
+          ],
+          [
+            0,
+            0,
+            43,
+            26
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "plate-square",
+      "name": "Square plate styles",
+      "source": "10_21_05",
+      "crop": [
+        23,
+        491,
+        490,
+        120
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/plates/plate-square-490.webp",
+        "srcset": "/assets/products/plates/plate-square-240.webp 240w, /assets/products/plates/plate-square-490.webp 490w",
+        "width": 490,
+        "height": 120,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_05 PM.png",
+        "sourceCatalogue": "catalogue-10_21_05",
+        "crop": {
+          "left": 23,
+          "top": 491,
+          "width": 490,
+          "height": 120
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            375,
+            23
+          ],
+          [
+            0,
+            0,
+            48,
+            26
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "plate-compartment",
+      "name": "Compartment plate styles",
+      "source": "10_21_05",
+      "crop": [
+        1050,
+        285,
+        474,
+        134
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/plates/plate-compartment-474.webp",
+        "srcset": "/assets/products/plates/plate-compartment-240.webp 240w, /assets/products/plates/plate-compartment-474.webp 474w",
+        "width": 474,
+        "height": 134,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_05 PM.png",
+        "sourceCatalogue": "catalogue-10_21_05",
+        "crop": {
+          "left": 1050,
+          "top": 285,
+          "width": 474,
+          "height": 134
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            300,
+            16
+          ],
+          [
+            0,
+            0,
+            42,
+            18
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "plate-textured",
+      "name": "Textured plate styles",
+      "source": "10_21_05",
+      "crop": [
+        540,
+        283,
+        485,
+        140
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/plates/plate-textured-485.webp",
+        "srcset": "/assets/products/plates/plate-textured-240.webp 240w, /assets/products/plates/plate-textured-485.webp 485w",
+        "width": 485,
+        "height": 140,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_05 PM.png",
+        "sourceCatalogue": "catalogue-10_21_05",
+        "crop": {
+          "left": 540,
+          "top": 283,
+          "width": 485,
+          "height": 140
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            370,
+            13
+          ],
+          [
+            0,
+            0,
+            44,
+            20
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tray-serving",
+      "name": "Serving tray styles",
+      "source": "10_21_01",
+      "crop": [
+        16,
+        304,
+        673,
+        98
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/trays/tray-serving-673.webp",
+        "srcset": "/assets/products/trays/tray-serving-240.webp 240w, /assets/products/trays/tray-serving-673.webp 673w",
+        "width": 673,
+        "height": 98,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_01 PM.png",
+        "sourceCatalogue": "catalogue-10_21_01",
+        "crop": {
+          "left": 16,
+          "top": 304,
+          "width": 673,
+          "height": 98
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tray-square",
+      "name": "Square tray styles",
+      "source": "10_21_01",
+      "crop": [
+        705,
+        299,
+        392,
+        103
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/trays/tray-square-392.webp",
+        "srcset": "/assets/products/trays/tray-square-240.webp 240w, /assets/products/trays/tray-square-392.webp 392w",
+        "width": 392,
+        "height": 103,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_01 PM.png",
+        "sourceCatalogue": "catalogue-10_21_01",
+        "crop": {
+          "left": 705,
+          "top": 299,
+          "width": 392,
+          "height": 103
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tray-compartment",
+      "name": "Compartment tray styles",
+      "source": "10_21_01",
+      "crop": [
+        12,
+        494,
+        586,
+        105
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/trays/tray-compartment-586.webp",
+        "srcset": "/assets/products/trays/tray-compartment-240.webp 240w, /assets/products/trays/tray-compartment-586.webp 586w",
+        "width": 586,
+        "height": 105,
+        "source": "ChatGPT Image Oct 1, 2026, 10_21_01 PM.png",
+        "sourceCatalogue": "catalogue-10_21_01",
+        "crop": {
+          "left": 12,
+          "top": 494,
+          "width": 586,
+          "height": 105
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            180,
+            17
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bowl-paper",
+      "name": "Paper bowl presentation",
+      "source": "10_20_57",
+      "crop": [
+        20,
+        324,
+        514,
+        83
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bowls/bowl-paper-514.webp",
+        "srcset": "/assets/products/bowls/bowl-paper-240.webp 240w, /assets/products/bowls/bowl-paper-514.webp 514w",
+        "width": 514,
+        "height": 83,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_57 PM.png",
+        "sourceCatalogue": "catalogue-10_20_57",
+        "crop": {
+          "left": 20,
+          "top": 324,
+          "width": 514,
+          "height": 83
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bowl-plastic",
+      "name": "Plastic bowl presentation",
+      "source": "10_20_57",
+      "crop": [
+        1080,
+        510,
+        446,
+        84
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bowls/bowl-plastic-446.webp",
+        "srcset": "/assets/products/bowls/bowl-plastic-240.webp 240w, /assets/products/bowls/bowl-plastic-446.webp 446w",
+        "width": 446,
+        "height": 84,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_57 PM.png",
+        "sourceCatalogue": "catalogue-10_20_57",
+        "crop": {
+          "left": 1080,
+          "top": 510,
+          "width": 446,
+          "height": 84
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "meal-round",
+      "name": "Round thali styles",
+      "source": "10_20_53",
+      "crop": [
+        20,
+        299,
+        738,
+        100
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/meal-trays/meal-round-738.webp",
+        "srcset": "/assets/products/meal-trays/meal-round-240.webp 240w, /assets/products/meal-trays/meal-round-738.webp 738w",
+        "width": 738,
+        "height": 100,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_53 PM.png",
+        "sourceCatalogue": "catalogue-10_20_53",
+        "crop": {
+          "left": 20,
+          "top": 299,
+          "width": 738,
+          "height": 100
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "meal-divided",
+      "name": "Divided meal tray styles",
+      "source": "10_20_53",
+      "crop": [
+        790,
+        303,
+        728,
+        99
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/meal-trays/meal-divided-728.webp",
+        "srcset": "/assets/products/meal-trays/meal-divided-240.webp 240w, /assets/products/meal-trays/meal-divided-728.webp 728w",
+        "width": 728,
+        "height": 99,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_53 PM.png",
+        "sourceCatalogue": "catalogue-10_20_53",
+        "crop": {
+          "left": 790,
+          "top": 303,
+          "width": 728,
+          "height": 99
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "meal-lidded",
+      "name": "Lidded meal tray styles",
+      "source": "10_20_53",
+      "crop": [
+        1105,
+        505,
+        415,
+        88
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/meal-trays/meal-lidded-415.webp",
+        "srcset": "/assets/products/meal-trays/meal-lidded-240.webp 240w, /assets/products/meal-trays/meal-lidded-415.webp 415w",
+        "width": 415,
+        "height": 88,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_53 PM.png",
+        "sourceCatalogue": "catalogue-10_20_53",
+        "crop": {
+          "left": 1105,
+          "top": 505,
+          "width": 415,
+          "height": 88
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "cutlery-spoons",
+      "name": "Spoon styles",
+      "source": "10_20_50",
+      "crop": [
+        45,
+        317,
+        330,
+        125
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/cutlery/cutlery-spoons-330.webp",
+        "srcset": "/assets/products/cutlery/cutlery-spoons-240.webp 240w, /assets/products/cutlery/cutlery-spoons-330.webp 330w",
+        "width": 330,
+        "height": 125,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_50 PM.png",
+        "sourceCatalogue": "catalogue-10_20_50",
+        "crop": {
+          "left": 45,
+          "top": 317,
+          "width": 330,
+          "height": 125
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "container-rectangular",
+      "name": "Rectangular container styles",
+      "source": "10_20_46",
+      "crop": [
+        18,
+        515,
+        519,
+        85
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/food-containers/container-rectangular-519.webp",
+        "srcset": "/assets/products/food-containers/container-rectangular-240.webp 240w, /assets/products/food-containers/container-rectangular-519.webp 519w",
+        "width": 519,
+        "height": 85,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+        "sourceCatalogue": "catalogue-10_20_46",
+        "crop": {
+          "left": 18,
+          "top": 515,
+          "width": 519,
+          "height": 85
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "container-round",
+      "name": "Round container styles",
+      "source": "10_20_46",
+      "crop": [
+        566,
+        520,
+        453,
+        85
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/food-containers/container-round-453.webp",
+        "srcset": "/assets/products/food-containers/container-round-240.webp 240w, /assets/products/food-containers/container-round-453.webp 453w",
+        "width": 453,
+        "height": 85,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+        "sourceCatalogue": "catalogue-10_20_46",
+        "crop": {
+          "left": 566,
+          "top": 520,
+          "width": 453,
+          "height": 85
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "container-clear",
+      "name": "Clear container styles",
+      "source": "10_20_46",
+      "crop": [
+        1164,
+        704,
+        357,
+        90
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/food-containers/container-clear-357.webp",
+        "srcset": "/assets/products/food-containers/container-clear-240.webp 240w, /assets/products/food-containers/container-clear-357.webp 357w",
+        "width": 357,
+        "height": 90,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+        "sourceCatalogue": "catalogue-10_20_46",
+        "crop": {
+          "left": 1164,
+          "top": 704,
+          "width": 357,
+          "height": 90
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "clamshell-rectangular",
+      "name": "Rectangular hinged styles",
+      "source": "10_20_46",
+      "crop": [
+        21,
+        313,
+        583,
+        102
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/clamshell-containers/clamshell-rectangular-583.webp",
+        "srcset": "/assets/products/clamshell-containers/clamshell-rectangular-240.webp 240w, /assets/products/clamshell-containers/clamshell-rectangular-583.webp 583w",
+        "width": 583,
+        "height": 102,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+        "sourceCatalogue": "catalogue-10_20_46",
+        "crop": {
+          "left": 21,
+          "top": 313,
+          "width": 583,
+          "height": 102
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "clamshell-square",
+      "name": "Square hinged styles",
+      "source": "10_20_46",
+      "crop": [
+        626,
+        314,
+        460,
+        101
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/clamshell-containers/clamshell-square-460.webp",
+        "srcset": "/assets/products/clamshell-containers/clamshell-square-240.webp 240w, /assets/products/clamshell-containers/clamshell-square-460.webp 460w",
+        "width": 460,
+        "height": 101,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+        "sourceCatalogue": "catalogue-10_20_46",
+        "crop": {
+          "left": 626,
+          "top": 314,
+          "width": 460,
+          "height": 101
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "portion-round",
+      "name": "Round portion cup styles",
+      "source": "10_20_43",
+      "crop": [
+        17,
+        304,
+        529,
+        91
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/portion-sauce-cups/portion-round-529.webp",
+        "srcset": "/assets/products/portion-sauce-cups/portion-round-240.webp 240w, /assets/products/portion-sauce-cups/portion-round-529.webp 529w",
+        "width": 529,
+        "height": 91,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 17,
+          "top": 304,
+          "width": 529,
+          "height": 91
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "portion-square",
+      "name": "Square portion cup styles",
+      "source": "10_20_43",
+      "crop": [
+        1105,
+        311,
+        415,
+        91
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/portion-sauce-cups/portion-square-415.webp",
+        "srcset": "/assets/products/portion-sauce-cups/portion-square-240.webp 240w, /assets/products/portion-sauce-cups/portion-square-415.webp 415w",
+        "width": 415,
+        "height": 91,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 1105,
+          "top": 311,
+          "width": 415,
+          "height": 91
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "sauce-lidded",
+      "name": "Lidded sauce cup styles",
+      "source": "10_20_43",
+      "crop": [
+        580,
+        312,
+        490,
+        82
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/portion-sauce-cups/sauce-lidded-490.webp",
+        "srcset": "/assets/products/portion-sauce-cups/sauce-lidded-240.webp 240w, /assets/products/portion-sauce-cups/sauce-lidded-490.webp 490w",
+        "width": 490,
+        "height": 82,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 580,
+          "top": 312,
+          "width": 490,
+          "height": 82
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "dessert-clear",
+      "name": "Clear dessert cup styles",
+      "source": "10_20_43",
+      "crop": [
+        19,
+        494,
+        531,
+        94
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/dessert-ice-cream-cups/dessert-clear-531.webp",
+        "srcset": "/assets/products/dessert-ice-cream-cups/dessert-clear-240.webp 240w, /assets/products/dessert-ice-cream-cups/dessert-clear-531.webp 531w",
+        "width": 531,
+        "height": 94,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 19,
+          "top": 494,
+          "width": 531,
+          "height": 94
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            50,
+            10
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "dessert-opaque",
+      "name": "Dessert cup concepts",
+      "source": "10_20_43",
+      "crop": [
+        579,
+        499,
+        494,
+        92
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/dessert-ice-cream-cups/dessert-opaque-494.webp",
+        "srcset": "/assets/products/dessert-ice-cream-cups/dessert-opaque-240.webp 240w, /assets/products/dessert-ice-cream-cups/dessert-opaque-494.webp 494w",
+        "width": 494,
+        "height": 92,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 579,
+          "top": 499,
+          "width": 494,
+          "height": 92
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "ice-cream-printed",
+      "name": "Ice cream cup concepts",
+      "source": "10_20_43",
+      "crop": [
+        1100,
+        499,
+        422,
+        91
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/dessert-ice-cream-cups/ice-cream-printed-422.webp",
+        "srcset": "/assets/products/dessert-ice-cream-cups/ice-cream-printed-240.webp 240w, /assets/products/dessert-ice-cream-cups/ice-cream-printed-422.webp 422w",
+        "width": 422,
+        "height": 91,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 1100,
+          "top": 499,
+          "width": 422,
+          "height": 91
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "utility-serving-cups",
+      "name": "Utility cup styles",
+      "source": "10_20_43",
+      "crop": [
+        585,
+        691,
+        509,
+        96
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/utility-cups/utility-serving-cups-509.webp",
+        "srcset": "/assets/products/utility-cups/utility-serving-cups-240.webp 240w, /assets/products/utility-cups/utility-serving-cups-509.webp 509w",
+        "width": 509,
+        "height": 96,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+        "sourceCatalogue": "catalogue-10_20_43",
+        "crop": {
+          "left": 585,
+          "top": 691,
+          "width": 509,
+          "height": 96
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "foil-rectangular",
+      "name": "Rectangular foil formats",
+      "source": "10_20_38",
+      "crop": [
+        17,
+        305,
+        574,
+        96
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/aluminium-foil/foil-rectangular-574.webp",
+        "srcset": "/assets/products/aluminium-foil/foil-rectangular-240.webp 240w, /assets/products/aluminium-foil/foil-rectangular-574.webp 574w",
+        "width": 574,
+        "height": 96,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_38 PM.png",
+        "sourceCatalogue": "catalogue-10_20_38",
+        "crop": {
+          "left": 17,
+          "top": 305,
+          "width": 574,
+          "height": 96
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "foil-round",
+      "name": "Round foil formats",
+      "source": "10_20_38",
+      "crop": [
+        19,
+        500,
+        572,
+        98
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/aluminium-foil/foil-round-572.webp",
+        "srcset": "/assets/products/aluminium-foil/foil-round-240.webp 240w, /assets/products/aluminium-foil/foil-round-572.webp 572w",
+        "width": 572,
+        "height": 98,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_38 PM.png",
+        "sourceCatalogue": "catalogue-10_20_38",
+        "crop": {
+          "left": 19,
+          "top": 500,
+          "width": 572,
+          "height": 98
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "foil-divided",
+      "name": "Divided foil formats",
+      "source": "10_20_38",
+      "crop": [
+        1157,
+        506,
+        363,
+        88
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/aluminium-foil/foil-divided-363.webp",
+        "srcset": "/assets/products/aluminium-foil/foil-divided-240.webp 240w, /assets/products/aluminium-foil/foil-divided-363.webp 363w",
+        "width": 363,
+        "height": 88,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_38 PM.png",
+        "sourceCatalogue": "catalogue-10_20_38",
+        "crop": {
+          "left": 1157,
+          "top": 506,
+          "width": 363,
+          "height": 88
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "takeaway-boxes",
+      "name": "Takeaway box styles",
+      "source": "10_20_34",
+      "crop": [
+        20,
+        287,
+        375,
+        88
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/takeaway-packaging/takeaway-boxes-375.webp",
+        "srcset": "/assets/products/takeaway-packaging/takeaway-boxes-240.webp 240w, /assets/products/takeaway-packaging/takeaway-boxes-375.webp 375w",
+        "width": 375,
+        "height": 88,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_34 PM.png",
+        "sourceCatalogue": "catalogue-10_20_34",
+        "crop": {
+          "left": 20,
+          "top": 287,
+          "width": 375,
+          "height": 88
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "takeaway-snack",
+      "name": "Snack packaging styles",
+      "source": "10_20_34",
+      "crop": [
+        818,
+        686,
+        357,
+        95
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/takeaway-packaging/takeaway-snack-357.webp",
+        "srcset": "/assets/products/takeaway-packaging/takeaway-snack-240.webp 240w, /assets/products/takeaway-packaging/takeaway-snack-357.webp 357w",
+        "width": 357,
+        "height": 95,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_34 PM.png",
+        "sourceCatalogue": "catalogue-10_20_34",
+        "crop": {
+          "left": 818,
+          "top": 686,
+          "width": 357,
+          "height": 95
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "sweet-window",
+      "name": "Window sweet box concepts",
+      "source": "10_20_31",
+      "crop": [
+        1105,
+        303,
+        418,
+        111
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/sweets-packaging/sweet-window-418.webp",
+        "srcset": "/assets/products/sweets-packaging/sweet-window-240.webp 240w, /assets/products/sweets-packaging/sweet-window-418.webp 418w",
+        "width": 418,
+        "height": 111,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_31 PM.png",
+        "sourceCatalogue": "catalogue-10_20_31",
+        "crop": {
+          "left": 1105,
+          "top": 303,
+          "width": 418,
+          "height": 111
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "sweet-gift",
+      "name": "Gift box concepts",
+      "source": "10_20_31",
+      "crop": [
+        604,
+        303,
+        484,
+        111
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/sweets-packaging/sweet-gift-484.webp",
+        "srcset": "/assets/products/sweets-packaging/sweet-gift-240.webp 240w, /assets/products/sweets-packaging/sweet-gift-484.webp 484w",
+        "width": 484,
+        "height": 111,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_31 PM.png",
+        "sourceCatalogue": "catalogue-10_20_31",
+        "crop": {
+          "left": 604,
+          "top": 303,
+          "width": 484,
+          "height": 111
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "sweet-divided",
+      "name": "Divided sweet box concepts",
+      "source": "10_20_31",
+      "crop": [
+        559,
+        510,
+        499,
+        99
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/sweets-packaging/sweet-divided-499.webp",
+        "srcset": "/assets/products/sweets-packaging/sweet-divided-240.webp 240w, /assets/products/sweets-packaging/sweet-divided-499.webp 499w",
+        "width": 499,
+        "height": 99,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_31 PM.png",
+        "sourceCatalogue": "catalogue-10_20_31",
+        "crop": {
+          "left": 559,
+          "top": 510,
+          "width": 499,
+          "height": 99
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bakery-boxes",
+      "name": "Bakery box concepts",
+      "source": "10_20_15",
+      "crop": [
+        19,
+        285,
+        516,
+        110
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bakery-packaging/bakery-boxes-516.webp",
+        "srcset": "/assets/products/bakery-packaging/bakery-boxes-240.webp 240w, /assets/products/bakery-packaging/bakery-boxes-516.webp 516w",
+        "width": 516,
+        "height": 110,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_15 PM.png",
+        "sourceCatalogue": "catalogue-10_20_15",
+        "crop": {
+          "left": 19,
+          "top": 285,
+          "width": 516,
+          "height": 110
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bakery-domes",
+      "name": "Cake dome styles",
+      "source": "10_20_15",
+      "crop": [
+        18,
+        482,
+        516,
+        105
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bakery-packaging/bakery-domes-516.webp",
+        "srcset": "/assets/products/bakery-packaging/bakery-domes-240.webp 240w, /assets/products/bakery-packaging/bakery-domes-516.webp 516w",
+        "width": 516,
+        "height": 105,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_15 PM.png",
+        "sourceCatalogue": "catalogue-10_20_15",
+        "crop": {
+          "left": 18,
+          "top": 482,
+          "width": 516,
+          "height": 105
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            400,
+            7
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bakery-slices",
+      "name": "Pastry slice box concepts",
+      "source": "10_20_15",
+      "crop": [
+        1107,
+        486,
+        414,
+        99
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bakery-packaging/bakery-slices-414.webp",
+        "srcset": "/assets/products/bakery-packaging/bakery-slices-240.webp 240w, /assets/products/bakery-packaging/bakery-slices-414.webp 414w",
+        "width": 414,
+        "height": 99,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_15 PM.png",
+        "sourceCatalogue": "catalogue-10_20_15",
+        "crop": {
+          "left": 1107,
+          "top": 486,
+          "width": 414,
+          "height": 99
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "areca-round",
+      "name": "Leaf tableware round formats",
+      "source": "10_20_11",
+      "crop": [
+        17,
+        295,
+        579,
+        115
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/areca/areca-round-579.webp",
+        "srcset": "/assets/products/areca/areca-round-240.webp 240w, /assets/products/areca/areca-round-579.webp 579w",
+        "width": 579,
+        "height": 115,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_11 PM.png",
+        "sourceCatalogue": "catalogue-10_20_11",
+        "crop": {
+          "left": 17,
+          "top": 295,
+          "width": 579,
+          "height": 115
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "areca-square",
+      "name": "Leaf tableware square formats",
+      "source": "10_20_11",
+      "crop": [
+        628,
+        301,
+        430,
+        106
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/areca/areca-square-430.webp",
+        "srcset": "/assets/products/areca/areca-square-240.webp 240w, /assets/products/areca/areca-square-430.webp 430w",
+        "width": 430,
+        "height": 106,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_11 PM.png",
+        "sourceCatalogue": "catalogue-10_20_11",
+        "crop": {
+          "left": 628,
+          "top": 301,
+          "width": 430,
+          "height": 106
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "areca-bowls",
+      "name": "Leaf bowl formats",
+      "source": "10_20_11",
+      "crop": [
+        1042,
+        500,
+        477,
+        80
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/areca/areca-bowls-477.webp",
+        "srcset": "/assets/products/areca/areca-bowls-240.webp 240w, /assets/products/areca/areca-bowls-477.webp 477w",
+        "width": 477,
+        "height": 80,
+        "source": "ChatGPT Image Oct 1, 2026, 10_20_11 PM.png",
+        "sourceCatalogue": "catalogue-10_20_11",
+        "crop": {
+          "left": 1042,
+          "top": 500,
+          "width": 477,
+          "height": 80
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bagasse-plates",
+      "name": "Fibre plate concepts",
+      "source": "10_19_33",
+      "crop": [
+        17,
+        264,
+        492,
+        89
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bagasse/bagasse-plates-492.webp",
+        "srcset": "/assets/products/bagasse/bagasse-plates-240.webp 240w, /assets/products/bagasse/bagasse-plates-492.webp 492w",
+        "width": 492,
+        "height": 89,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_33 PM.png",
+        "sourceCatalogue": "catalogue-10_19_33",
+        "crop": {
+          "left": 17,
+          "top": 264,
+          "width": 492,
+          "height": 89
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bagasse-hinged",
+      "name": "Fibre hinged box concepts",
+      "source": "10_19_33",
+      "crop": [
+        539,
+        597,
+        236,
+        84
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bagasse/bagasse-hinged-236.webp",
+        "srcset": "/assets/products/bagasse/bagasse-hinged-236.webp 236w",
+        "width": 236,
+        "height": 84,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_33 PM.png",
+        "sourceCatalogue": "catalogue-10_19_33",
+        "crop": {
+          "left": 539,
+          "top": 597,
+          "width": 236,
+          "height": 84
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bagasse-trays",
+      "name": "Fibre meal tray concepts",
+      "source": "10_19_33",
+      "crop": [
+        14,
+        599,
+        493,
+        81
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/bagasse/bagasse-trays-493.webp",
+        "srcset": "/assets/products/bagasse/bagasse-trays-240.webp 240w, /assets/products/bagasse/bagasse-trays-493.webp 493w",
+        "width": 493,
+        "height": 81,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_33 PM.png",
+        "sourceCatalogue": "catalogue-10_19_33",
+        "crop": {
+          "left": 14,
+          "top": 599,
+          "width": 493,
+          "height": 81
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "kraft-burger",
+      "name": "Kraft-style burger box concepts",
+      "source": "10_19_08",
+      "crop": [
+        19,
+        304,
+        399,
+        114
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/kraft-packaging/kraft-burger-399.webp",
+        "srcset": "/assets/products/kraft-packaging/kraft-burger-240.webp 240w, /assets/products/kraft-packaging/kraft-burger-399.webp 399w",
+        "width": 399,
+        "height": 114,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_08 PM.png",
+        "sourceCatalogue": "catalogue-10_19_08",
+        "crop": {
+          "left": 19,
+          "top": 304,
+          "width": 399,
+          "height": 114
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            210,
+            4
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "kraft-bowls",
+      "name": "Kraft-style bowl concepts",
+      "source": "10_19_08",
+      "crop": [
+        16,
+        521,
+        425,
+        83
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/kraft-packaging/kraft-bowls-425.webp",
+        "srcset": "/assets/products/kraft-packaging/kraft-bowls-240.webp 240w, /assets/products/kraft-packaging/kraft-bowls-425.webp 425w",
+        "width": 425,
+        "height": 83,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_08 PM.png",
+        "sourceCatalogue": "catalogue-10_19_08",
+        "crop": {
+          "left": 16,
+          "top": 521,
+          "width": 425,
+          "height": 83
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "kraft-meal",
+      "name": "Kraft-style meal box concepts",
+      "source": "10_19_08",
+      "crop": [
+        850,
+        514,
+        346,
+        100
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/kraft-packaging/kraft-meal-346.webp",
+        "srcset": "/assets/products/kraft-packaging/kraft-meal-240.webp 240w, /assets/products/kraft-packaging/kraft-meal-346.webp 346w",
+        "width": 346,
+        "height": 100,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_08 PM.png",
+        "sourceCatalogue": "catalogue-10_19_08",
+        "crop": {
+          "left": 850,
+          "top": 514,
+          "width": 346,
+          "height": 100
+        },
+        "whitespaceMasks": [
+          [
+            0,
+            0,
+            100,
+            4
+          ]
+        ],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bag-handled",
+      "name": "Handled paper bag concepts",
+      "source": "10_19_04",
+      "crop": [
+        861,
+        320,
+        205,
+        131
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/paper-bags/bag-handled-205.webp",
+        "srcset": "/assets/products/paper-bags/bag-handled-205.webp 205w",
+        "width": 205,
+        "height": 131,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_04 PM.png",
+        "sourceCatalogue": "catalogue-10_19_04",
+        "crop": {
+          "left": 861,
+          "top": 320,
+          "width": 205,
+          "height": 131
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bag-flat",
+      "name": "Flat paper bag concepts",
+      "source": "10_19_04",
+      "crop": [
+        25,
+        324,
+        409,
+        128
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/paper-bags/bag-flat-409.webp",
+        "srcset": "/assets/products/paper-bags/bag-flat-240.webp 240w, /assets/products/paper-bags/bag-flat-409.webp 409w",
+        "width": 409,
+        "height": 128,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_04 PM.png",
+        "sourceCatalogue": "catalogue-10_19_04",
+        "crop": {
+          "left": 25,
+          "top": 324,
+          "width": 409,
+          "height": 128
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bag-diecut",
+      "name": "Die-cut bag concepts",
+      "source": "10_19_04",
+      "crop": [
+        21,
+        526,
+        387,
+        129
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/paper-bags/bag-diecut-387.webp",
+        "srcset": "/assets/products/paper-bags/bag-diecut-240.webp 240w, /assets/products/paper-bags/bag-diecut-387.webp 387w",
+        "width": 387,
+        "height": 129,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_04 PM.png",
+        "sourceCatalogue": "catalogue-10_19_04",
+        "crop": {
+          "left": 21,
+          "top": 526,
+          "width": 387,
+          "height": 129
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tissue-napkins",
+      "name": "Table napkin presentation",
+      "source": "10_19_00",
+      "crop": [
+        778,
+        310,
+        374,
+        92
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/tissues/tissue-napkins-374.webp",
+        "srcset": "/assets/products/tissues/tissue-napkins-240.webp 240w, /assets/products/tissues/tissue-napkins-374.webp 374w",
+        "width": 374,
+        "height": 92,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_00 PM.png",
+        "sourceCatalogue": "catalogue-10_19_00",
+        "crop": {
+          "left": 778,
+          "top": 310,
+          "width": 374,
+          "height": 92
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tissue-boxes",
+      "name": "Tissue box concepts",
+      "source": "10_19_00",
+      "crop": [
+        21,
+        306,
+        372,
+        103
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/tissues/tissue-boxes-372.webp",
+        "srcset": "/assets/products/tissues/tissue-boxes-240.webp 240w, /assets/products/tissues/tissue-boxes-372.webp 372w",
+        "width": 372,
+        "height": 103,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_00 PM.png",
+        "sourceCatalogue": "catalogue-10_19_00",
+        "crop": {
+          "left": 21,
+          "top": 306,
+          "width": 372,
+          "height": 103
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tissue-dinner",
+      "name": "Dinner napkin presentation",
+      "source": "10_19_00",
+      "crop": [
+        424,
+        508,
+        307,
+        96
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/tissues/tissue-dinner-307.webp",
+        "srcset": "/assets/products/tissues/tissue-dinner-240.webp 240w, /assets/products/tissues/tissue-dinner-307.webp 307w",
+        "width": 307,
+        "height": 96,
+        "source": "ChatGPT Image Oct 1, 2026, 10_19_00 PM.png",
+        "sourceCatalogue": "catalogue-10_19_00",
+        "crop": {
+          "left": 424,
+          "top": 508,
+          "width": 307,
+          "height": 96
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "wood-spoons",
+      "name": "Wooden spoon concepts",
+      "source": "10_18_54",
+      "crop": [
+        28,
+        295,
+        445,
+        123
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/wooden-bamboo/wood-spoons-445.webp",
+        "srcset": "/assets/products/wooden-bamboo/wood-spoons-240.webp 240w, /assets/products/wooden-bamboo/wood-spoons-445.webp 445w",
+        "width": 445,
+        "height": 123,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_54 PM.png",
+        "sourceCatalogue": "catalogue-10_18_54",
+        "crop": {
+          "left": 28,
+          "top": 295,
+          "width": 445,
+          "height": 123
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "wood-forks",
+      "name": "Wooden fork concepts",
+      "source": "10_18_54",
+      "crop": [
+        513,
+        295,
+        257,
+        122
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/wooden-bamboo/wood-forks-257.webp",
+        "srcset": "/assets/products/wooden-bamboo/wood-forks-240.webp 240w, /assets/products/wooden-bamboo/wood-forks-257.webp 257w",
+        "width": 257,
+        "height": 122,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_54 PM.png",
+        "sourceCatalogue": "catalogue-10_18_54",
+        "crop": {
+          "left": 513,
+          "top": 295,
+          "width": 257,
+          "height": 122
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "bamboo-chopsticks",
+      "name": "Bamboo accessory concepts",
+      "source": "10_18_54",
+      "crop": [
+        341,
+        500,
+        253,
+        110
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/wooden-bamboo/bamboo-chopsticks-253.webp",
+        "srcset": "/assets/products/wooden-bamboo/bamboo-chopsticks-240.webp 240w, /assets/products/wooden-bamboo/bamboo-chopsticks-253.webp 253w",
+        "width": 253,
+        "height": 110,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_54 PM.png",
+        "sourceCatalogue": "catalogue-10_18_54",
+        "crop": {
+          "left": 341,
+          "top": 500,
+          "width": 253,
+          "height": 110
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "lid-cups",
+      "name": "Cup lid styles",
+      "source": "10_18_49",
+      "crop": [
+        15,
+        300,
+        532,
+        72
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/lids-accessories/lid-cups-532.webp",
+        "srcset": "/assets/products/lids-accessories/lid-cups-240.webp 240w, /assets/products/lids-accessories/lid-cups-532.webp 532w",
+        "width": 532,
+        "height": 72,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_49 PM.png",
+        "sourceCatalogue": "catalogue-10_18_49",
+        "crop": {
+          "left": 15,
+          "top": 300,
+          "width": 532,
+          "height": 72
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "lid-flat-dome",
+      "name": "Flat and dome lid styles",
+      "source": "10_18_49",
+      "crop": [
+        575,
+        293,
+        451,
+        79
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/lids-accessories/lid-flat-dome-451.webp",
+        "srcset": "/assets/products/lids-accessories/lid-flat-dome-240.webp 240w, /assets/products/lids-accessories/lid-flat-dome-451.webp 451w",
+        "width": 451,
+        "height": 79,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_49 PM.png",
+        "sourceCatalogue": "catalogue-10_18_49",
+        "crop": {
+          "left": 575,
+          "top": 293,
+          "width": 451,
+          "height": 79
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "lid-containers",
+      "name": "Container lid styles",
+      "source": "10_18_49",
+      "crop": [
+        16,
+        484,
+        484,
+        82
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/lids-accessories/lid-containers-484.webp",
+        "srcset": "/assets/products/lids-accessories/lid-containers-240.webp 240w, /assets/products/lids-accessories/lid-containers-484.webp 484w",
+        "width": 484,
+        "height": 82,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_49 PM.png",
+        "sourceCatalogue": "catalogue-10_18_49",
+        "crop": {
+          "left": 16,
+          "top": 484,
+          "width": 484,
+          "height": 82
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "catering-round",
+      "name": "Catering plate presentation",
+      "source": "10_18_40",
+      "crop": [
+        20,
+        296,
+        393,
+        97
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/catering-range/catering-round-393.webp",
+        "srcset": "/assets/products/catering-range/catering-round-240.webp 240w, /assets/products/catering-range/catering-round-393.webp 393w",
+        "width": 393,
+        "height": 97,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_40 PM.png",
+        "sourceCatalogue": "catalogue-10_18_40",
+        "crop": {
+          "left": 20,
+          "top": 296,
+          "width": 393,
+          "height": 97
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "catering-square",
+      "name": "Catering square plate presentation",
+      "source": "10_18_40",
+      "crop": [
+        437,
+        308,
+        347,
+        77
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/catering-range/catering-square-347.webp",
+        "srcset": "/assets/products/catering-range/catering-square-240.webp 240w, /assets/products/catering-range/catering-square-347.webp 347w",
+        "width": 347,
+        "height": 77,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_40 PM.png",
+        "sourceCatalogue": "catalogue-10_18_40",
+        "crop": {
+          "left": 437,
+          "top": 308,
+          "width": 347,
+          "height": 77
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "catering-set",
+      "name": "Place-setting concept",
+      "source": "10_18_40",
+      "crop": [
+        901,
+        791,
+        297,
+        108
+      ],
+      "status": "unverified",
+      "dedicatedPhotographyRequired": true,
+      "asset": {
+        "src": "/assets/products/catering-range/catering-set-297.webp",
+        "srcset": "/assets/products/catering-range/catering-set-240.webp 240w, /assets/products/catering-range/catering-set-297.webp 297w",
+        "width": 297,
+        "height": 108,
+        "source": "ChatGPT Image Oct 1, 2026, 10_18_40 PM.png",
+        "sourceCatalogue": "catalogue-10_18_40",
+        "crop": {
+          "left": 901,
+          "top": 791,
+          "width": 297,
+          "height": 108
+        },
+        "whitespaceMasks": [],
+        "status": "unverified"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "slug": "cups-glasses",
+      "name": "Cups & Glasses",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_08",
+        "groups": [
+          "cup-paper",
+          "cup-clear",
+          "cup-textured"
+        ],
+        "hero": "cup-paper",
+        "category": "cup-paper",
+        "catalogue": "catalogue-10_21_08",
+        "detail": [
+          "cup-paper",
+          "cup-clear",
+          "cup-textured"
+        ],
+        "thumbnail": "cup-paper",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "plates",
+      "name": "Plates",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_05",
+        "groups": [
+          "plate-round",
+          "plate-square",
+          "plate-compartment",
+          "plate-textured"
+        ],
+        "hero": "plate-round",
+        "category": "plate-round",
+        "catalogue": "catalogue-10_21_05",
+        "detail": [
+          "plate-round",
+          "plate-square",
+          "plate-compartment",
+          "plate-textured"
+        ],
+        "thumbnail": "plate-round",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "bowls",
+      "name": "Bowls",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_57",
+        "groups": [
+          "bowl-paper",
+          "bowl-plastic"
+        ],
+        "hero": "bowl-paper",
+        "category": "bowl-paper",
+        "catalogue": "catalogue-10_20_57",
+        "detail": [
+          "bowl-paper",
+          "bowl-plastic"
+        ],
+        "thumbnail": "bowl-paper",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "cutlery",
+      "name": "Cutlery",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_50",
+        "groups": [
+          "cutlery-spoons"
+        ],
+        "hero": "cutlery-spoons",
+        "category": "cutlery-spoons",
+        "catalogue": "catalogue-10_20_50",
+        "detail": [
+          "cutlery-spoons"
+        ],
+        "thumbnail": "cutlery-spoons",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "paper-products",
+      "name": "Paper Products",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_19_00",
+        "groups": [],
+        "hero": "thermoformed",
+        "category": "thermoformed",
+        "catalogue": "catalogue-10_19_00",
+        "detail": [],
+        "thumbnail": "thermoformed",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "thermoformed-products",
+      "name": "Thermoformed Products",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_37",
+        "groups": [],
+        "hero": "thermoformed",
+        "category": "thermoformed",
+        "catalogue": "catalogue-10_21_37",
+        "detail": [],
+        "thumbnail": "thermoformed",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "custom-products",
+      "name": "Custom Printed Products",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_08",
+        "groups": [
+          "cup-print"
+        ],
+        "hero": "cup-print",
+        "category": "cup-print",
+        "catalogue": "catalogue-10_21_08",
+        "detail": [
+          "cup-print"
+        ],
+        "thumbnail": "cup-print",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "trays",
+      "name": "Trays",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_01",
+        "groups": [
+          "tray-serving",
+          "tray-square",
+          "tray-compartment"
+        ],
+        "hero": "tray-serving",
+        "category": "tray-serving",
+        "catalogue": "catalogue-10_21_01",
+        "detail": [
+          "tray-serving",
+          "tray-square",
+          "tray-compartment"
+        ],
+        "thumbnail": "tray-serving",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "food-containers",
+      "name": "Food Containers",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_46",
+        "groups": [
+          "container-rectangular",
+          "container-round",
+          "container-clear"
+        ],
+        "hero": "container-rectangular",
+        "category": "container-rectangular",
+        "catalogue": "catalogue-10_20_46",
+        "detail": [
+          "container-rectangular",
+          "container-round",
+          "container-clear"
+        ],
+        "thumbnail": "container-rectangular",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "clamshell-containers",
+      "name": "Clamshell Containers",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_46",
+        "groups": [
+          "clamshell-rectangular",
+          "clamshell-square"
+        ],
+        "hero": "clamshell-rectangular",
+        "category": "clamshell-rectangular",
+        "catalogue": "catalogue-10_20_46",
+        "detail": [
+          "clamshell-rectangular",
+          "clamshell-square"
+        ],
+        "thumbnail": "clamshell-rectangular",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "portion-sauce-cups",
+      "name": "Portion & Sauce Cups",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_43",
+        "groups": [
+          "portion-round",
+          "portion-square",
+          "sauce-lidded"
+        ],
+        "hero": "portion-round",
+        "category": "portion-round",
+        "catalogue": "catalogue-10_20_43",
+        "detail": [
+          "portion-round",
+          "portion-square",
+          "sauce-lidded"
+        ],
+        "thumbnail": "portion-round",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "dessert-ice-cream-cups",
+      "name": "Dessert & Ice Cream Cups",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_43",
+        "groups": [
+          "dessert-clear",
+          "dessert-opaque",
+          "ice-cream-printed"
+        ],
+        "hero": "dessert-clear",
+        "category": "dessert-clear",
+        "catalogue": "catalogue-10_20_43",
+        "detail": [
+          "dessert-clear",
+          "dessert-opaque",
+          "ice-cream-printed"
+        ],
+        "thumbnail": "dessert-clear",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "takeaway-packaging",
+      "name": "Takeaway Packaging",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_34",
+        "groups": [
+          "takeaway-boxes",
+          "takeaway-snack"
+        ],
+        "hero": "takeaway-boxes",
+        "category": "takeaway-boxes",
+        "catalogue": "catalogue-10_20_34",
+        "detail": [
+          "takeaway-boxes",
+          "takeaway-snack"
+        ],
+        "thumbnail": "takeaway-boxes",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "specialty-products",
+      "name": "Specialty Products",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_41",
+        "groups": [],
+        "hero": "thermoformed",
+        "category": "thermoformed",
+        "catalogue": "catalogue-10_21_41",
+        "detail": [],
+        "thumbnail": "thermoformed",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "plates-trays",
+      "name": "Plates & Trays",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_21_05",
+        "groups": [
+          "plate-round",
+          "plate-square",
+          "plate-compartment",
+          "plate-textured"
+        ],
+        "hero": "plate-round",
+        "category": "plate-round",
+        "catalogue": "catalogue-10_21_05",
+        "detail": [
+          "plate-round",
+          "plate-square",
+          "plate-compartment",
+          "plate-textured"
+        ],
+        "thumbnail": "plate-round",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "meal-trays",
+      "name": "Meal & Packing Trays",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_53",
+        "groups": [
+          "meal-round",
+          "meal-divided",
+          "meal-lidded"
+        ],
+        "hero": "meal-round",
+        "category": "meal-round",
+        "catalogue": "catalogue-10_20_53",
+        "detail": [
+          "meal-round",
+          "meal-divided",
+          "meal-lidded"
+        ],
+        "thumbnail": "meal-round",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "utility-cups",
+      "name": "Multipurpose & Utility Cups",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_43",
+        "groups": [
+          "utility-serving-cups"
+        ],
+        "hero": "utility-serving-cups",
+        "category": "utility-serving-cups",
+        "catalogue": "catalogue-10_20_43",
+        "detail": [
+          "utility-serving-cups"
+        ],
+        "thumbnail": "utility-serving-cups",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "aluminium-foil",
+      "name": "Aluminium Foil Packaging",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_38",
+        "groups": [
+          "foil-rectangular",
+          "foil-round",
+          "foil-divided"
+        ],
+        "hero": "foil-rectangular",
+        "category": "foil-rectangular",
+        "catalogue": "catalogue-10_20_38",
+        "detail": [
+          "foil-rectangular",
+          "foil-round",
+          "foil-divided"
+        ],
+        "thumbnail": "foil-rectangular",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "sweets-packaging",
+      "name": "Sweets & Mithai Packaging",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_31",
+        "groups": [
+          "sweet-window",
+          "sweet-gift",
+          "sweet-divided"
+        ],
+        "hero": "sweet-window",
+        "category": "sweet-window",
+        "catalogue": "catalogue-10_20_31",
+        "detail": [
+          "sweet-window",
+          "sweet-gift",
+          "sweet-divided"
+        ],
+        "thumbnail": "sweet-window",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "bakery-packaging",
+      "name": "Bakery Packaging",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_15",
+        "groups": [
+          "bakery-boxes",
+          "bakery-domes",
+          "bakery-slices"
+        ],
+        "hero": "bakery-boxes",
+        "category": "bakery-boxes",
+        "catalogue": "catalogue-10_20_15",
+        "detail": [
+          "bakery-boxes",
+          "bakery-domes",
+          "bakery-slices"
+        ],
+        "thumbnail": "bakery-boxes",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "areca",
+      "name": "Areca / Supari Leaf Tableware",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_20_11",
+        "groups": [
+          "areca-round",
+          "areca-square",
+          "areca-bowls"
+        ],
+        "hero": "areca-round",
+        "category": "areca-round",
+        "catalogue": "catalogue-10_20_11",
+        "detail": [
+          "areca-round",
+          "areca-square",
+          "areca-bowls"
+        ],
+        "thumbnail": "areca-round",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "bagasse",
+      "name": "Bagasse / Sugarcane Tableware",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_19_33",
+        "groups": [
+          "bagasse-plates",
+          "bagasse-hinged",
+          "bagasse-trays"
+        ],
+        "hero": "bagasse-plates",
+        "category": "bagasse-plates",
+        "catalogue": "catalogue-10_19_33",
+        "detail": [
+          "bagasse-plates",
+          "bagasse-hinged",
+          "bagasse-trays"
+        ],
+        "thumbnail": "bagasse-plates",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "kraft-packaging",
+      "name": "Paper / Kraft Packaging",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_19_08",
+        "groups": [
+          "kraft-burger",
+          "kraft-bowls",
+          "kraft-meal"
+        ],
+        "hero": "kraft-burger",
+        "category": "kraft-burger",
+        "catalogue": "catalogue-10_19_08",
+        "detail": [
+          "kraft-burger",
+          "kraft-bowls",
+          "kraft-meal"
+        ],
+        "thumbnail": "kraft-burger",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "paper-bags",
+      "name": "Paper Bags & Carry Packaging",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_19_04",
+        "groups": [
+          "bag-handled",
+          "bag-flat",
+          "bag-diecut"
+        ],
+        "hero": "bag-handled",
+        "category": "bag-handled",
+        "catalogue": "catalogue-10_19_04",
+        "detail": [
+          "bag-handled",
+          "bag-flat",
+          "bag-diecut"
+        ],
+        "thumbnail": "bag-handled",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "tissues",
+      "name": "Tissues & Napkins",
+      "status": "listed",
+      "verification": {
+        "availability": "verified",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_19_00",
+        "groups": [
+          "tissue-napkins",
+          "tissue-boxes",
+          "tissue-dinner"
+        ],
+        "hero": "tissue-napkins",
+        "category": "tissue-napkins",
+        "catalogue": "catalogue-10_19_00",
+        "detail": [
+          "tissue-napkins",
+          "tissue-boxes",
+          "tissue-dinner"
+        ],
+        "thumbnail": "tissue-napkins",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "wooden-bamboo",
+      "name": "Wooden / Bamboo Accessories",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_18_54",
+        "groups": [
+          "wood-spoons",
+          "wood-forks",
+          "bamboo-chopsticks"
+        ],
+        "hero": "wood-spoons",
+        "category": "wood-spoons",
+        "catalogue": "catalogue-10_18_54",
+        "detail": [
+          "wood-spoons",
+          "wood-forks",
+          "bamboo-chopsticks"
+        ],
+        "thumbnail": "wood-spoons",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "lids-accessories",
+      "name": "Lids & Accessories",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_18_49",
+        "groups": [
+          "lid-cups",
+          "lid-flat-dome",
+          "lid-containers"
+        ],
+        "hero": "lid-cups",
+        "category": "lid-cups",
+        "catalogue": "catalogue-10_18_49",
+        "detail": [
+          "lid-cups",
+          "lid-flat-dome",
+          "lid-containers"
+        ],
+        "thumbnail": "lid-cups",
+        "status": "unverified"
+      }
+    },
+    {
+      "slug": "catering-range",
+      "name": "Catering & Function Range",
+      "status": "pending",
+      "verification": {
+        "availability": "pending",
+        "specifications": "pending",
+        "manufacturing": "pending"
+      },
+      "media": {
+        "source": "10_18_40",
+        "groups": [
+          "catering-round",
+          "catering-square",
+          "catering-set"
+        ],
+        "hero": "catering-round",
+        "category": "catering-round",
+        "catalogue": "catalogue-10_18_40",
+        "detail": [
+          "catering-round",
+          "catering-square",
+          "catering-set"
+        ],
+        "thumbnail": "catering-round",
+        "status": "unverified"
+      }
+    }
+  ],
+  "routes": [
+    "/",
+    "/products",
+    "/solutions",
+    "/industries",
+    "/about",
+    "/manufacturing",
+    "/custom-solutions",
+    "/quality",
+    "/sustainability",
+    "/export",
+    "/resources",
+    "/contact",
+    "/rfq",
+    "/privacy-policy",
+    "/terms-and-conditions",
+    "/disclaimer",
+    "/products/cups-glasses",
+    "/products/plates",
+    "/products/bowls",
+    "/products/cutlery",
+    "/products/paper-products",
+    "/products/thermoformed-products",
+    "/products/custom-products",
+    "/products/trays",
+    "/products/food-containers",
+    "/products/clamshell-containers",
+    "/products/portion-sauce-cups",
+    "/products/dessert-ice-cream-cups",
+    "/products/takeaway-packaging",
+    "/products/specialty-products",
+    "/products/plates-trays",
+    "/products/meal-trays",
+    "/products/utility-cups",
+    "/products/aluminium-foil",
+    "/products/sweets-packaging",
+    "/products/bakery-packaging",
+    "/products/areca",
+    "/products/bagasse",
+    "/products/kraft-packaging",
+    "/products/paper-bags",
+    "/products/tissues",
+    "/products/wooden-bamboo",
+    "/products/lids-accessories",
+    "/products/catering-range",
+    "/products/paper-cups",
+    "/products/printed-paper-cups",
+    "/products/100ml-tea-cup",
+    "/products/disposable-juice-glass",
+    "/products/water-plastic-glass",
+    "/products/plastic-cups",
+    "/products/paper-bowls",
+    "/products/plastic-bowls",
+    "/products/paper-plates",
+    "/products/disposable-spoons-forks",
+    "/products/paper-blanks-bottoms",
+    "/products/table-tissues",
+    "/products/trays-enquiry",
+    "/products/food-containers-enquiry",
+    "/products/clamshell-containers-enquiry",
+    "/products/portion-sauce-cups-enquiry",
+    "/products/dessert-ice-cream-cups-enquiry",
+    "/products/takeaway-packaging-enquiry",
+    "/products/specialty-products-enquiry",
+    "/products/meal-trays-enquiry",
+    "/products/utility-cups-enquiry",
+    "/products/aluminium-foil-enquiry",
+    "/products/sweets-packaging-enquiry",
+    "/products/bakery-packaging-enquiry",
+    "/products/areca-enquiry",
+    "/products/bagasse-enquiry",
+    "/products/kraft-packaging-enquiry",
+    "/products/paper-bags-enquiry",
+    "/products/wooden-bamboo-enquiry",
+    "/products/lids-accessories-enquiry",
+    "/products/catering-range-enquiry",
+    "/products/cup-textured",
+    "/products/plate-square",
+    "/products/plate-compartment",
+    "/products/plate-textured",
+    "/products/tray-serving",
+    "/products/tray-square",
+    "/products/tray-compartment",
+    "/products/meal-round",
+    "/products/meal-divided",
+    "/products/meal-lidded",
+    "/products/container-rectangular",
+    "/products/container-round",
+    "/products/container-clear",
+    "/products/clamshell-rectangular",
+    "/products/clamshell-square",
+    "/products/portion-round",
+    "/products/portion-square",
+    "/products/sauce-lidded",
+    "/products/dessert-clear",
+    "/products/dessert-opaque",
+    "/products/ice-cream-printed",
+    "/products/utility-serving-cups",
+    "/products/foil-rectangular",
+    "/products/foil-round",
+    "/products/foil-divided",
+    "/products/takeaway-boxes",
+    "/products/takeaway-snack",
+    "/products/sweet-window",
+    "/products/sweet-gift",
+    "/products/sweet-divided",
+    "/products/bakery-boxes",
+    "/products/bakery-domes",
+    "/products/bakery-slices",
+    "/products/areca-round",
+    "/products/areca-square",
+    "/products/areca-bowls",
+    "/products/bagasse-plates",
+    "/products/bagasse-hinged",
+    "/products/bagasse-trays",
+    "/products/kraft-burger",
+    "/products/kraft-bowls",
+    "/products/kraft-meal",
+    "/products/bag-handled",
+    "/products/bag-flat",
+    "/products/bag-diecut",
+    "/products/tissue-boxes",
+    "/products/tissue-dinner",
+    "/products/wood-spoons",
+    "/products/wood-forks",
+    "/products/bamboo-chopsticks",
+    "/products/lid-cups",
+    "/products/lid-flat-dome",
+    "/products/lid-containers",
+    "/products/catering-round",
+    "/products/catering-square",
+    "/products/catering-set",
+    "/industries/restaurants-qsr",
+    "/industries/hotels",
+    "/industries/catering",
+    "/industries/events",
+    "/industries/institutional-buyers",
+    "/industries/corporate-buyers",
+    "/industries/retail",
+    "/industries/wholesalers-distributors",
+    "/industries/healthcare",
+    "/industries/travel",
+    "/industries/private-label-enquiries",
+    "/industries/export-buyers",
+    "/solutions/beverage-service",
+    "/solutions/catering-events",
+    "/solutions/institutional-foodservice",
+    "/solutions/custom-branding",
+    "/solutions/takeaway-delivery",
+    "/solutions/bakery",
+    "/solutions/mithai-halwai",
+    "/solutions/restaurants-qsr",
+    "/solutions/distributors"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "runtimeJavaScriptBytes": 13751,
+  "cssBytes": 41728,
+  "catalogueWebpBytes": 13823284,
+  "nativeDerivedWebpBytes": 778464,
+  "originalPngBytes": 68556946,
+  "externalFonts": 0,
+  "runtimeDependencies": 0,
+  "notes": "Full catalogues load only when requested. Static HTML, system fonts, responsive WebP, native-resolution crops. Local QA is not a field Core Web Vitals score."
+}

@@ -1,0 +1,171 @@
+{
+  "reports": [
+    {
+      "route": "/",
+      "contrastFailures": []
+    },
+    {
+      "route": "/products",
+      "contrastFailures": []
+    },
+    {
+      "route": "/products/paper-cups",
+      "contrastFailures": []
+    },
+    {
+      "route": "/manufacturing",
+      "contrastFailures": []
+    },
+    {
+      "route": "/contact",
+      "contrastFailures": []
+    },
+    {
+      "route": "/rfq",
+      "contrastFailures": []
+    },
+    {
+      "route": "/export",
+      "contrastFailures": []
+    },
+    {
+      "route": "/products/plates",
+      "contrastFailures": []
+    },
+    {
+      "route": "/products/bagasse",
+      "contrastFailures": []
+    }
+  ],
+  "skipLink": "passed",
+  "reducedMotion": "passed",
+  "localTimings": {
+    "navigation": {
+      "name": "http://localhost:3001/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 41.399999998509884,
+      "navigationId": 1245,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 2.399999998509884,
+      "domainLookupStart": 2.399999998509884,
+      "domainLookupEnd": 2.399999998509884,
+      "connectStart": 2.399999998509884,
+      "secureConnectionStart": 0,
+      "connectEnd": 2.399999998509884,
+      "requestStart": 3.600000001490116,
+      "responseStart": 4.699999995529652,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 4.699999995529652,
+      "responseEnd": 17,
+      "transferSize": 64365,
+      "encodedBodySize": 64065,
+      "decodedBodySize": 64065,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 12.5,
+      "unloadEventEnd": 12.5,
+      "domInteractive": 28.600000001490116,
+      "domContentLoadedEventStart": 30.399999998509884,
+      "domContentLoadedEventEnd": 30.5,
+      "domComplete": 41.399999998509884,
+      "loadEventStart": 41.399999998509884,
+      "loadEventEnd": 41.399999998509884,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "name": "http://localhost:3001/src/styles.css",
+        "transferSize": 42028,
+        "encodedBodySize": 41728
+      },
+      {
+        "name": "http://localhost:3001/src/client.js",
+        "transferSize": 13451,
+        "encodedBodySize": 13151
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/logo-249.webp",
+        "transferSize": 3700,
+        "encodedBodySize": 3400
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/hero-1101.webp",
+        "transferSize": 59428,
+        "encodedBodySize": 59128
+      },
+      {
+        "name": "http://localhost:3001/assets/products/cups-glasses/cup-paper-485.webp",
+        "transferSize": 18470,
+        "encodedBodySize": 18170
+      },
+      {
+        "name": "http://localhost:3001/assets/products/plates/plate-round-492.webp",
+        "transferSize": 8374,
+        "encodedBodySize": 8074
+      },
+      {
+        "name": "http://localhost:3001/assets/products/food-containers/container-rectangular-519.webp",
+        "transferSize": 10692,
+        "encodedBodySize": 10392
+      },
+      {
+        "name": "http://localhost:3001/assets/products/takeaway-packaging/takeaway-boxes-375.webp",
+        "transferSize": 10018,
+        "encodedBodySize": 9718
+      },
+      {
+        "name": "http://localhost:3001/assets/products/bagasse/bagasse-plates-492.webp",
+        "transferSize": 11428,
+        "encodedBodySize": 11128
+      },
+      {
+        "name": "http://localhost:3001/assets/products/kraft-packaging/kraft-burger-399.webp",
+        "transferSize": 12822,
+        "encodedBodySize": 12522
+      },
+      {
+        "name": "http://localhost:3001/assets/products/aluminium-foil/foil-rectangular-574.webp",
+        "transferSize": 17726,
+        "encodedBodySize": 17426
+      },
+      {
+        "name": "http://localhost:3001/assets/products/catering-range/catering-round-393.webp",
+        "transferSize": 14450,
+        "encodedBodySize": 14150
+      },
+      {
+        "name": "http://localhost:3001/assets/favicon.png",
+        "transferSize": 6123,
+        "encodedBodySize": 5823
+      },
+      {
+        "name": "http://localhost:3001/assets/favicon.png",
+        "transferSize": 6123,
+        "encodedBodySize": 5823
+      }
+    ],
+    "fonts": 0
+  },
+  "notes": "Contrast check uses computed solid backgrounds; this is a focused accessibility review, not a WCAG certification or field Core Web Vitals measurement."
+}

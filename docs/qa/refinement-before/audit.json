@@ -3,152 +3,162 @@
     {
       "route": "/",
       "status": 200,
-      "title": "Disposable Products Manufacturer in Alwar, India | S. K. Thermoformers",
+      "title": "Foodservice Disposables & Paper Cup Manufacturing | S. K. Thermoformers",
       "h1": [
-        "Everyday essentials.Business-scalethinking."
+        "Disposable Foodservice Solutions.Built for Business."
       ],
-      "description": "Explore disposable products manufacturer in alwar, india with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore SKP paper cups, plastic beverage formats, tableware and custom paper cup enquiries with M/s S. K. Thermoformers, Khairthal, Rajasthan.",
       "file": "docs/qa/refinement-before/0.png"
     },
     {
       "route": "/products",
       "status": 200,
-      "title": "products | S. K. Thermoformers",
+      "title": "SKP Product Catalogue | S. K. Thermoformers",
       "h1": [
-        "Find your nextservice essential."
+        "Explore the SKP range."
       ],
-      "description": "Explore products with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore listed SKP foodservice products by category, material and application. Request current specifications and a bulk supply quote.",
       "file": "docs/qa/refinement-before/1.png"
     },
     {
-      "route": "/about",
+      "route": "/solutions",
       "status": 200,
-      "title": "Made for the business of serving. | S. K. Thermoformers",
+      "title": "Foodservice Application Solutions | S. K. Thermoformers",
       "h1": [
-        "Made for the business of serving."
+        "Foodservice starts with the application."
       ],
-      "description": "Based in Khairthal, Alwar, S. K. Thermoformers manufactures paper cups and supplies disposable products for food and beverage service.",
+      "description": "Find SKP product families for beverage service, catering, institutional foodservice and custom paper cup branding enquiries.",
       "file": "docs/qa/refinement-before/2.png"
     },
     {
       "route": "/industries",
       "status": 200,
-      "title": "industries | S. K. Thermoformers",
+      "title": "Markets We Serve | S. K. Thermoformers",
       "h1": [
-        "Built around theway you serve."
+        "Markets We Serve"
       ],
-      "description": "Explore industries with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore foodservice buying requirements for restaurants, hospitality, catering, institutions and distributors with SK Thermoformers.",
       "file": "docs/qa/refinement-before/3.png"
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "title": "A manufacturing base. A broader foodservice range. | S. K. Thermoformers",
+      "h1": [
+        "A manufacturing base. A broader foodservice range."
+      ],
+      "description": "M/s S. K. Thermoformers manufactures paper cups in Khairthal, Rajasthan, and supplies a wider range of disposable foodservice products.",
+      "file": "docs/qa/refinement-before/4.png"
     },
     {
       "route": "/manufacturing",
       "status": 200,
-      "title": "From material to finished product. | S. K. Thermoformers",
+      "title": "Manufacturing starts with the specification. | S. K. Thermoformers",
       "h1": [
-        "From material to finished product."
+        "Manufacturing starts with the specification."
       ],
-      "description": "Paper cup manufacturing in Khairthal, Rajasthan. Explore the production conversation behind your next bulk requirement.",
-      "file": "docs/qa/refinement-before/4.png"
+      "description": "Paper cup manufacturing in Khairthal, Rajasthan, supported by a broader disposable product supply conversation.",
+      "file": "docs/qa/refinement-before/5.png"
     },
     {
       "route": "/custom-solutions",
       "status": 200,
-      "title": "Your brief. A better-defined product. | S. K. Thermoformers",
+      "title": "Made around your requirement. | S. K. Thermoformers",
       "h1": [
-        "Your brief. A better-defined product."
+        "Made around your requirement."
       ],
-      "description": "Discuss custom designs, sizes and packaging for your paper cup requirement. Every project starts with an agreed specification.",
-      "file": "docs/qa/refinement-before/5.png"
+      "description": "Discuss paper cup designs, sizes and packaging. Start with the application, specification, artwork and quantity.",
+      "file": "docs/qa/refinement-before/6.png"
     },
     {
       "route": "/quality",
       "status": 200,
-      "title": "Quality starts with a clear specification. | S. K. Thermoformers",
+      "title": "Define quality before the order. | S. K. Thermoformers",
       "h1": [
-        "Quality starts with a clear specification."
+        "Define quality before the order."
       ],
-      "description": "Make product suitability part of the purchasing conversation. Request the documentation relevant to your chosen product and application.",
-      "file": "docs/qa/refinement-before/6.png"
+      "description": "Use a clear specification and application-specific documentation to evaluate your chosen product.",
+      "file": "docs/qa/refinement-before/7.png"
     },
     {
       "route": "/sustainability",
       "status": 200,
-      "title": "Better choices begin with better information. | S. K. Thermoformers",
+      "title": "Choose materials with the facts in view. | S. K. Thermoformers",
       "h1": [
-        "Better choices begin with better information."
+        "Choose materials with the facts in view."
       ],
-      "description": "Material, application and local disposal infrastructure all matter. Ask the right questions before choosing a disposable product.",
-      "file": "docs/qa/refinement-before/7.png"
+      "description": "Paper and plastic options require product-specific information. Composition, use and local recovery infrastructure all affect the decision.",
+      "file": "docs/qa/refinement-before/8.png"
     },
     {
       "route": "/export",
       "status": 200,
-      "title": "An Indian manufacturing connection. A global conversation. | S. K. Thermoformers",
+      "title": "Domestic requirements. International enquiries. | S. K. Thermoformers",
       "h1": [
-        "An Indian manufacturing connection. A global conversation."
+        "Domestic requirements. International enquiries."
       ],
-      "description": "Source paper cups and disposable products from Khairthal, Rajasthan. Send your destination, quantities and specification for an international enquiry.",
-      "file": "docs/qa/refinement-before/8.png"
+      "description": "For domestic bulk requirements and export enquiries, talk to our team in Khairthal, Rajasthan.",
+      "file": "docs/qa/refinement-before/9.png"
     },
     {
       "route": "/resources",
       "status": 200,
-      "title": "A clearer brief. A smoother buying process. | S. K. Thermoformers",
+      "title": "Prepare a useful sourcing brief. | S. K. Thermoformers",
       "h1": [
-        "A clearer brief. A smoother buying process."
+        "Prepare a useful sourcing brief."
       ],
-      "description": "Practical tools for distributors, procurement teams and foodservice buyers.",
-      "file": "docs/qa/refinement-before/9.png"
+      "description": "A practical checklist for procurement teams, distributors and foodservice buyers.",
+      "file": "docs/qa/refinement-before/10.png"
     },
     {
       "route": "/contact",
       "status": 200,
-      "title": "contact | S. K. Thermoformers",
+      "title": "Contact SK Thermoformers | S. K. Thermoformers",
       "h1": [
-        "A direct connectionto your next solution."
+        "Let us discuss your requirement."
       ],
-      "description": "Explore contact with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/10.png"
+      "description": "Contact M/s S. K. Thermoformers in Khairthal, Rajasthan, about bulk foodservice products, custom paper cups and export enquiries.",
+      "file": "docs/qa/refinement-before/11.png"
     },
     {
       "route": "/rfq",
       "status": 200,
-      "title": "rfq | S. K. Thermoformers",
+      "title": "Request a Quote | S. K. Thermoformers",
       "h1": [
-        "Make your requirement clear."
+        "Start with your requirement."
       ],
-      "description": "Explore rfq with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/11.png"
+      "description": "Share your product, application, quantity and destination with SK Thermoformers. Prepare a business enquiry for specifications and availability.",
+      "file": "docs/qa/refinement-before/12.png"
     },
     {
       "route": "/privacy-policy",
       "status": 200,
-      "title": "privacy policy | S. K. Thermoformers",
+      "title": "Privacy notice | S. K. Thermoformers",
       "h1": [
-        "Privacy policy"
+        "Privacy notice"
       ],
-      "description": "Explore privacy policy with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/12.png"
+      "description": "How this preview handles your enquiry information.",
+      "file": "docs/qa/refinement-before/13.png"
     },
     {
       "route": "/terms-and-conditions",
       "status": 200,
-      "title": "terms and conditions | S. K. Thermoformers",
+      "title": "Enquiry and ordering information | S. K. Thermoformers",
       "h1": [
-        "Terms & conditions"
+        "Enquiry and ordering information"
       ],
-      "description": "Explore terms and conditions with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/13.png"
+      "description": "Website information supports a business enquiry; it is not an order acceptance.",
+      "file": "docs/qa/refinement-before/14.png"
     },
     {
       "route": "/disclaimer",
       "status": 200,
-      "title": "disclaimer | S. K. Thermoformers",
+      "title": "Product reference disclaimer | S. K. Thermoformers",
       "h1": [
-        "Disclaimer"
+        "Product reference disclaimer"
       ],
-      "description": "Explore disclaimer with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/14.png"
+      "description": "Understand the difference between a range reference and a confirmed product specification.",
+      "file": "docs/qa/refinement-before/15.png"
     },
     {
       "route": "/products/cups-glasses",
@@ -157,8 +167,8 @@
       "h1": [
         "Cups & Glasses"
       ],
-      "description": "Explore cups & glasses with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/15.png"
+      "description": "Explore cups & glasses with SKP. Paper cups and plastic beverage formats. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/16.png"
     },
     {
       "route": "/products/plates",
@@ -167,17 +177,7 @@
       "h1": [
         "Plates"
       ],
-      "description": "Explore plates with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/16.png"
-    },
-    {
-      "route": "/products/trays",
-      "status": 200,
-      "title": "Trays | S. K. Thermoformers",
-      "h1": [
-        "Trays"
-      ],
-      "description": "Explore trays with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore plates with SKP. Paper tableware for catering and meal service. Confirm current product availability and specifications with the team.",
       "file": "docs/qa/refinement-before/17.png"
     },
     {
@@ -187,7 +187,7 @@
       "h1": [
         "Bowls"
       ],
-      "description": "Explore bowls with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore bowls with SKP. Paper and plastic bowls for foodservice enquiries. Confirm current product availability and specifications with the team.",
       "file": "docs/qa/refinement-before/18.png"
     },
     {
@@ -197,68 +197,8 @@
       "h1": [
         "Cutlery"
       ],
-      "description": "Explore cutlery with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore cutlery with SKP. Disposable spoons and forks for your service format. Confirm current product availability and specifications with the team.",
       "file": "docs/qa/refinement-before/19.png"
-    },
-    {
-      "route": "/products/food-containers",
-      "status": 200,
-      "title": "Food Containers | S. K. Thermoformers",
-      "h1": [
-        "Food Containers"
-      ],
-      "description": "Explore food containers with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/20.png"
-    },
-    {
-      "route": "/products/clamshell-containers",
-      "status": 200,
-      "title": "Clamshell Containers | S. K. Thermoformers",
-      "h1": [
-        "Clamshell Containers"
-      ],
-      "description": "Explore clamshell containers with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/21.png"
-    },
-    {
-      "route": "/products/portion-sauce-cups",
-      "status": 200,
-      "title": "Portion & Sauce Cups | S. K. Thermoformers",
-      "h1": [
-        "Portion & Sauce Cups"
-      ],
-      "description": "Explore portion & sauce cups with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/22.png"
-    },
-    {
-      "route": "/products/dessert-ice-cream-cups",
-      "status": 200,
-      "title": "Dessert & Ice Cream Cups | S. K. Thermoformers",
-      "h1": [
-        "Dessert & Ice Cream Cups"
-      ],
-      "description": "Explore dessert & ice cream cups with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/23.png"
-    },
-    {
-      "route": "/products/takeaway-packaging",
-      "status": 200,
-      "title": "Takeaway Packaging | S. K. Thermoformers",
-      "h1": [
-        "Takeaway Packaging"
-      ],
-      "description": "Explore takeaway packaging with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/24.png"
-    },
-    {
-      "route": "/products/thermoformed-products",
-      "status": 200,
-      "title": "Thermoformed Products | S. K. Thermoformers",
-      "h1": [
-        "Thermoformed Products"
-      ],
-      "description": "Explore thermoformed products with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/25.png"
     },
     {
       "route": "/products/paper-products",
@@ -267,8 +207,18 @@
       "h1": [
         "Paper Products"
       ],
-      "description": "Explore paper products with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/26.png"
+      "description": "Explore paper products with SKP. Tissues, rolls and paper cup production inputs. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/20.png"
+    },
+    {
+      "route": "/products/thermoformed-products",
+      "status": 200,
+      "title": "Thermoformed Products | S. K. Thermoformers",
+      "h1": [
+        "Thermoformed Products"
+      ],
+      "description": "Explore thermoformed products with SKP. Plastic disposable products; production scope on enquiry. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/21.png"
     },
     {
       "route": "/products/custom-products",
@@ -277,8 +227,68 @@
       "h1": [
         "Custom Printed Products"
       ],
-      "description": "Explore custom printed products with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Explore custom printed products with SKP. Paper cup designs developed around your artwork brief. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/22.png"
+    },
+    {
+      "route": "/products/trays",
+      "status": 200,
+      "title": "Trays | S. K. Thermoformers",
+      "h1": [
+        "Trays"
+      ],
+      "description": "Explore trays with SKP. Discuss serving and portioning requirements. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/23.png"
+    },
+    {
+      "route": "/products/food-containers",
+      "status": 200,
+      "title": "Food Containers | S. K. Thermoformers",
+      "h1": [
+        "Food Containers"
+      ],
+      "description": "Explore food containers with SKP. Define the container and lid format you need. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/24.png"
+    },
+    {
+      "route": "/products/clamshell-containers",
+      "status": 200,
+      "title": "Clamshell Containers | S. K. Thermoformers",
+      "h1": [
+        "Clamshell Containers"
+      ],
+      "description": "Explore clamshell containers with SKP. Discuss hinged packaging requirements. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/25.png"
+    },
+    {
+      "route": "/products/portion-sauce-cups",
+      "status": 200,
+      "title": "Portion & Sauce Cups | S. K. Thermoformers",
+      "h1": [
+        "Portion & Sauce Cups"
+      ],
+      "description": "Explore portion & sauce cups with SKP. Share your portioning and accompaniment brief. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/26.png"
+    },
+    {
+      "route": "/products/dessert-ice-cream-cups",
+      "status": 200,
+      "title": "Dessert & Ice Cream Cups | S. K. Thermoformers",
+      "h1": [
+        "Dessert & Ice Cream Cups"
+      ],
+      "description": "Explore dessert & ice cream cups with SKP. Ask about formats for dessert service. Confirm current product availability and specifications with the team.",
       "file": "docs/qa/refinement-before/27.png"
+    },
+    {
+      "route": "/products/takeaway-packaging",
+      "status": 200,
+      "title": "Takeaway Packaging | S. K. Thermoformers",
+      "h1": [
+        "Takeaway Packaging"
+      ],
+      "description": "Explore takeaway packaging with SKP. Discuss packaging for your takeaway operation. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/28.png"
     },
     {
       "route": "/products/specialty-products",
@@ -287,8 +297,8 @@
       "h1": [
         "Specialty Products"
       ],
-      "description": "Explore specialty products with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/28.png"
+      "description": "Explore specialty products with SKP. Tell us about a specific sourcing requirement. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/29.png"
     },
     {
       "route": "/products/plates-trays",
@@ -297,8 +307,8 @@
       "h1": [
         "Plates & Trays"
       ],
-      "description": "Explore plates & trays with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/29.png"
+      "description": "Explore plates & trays with SKP. Tableware and serving enquiries. Confirm current product availability and specifications with the team.",
+      "file": "docs/qa/refinement-before/30.png"
     },
     {
       "route": "/products/paper-cups",
@@ -307,8 +317,8 @@
       "h1": [
         "Plain paper cups"
       ],
-      "description": "Discuss plain paper cups for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/30.png"
+      "description": "Unprinted paper cup requirements for beverage service. Share your target capacity and intended use.",
+      "file": "docs/qa/refinement-before/31.png"
     },
     {
       "route": "/products/printed-paper-cups",
@@ -317,8 +327,8 @@
       "h1": [
         "Printed paper cups"
       ],
-      "description": "Discuss printed paper cups for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/31.png"
+      "description": "Paper cups with custom design enquiries. Supply your artwork, colours and quantity for a printing discussion.",
+      "file": "docs/qa/refinement-before/32.png"
     },
     {
       "route": "/products/100ml-tea-cup",
@@ -327,8 +337,8 @@
       "h1": [
         "100 ml tea cup"
       ],
-      "description": "Discuss 100 ml tea cup for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/32.png"
+      "description": "A 100 ml tea cup listed in the historical SK portfolio. Confirm the current dimensions, construction and packing with your quote.",
+      "file": "docs/qa/refinement-before/33.png"
     },
     {
       "route": "/products/disposable-juice-glass",
@@ -337,8 +347,8 @@
       "h1": [
         "Disposable juice glass"
       ],
-      "description": "Discuss disposable juice glass for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/33.png"
+      "description": "Disposable glass requirements for beverage service. Confirm material, capacity and suitability for the drink you serve.",
+      "file": "docs/qa/refinement-before/34.png"
     },
     {
       "route": "/products/water-plastic-glass",
@@ -347,8 +357,8 @@
       "h1": [
         "Water plastic glass"
       ],
-      "description": "Discuss water plastic glass for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/34.png"
+      "description": "Plastic beverage glasses from the listed disposable range. Ask for the current format and material specification.",
+      "file": "docs/qa/refinement-before/35.png"
     },
     {
       "route": "/products/plastic-cups",
@@ -357,8 +367,8 @@
       "h1": [
         "Plastic disposable cups"
       ],
-      "description": "Discuss plastic disposable cups for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/35.png"
+      "description": "Plastic cup requirements for foodservice and distribution. Define the capacity, appearance and intended beverage application.",
+      "file": "docs/qa/refinement-before/36.png"
     },
     {
       "route": "/products/paper-bowls",
@@ -367,8 +377,8 @@
       "h1": [
         "Paper bowls"
       ],
-      "description": "Discuss paper bowls for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/36.png"
+      "description": "Paper bowl requirements for foodservice procurement. Discuss capacity, coating and intended conditions of use.",
+      "file": "docs/qa/refinement-before/37.png"
     },
     {
       "route": "/products/plastic-bowls",
@@ -377,8 +387,8 @@
       "h1": [
         "Plastic bowls"
       ],
-      "description": "Discuss plastic bowls for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/37.png"
+      "description": "Plastic bowl requirements for meal service. Confirm polymer grade, dimensions and application before ordering.",
+      "file": "docs/qa/refinement-before/38.png"
     },
     {
       "route": "/products/paper-plates",
@@ -387,8 +397,8 @@
       "h1": [
         "Paper plates"
       ],
-      "description": "Discuss paper plates for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/38.png"
+      "description": "Paper plate requirements for catering and organised foodservice. Share the meal format, dimensions and quantity.",
+      "file": "docs/qa/refinement-before/39.png"
     },
     {
       "route": "/products/disposable-spoons-forks",
@@ -397,8 +407,8 @@
       "h1": [
         "Disposable spoons & forks"
       ],
-      "description": "Discuss disposable spoons & forks for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/39.png"
+      "description": "Disposable spoons and forks from the listed service range. Confirm material, finish and packing for your requirement.",
+      "file": "docs/qa/refinement-before/40.png"
     },
     {
       "route": "/products/paper-blanks-bottoms",
@@ -407,8 +417,8 @@
       "h1": [
         "Paper blanks & bottoms"
       ],
-      "description": "Discuss paper blanks & bottoms for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/40.png"
+      "description": "Paper blanks and bottoms for paper cup production enquiries. Provide the drawing, grade and quantity required.",
+      "file": "docs/qa/refinement-before/41.png"
     },
     {
       "route": "/products/table-tissues",
@@ -417,8 +427,8 @@
       "h1": [
         "Table tissues & tissue rolls"
       ],
-      "description": "Discuss table tissues & tissue rolls for your business requirement. Confirm the specification, quantity and delivery destination with our team before ordering.",
-      "file": "docs/qa/refinement-before/41.png"
+      "description": "Table tissues and tissue rolls for service operations. Discuss format, dimensions and packing quantities.",
+      "file": "docs/qa/refinement-before/42.png"
     },
     {
       "route": "/products/trays-enquiry",
@@ -427,8 +437,8 @@
       "h1": [
         "Trays enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/42.png"
+      "description": "Discuss your trays requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/43.png"
     },
     {
       "route": "/products/food-containers-enquiry",
@@ -437,8 +447,8 @@
       "h1": [
         "Food Containers enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/43.png"
+      "description": "Discuss your food containers requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/44.png"
     },
     {
       "route": "/products/clamshell-containers-enquiry",
@@ -447,8 +457,8 @@
       "h1": [
         "Clamshell Containers enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/44.png"
+      "description": "Discuss your clamshell containers requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/45.png"
     },
     {
       "route": "/products/portion-sauce-cups-enquiry",
@@ -457,8 +467,8 @@
       "h1": [
         "Portion & Sauce Cups enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/45.png"
+      "description": "Discuss your portion & sauce cups requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/46.png"
     },
     {
       "route": "/products/dessert-ice-cream-cups-enquiry",
@@ -467,8 +477,8 @@
       "h1": [
         "Dessert & Ice Cream Cups enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/46.png"
+      "description": "Discuss your dessert & ice cream cups requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/47.png"
     },
     {
       "route": "/products/takeaway-packaging-enquiry",
@@ -477,8 +487,8 @@
       "h1": [
         "Takeaway Packaging enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/47.png"
+      "description": "Discuss your takeaway packaging requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/48.png"
     },
     {
       "route": "/products/specialty-products-enquiry",
@@ -487,138 +497,178 @@
       "h1": [
         "Specialty Products enquiry"
       ],
-      "description": "Share your intended application, format and quantity. Product availability and sourcing feasibility require confirmation from our team.",
-      "file": "docs/qa/refinement-before/48.png"
+      "description": "Discuss your specialty products requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "file": "docs/qa/refinement-before/49.png"
     },
     {
       "route": "/industries/restaurants-qsr",
       "status": 200,
-      "title": "industries/restaurants qsr | S. K. Thermoformers",
+      "title": "Restaurants & QSR - Market Enquiries | S. K. Thermoformers",
       "h1": [
         "Restaurants & QSR"
       ],
-      "description": "Explore industries/restaurants qsr with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/49.png"
+      "description": "Compare your service formats, expected order volumes and intended food or beverage use. Confirm product suitability and packing before procurement.",
+      "file": "docs/qa/refinement-before/50.png"
     },
     {
       "route": "/industries/hotels",
       "status": 200,
-      "title": "industries/hotels | S. K. Thermoformers",
+      "title": "Hotels - Market Enquiries | S. K. Thermoformers",
       "h1": [
         "Hotels"
       ],
-      "description": "Explore industries/hotels with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/50.png"
+      "description": "Bring together beverage, meal service and tissue requirements across your outlets. Share your packing and delivery preferences.",
+      "file": "docs/qa/refinement-before/51.png"
     },
     {
       "route": "/industries/catering",
       "status": 200,
-      "title": "industries/catering | S. K. Thermoformers",
+      "title": "Catering - Market Enquiries | S. K. Thermoformers",
       "h1": [
         "Catering"
       ],
-      "description": "Explore industries/catering with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/51.png"
+      "description": "Share your menu, portioning needs and event quantities. Compare plates, bowls and cutlery against your intended service.",
+      "file": "docs/qa/refinement-before/52.png"
     },
     {
       "route": "/industries/events",
       "status": 200,
-      "title": "industries/events | S. K. Thermoformers",
+      "title": "Events - Market Enquiries | S. K. Thermoformers",
       "h1": [
         "Events"
       ],
-      "description": "Explore industries/events with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/52.png"
+      "description": "Build your enquiry around beverages, meals and distribution points. Tell us the quantity and delivery date; availability is confirmed by the team.",
+      "file": "docs/qa/refinement-before/53.png"
     },
     {
       "route": "/industries/institutional-buyers",
       "status": 200,
-      "title": "industries/institutional buyers | S. K. Thermoformers",
+      "title": "Institutional Foodservice - Market Enquiries | S. K. Thermoformers",
       "h1": [
-        "Institutional buyers"
+        "Institutional Foodservice"
       ],
-      "description": "Explore industries/institutional buyers with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/53.png"
+      "description": "Procurement teams can share specifications, acceptance criteria and expected quantities. Ask for the documentation needed for your application.",
+      "file": "docs/qa/refinement-before/54.png"
     },
     {
       "route": "/industries/corporate-buyers",
       "status": 200,
-      "title": "industries/corporate buyers | S. K. Thermoformers",
+      "title": "Corporate Buyers - Market Enquiries | S. K. Thermoformers",
       "h1": [
-        "Corporate buyers"
+        "Corporate Buyers"
       ],
-      "description": "Explore industries/corporate buyers with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/54.png"
-    },
-    {
-      "route": "/industries/healthcare",
-      "status": 200,
-      "title": "industries/healthcare | S. K. Thermoformers",
-      "h1": [
-        "Healthcare"
-      ],
-      "description": "Explore industries/healthcare with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Discuss beverage cups, tissue products and tableware requirements for your workplace or event. Confirm suitability for the intended conditions of use.",
       "file": "docs/qa/refinement-before/55.png"
-    },
-    {
-      "route": "/industries/travel",
-      "status": 200,
-      "title": "industries/travel | S. K. Thermoformers",
-      "h1": [
-        "Travel"
-      ],
-      "description": "Explore industries/travel with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/56.png"
     },
     {
       "route": "/industries/retail",
       "status": 200,
-      "title": "industries/retail | S. K. Thermoformers",
+      "title": "Retail & Food Businesses - Market Enquiries | S. K. Thermoformers",
       "h1": [
-        "Retail"
+        "Retail & Food Businesses"
       ],
-      "description": "Explore industries/retail with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/57.png"
+      "description": "Share the product, intended use and target quantities. Product suitability, packing and availability are confirmed against your enquiry.",
+      "file": "docs/qa/refinement-before/56.png"
     },
     {
       "route": "/industries/wholesalers-distributors",
       "status": 200,
-      "title": "industries/wholesalers distributors | S. K. Thermoformers",
+      "title": "Distributors & Wholesalers - Market Enquiries | S. K. Thermoformers",
       "h1": [
-        "Wholesalers & distributors"
+        "Distributors & Wholesalers"
       ],
-      "description": "Explore industries/wholesalers distributors with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
+      "description": "Compare the listed paper and plastic range, then share your quantities by format and destination. Agree specifications and commercial terms with the team.",
+      "file": "docs/qa/refinement-before/57.png"
+    },
+    {
+      "route": "/industries/healthcare",
+      "status": 200,
+      "title": "Healthcare requirement - Market Enquiries | S. K. Thermoformers",
+      "h1": [
+        "Healthcare requirement"
+      ],
+      "description": "Share your intended use and required documentation. No clinical, sterile or specialist healthcare suitability is claimed.",
       "file": "docs/qa/refinement-before/58.png"
+    },
+    {
+      "route": "/industries/travel",
+      "status": 200,
+      "title": "Travel service requirement - Market Enquiries | S. K. Thermoformers",
+      "h1": [
+        "Travel service requirement"
+      ],
+      "description": "Tell us your use conditions, dimensions and acceptance requirements. Suitability for travel operations is subject to review.",
+      "file": "docs/qa/refinement-before/59.png"
     },
     {
       "route": "/industries/private-label-enquiries",
       "status": 200,
-      "title": "industries/private label enquiries | S. K. Thermoformers",
+      "title": "Private label enquiry - Market Enquiries | S. K. Thermoformers",
       "h1": [
-        "Private label enquiries"
+        "Private label enquiry"
       ],
-      "description": "Explore industries/private label enquiries with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/59.png"
+      "description": "Private label and OEM arrangements are not confirmed services. Send your brief for a feasibility discussion; custom paper cup printing is listed separately.",
+      "file": "docs/qa/refinement-before/60.png"
     },
     {
       "route": "/industries/export-buyers",
       "status": 200,
-      "title": "industries/export buyers | S. K. Thermoformers",
+      "title": "Export enquiry - Market Enquiries | S. K. Thermoformers",
       "h1": [
-        "Export buyers"
+        "Export enquiry"
       ],
-      "description": "Explore industries/export buyers with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/60.png"
+      "description": "Share your destination, product specifications, quantities and required documentation. Export availability, shipping and commercial terms require confirmation.",
+      "file": "docs/qa/refinement-before/61.png"
+    },
+    {
+      "route": "/solutions/beverage-service",
+      "status": 200,
+      "title": "Beverage Service - Solutions | S. K. Thermoformers",
+      "h1": [
+        "Beverage Service"
+      ],
+      "description": "Define the drink, target capacity and service conditions. Explore listed cups and glasses, then confirm the exact construction with the team.",
+      "file": "docs/qa/refinement-before/62.png"
+    },
+    {
+      "route": "/solutions/catering-events",
+      "status": 200,
+      "title": "Catering & Events - Solutions | S. K. Thermoformers",
+      "h1": [
+        "Catering & Events"
+      ],
+      "description": "Build a requirement around meal format, guest quantities and delivery date. Compare listed tableware before requesting a quote.",
+      "file": "docs/qa/refinement-before/63.png"
+    },
+    {
+      "route": "/solutions/institutional-foodservice",
+      "status": 200,
+      "title": "Institutional Foodservice - Solutions | S. K. Thermoformers",
+      "h1": [
+        "Institutional Foodservice"
+      ],
+      "description": "Share the formats, quantities and acceptance criteria your procurement team needs. Request application-specific documentation before approval.",
+      "file": "docs/qa/refinement-before/64.png"
+    },
+    {
+      "route": "/solutions/custom-branding",
+      "status": 200,
+      "title": "Custom Branding - Solutions | S. K. Thermoformers",
+      "h1": [
+        "Custom Branding"
+      ],
+      "description": "Share artwork, colours, capacity and order quantity. Printing feasibility, finish and packaging are confirmed against your brief.",
+      "file": "docs/qa/refinement-before/65.png"
     },
     {
       "route": "/missing-page",
       "status": 404,
-      "title": "404 | S. K. Thermoformers",
+      "title": "Page Not Found | S. K. Thermoformers",
       "h1": [
-        "Page not found"
+        "Let us get you to the right place."
       ],
-      "description": "Explore 404 with S. K. Thermoformers, Khairthal, Alwar. Paper cups and foodservice disposables for bulk business enquiries.",
-      "file": "docs/qa/refinement-before/61.png"
+      "description": "Explore SKP products or contact SK Thermoformers about your requirement.",
+      "file": "docs/qa/refinement-before/66.png"
     }
   ],
   "assets": [
@@ -663,6 +713,12 @@
       "width": 1280,
       "height": 760,
       "bytes": 98305
+    },
+    {
+      "path": "public/assets/favicon.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 5823
     },
     {
       "path": "public/assets/favicon.svg",
@@ -765,6 +821,12 @@
       "width": 180,
       "height": 174,
       "bytes": 9156
+    },
+    {
+      "path": "public/assets/skp/custom-printed-181.webp",
+      "width": 181,
+      "height": 174,
+      "bytes": 7000
     },
     {
       "path": "public/assets/skp/custom-printed-240.webp",
@@ -911,10 +973,22 @@
       "bytes": 8458
     },
     {
+      "path": "public/assets/skp/tissues-190.webp",
+      "width": 190,
+      "height": 174,
+      "bytes": 4920
+    },
+    {
       "path": "public/assets/skp/trays-184.webp",
       "width": 184,
       "height": 174,
       "bytes": 6036
+    },
+    {
+      "path": "public/assets/social.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 60608
     },
     {
       "path": "public/assets/social.svg",
@@ -937,6 +1011,156 @@
       "width": 1536,
       "height": 1024,
       "bytes": 2536317
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_18_40 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2470816
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_18_49 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2342432
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_18_54 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2275005
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_19_00 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2459593
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_19_04 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2382554
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_19_08 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2481586
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_19_33 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2418706
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_11 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2505524
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_15 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2663002
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_31 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2751912
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_34 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2450797
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_38 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2706591
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_43 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2332506
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_46 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2398547
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_50 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2131900
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_53 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2432008
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_20_57 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2244152
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_01 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2308899
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_05 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2290496
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_08 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2242876
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_12 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2709768
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_33 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2536317
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_37 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2712779
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_41 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2713123
+    },
+    {
+      "path": "src/assets/skp-products/ChatGPT Image Oct 1, 2026, 10_21_47 PM.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2788819
     }
   ]
 }

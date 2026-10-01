@@ -36,3 +36,5 @@ __pycache__/
 # Large per-route audit captures are reproducible; review sheets and representative screenshots are retained.
 docs/qa/refinement-before/[0-9]*.png
 docs/qa/refinement/route-*.png
+
+docs/qa/product-export/route-*.png

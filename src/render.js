@@ -1,7 +1,8 @@
+import {exportPage} from './components/export.js';
 import {company,categories,products,industries,solutions,pages,routes} from './data.js';import {legalPages} from './data/pages.js';import {esc} from './components/ui.js';import {catalogue,detail} from './components/catalogue.js';import {home,general,industryPage,solutionPage,contact,rfq,legal,notFound} from './components/pages.js';import {header,footer} from './components/layout.js';
 export {esc} from './components/ui.js';export {quote} from './components/ui.js';export {form} from './components/forms.js';
 export function content(path){
- if(path==='/')return home();
+ if(path==='/')return home();if(path==='/export')return exportPage();
  if(path==='/products'||categories.some(c=>path==='/products/'+c.slug))return catalogue(path);
  const p=products.find(p=>path==='/products/'+p.slug);if(p)return detail(p);
  if(path==='/industries'||industries.some(i=>path==='/industries/'+i.slug))return industryPage(path);
@@ -19,8 +20,8 @@ export function metadata(path,baseUrl=company.url){
  '/contact':['Contact SK Thermoformers','Contact M/s S. K. Thermoformers in Khairthal, Rajasthan, about bulk foodservice products, custom paper cups and export enquiries.'],
  '/rfq':['Request a Quote','Share your product, application, quantity and destination with SK Thermoformers. Prepare a business enquiry for specifications and availability.']
  };
- const label=product?.name||category?.name||(industry?industry.name+' - Market Enquiries':null)||(solution?solution.name+' - Solutions':null)||page?.title||defaults[path]?.[0]||'Page Not Found';
- const description=product?.description||(category?`Explore ${category.name.toLowerCase()} with SKP. ${category.description} Confirm current product availability and specifications with the team.`:null)||industry?.detail||solution?.detail||page?.intro||defaults[path]?.[1]||'Explore SKP products or contact SK Thermoformers about your requirement.';
+ const label=path==='/export'?'International Packaging Sourcing & Export Enquiries':product?.name||category?.name||(industry?industry.name+' - Market Enquiries':null)||(solution?solution.name+' - Solutions':null)||page?.title||defaults[path]?.[0]||'Page Not Found';
+ const description=path==='/export'?'Explore SKP foodservice packaging for international sourcing enquiries. Discuss products, private-label requirements, documentation, packing and commercial terms.':product?.description||(category?`Explore ${category.name.toLowerCase()} with SKP. ${category.description} Confirm current product availability and specifications with the team.`:null)||industry?.detail||solution?.detail||page?.intro||defaults[path]?.[1]||'Explore SKP products or contact SK Thermoformers about your requirement.';
  const url=baseUrl.replace(/\/$/,'')+(path==='/'?'':path);const image=baseUrl.replace(/\/$/,'')+'/assets/social.jpg';
  const schema=[{'@context':'https://schema.org','@type':'Organization',name:company.legalName,alternateName:'SKP',url:baseUrl,email:company.email,telephone:company.phone,logo:baseUrl+'/assets/skp/logo-249.webp',address:{'@type':'PostalAddress',streetAddress:'Harsoli Road, Near Shailja Grits Udyog, Khairthal',addressLocality:'Alwar',addressRegion:'Rajasthan',postalCode:'301404',addressCountry:'IN'}},{'@context':'https://schema.org','@type':'WebSite',name:'SKP - S. K. Thermoformers',url:baseUrl}];
  if(product&&product.status==='listed')schema.push({'@context':'https://schema.org','@type':'Product',name:product.name,description:product.description,material:product.material||undefined,sku:product.sku||undefined,brand:{'@type':'Brand',name:'SKP'}});
