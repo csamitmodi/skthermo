@@ -1,5 +1,5 @@
-﻿import {mkdir,writeFile,cp,rm} from 'node:fs/promises';import path from 'node:path';import {render} from '../src/render.js';import {routes,company} from '../src/data.js';
-const output=path.resolve('dist');if(output!==path.join(process.cwd(),'dist')||path.basename(process.cwd())!=='skthermo')throw Error('Unexpected build output directory');
+import {mkdir,writeFile,cp,rm} from 'node:fs/promises';import path from 'node:path';import {render} from '../src/render.js';import {routes,company} from '../src/data.js';
+const output=path.resolve('dist');if(output!==path.join(process.cwd(),'dist')||path.dirname(output)!==process.cwd())throw Error('Unexpected build output directory');
 await rm(output,{recursive:true,force:true});await mkdir('dist/src',{recursive:true});
 // Runtime uses one small module and serialized enquiry data. Keep source/reference archives in Git, not mobile payloads.
 for(const file of ['client.js','styles.css'])await cp('src/'+file,'dist/src/'+file);

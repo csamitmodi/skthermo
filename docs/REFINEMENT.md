@@ -51,3 +51,7 @@ Only discovery patterns were studied, not competitor content or assets: [Huhtama
 ## Recommended next steps
 
 Prioritize actual product and factory photography and approved technical data. Then verify manufacturing/sourcing scope, sampling, private-label arrangements and current contacts; approve legal content; connect an appropriate enquiry backend. Populate only current certificates and export evidence. Measure production field performance once real buyer traffic exists.
+
+## Deployment portability follow-up
+
+The initial Vercel attempt reported failure. Strict JSON validation found and removed a byte-order mark in vercel.json. The output safety check was also corrected to validate the output as a direct child of the working directory without requiring a local folder name. A build from a differently named staging folder passes. Seven automated tests now pass, including Vercel configuration parsing.
