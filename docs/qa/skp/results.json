@@ -1,0 +1,14 @@
+{
+  "routes": 61,
+  "viewports": [
+    1440,
+    390
+  ],
+  "missingImages": 0,
+  "consoleErrors": [],
+  "overflow": 0,
+  "search": "passed",
+  "materialFilter": "passed",
+  "quoteContext": "passed",
+  "mobileNavigation": "passed"
+}
