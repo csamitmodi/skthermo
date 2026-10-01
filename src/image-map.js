@@ -105,16 +105,16 @@ export const imageAssets = {
     }
   },
   "custom-printed": {
-    "src": "/assets/skp/custom-printed-373.webp",
-    "srcset": "/assets/skp/custom-printed-240.webp 240w, /assets/skp/custom-printed-373.webp 373w",
-    "width": 373,
-    "height": 123,
-    "source": "ChatGPT Image Oct 1, 2026, 08_30_10 PM.png",
+    "src": "/assets/skp/custom-printed-181.webp",
+    "srcset": "/assets/skp/custom-printed-181.webp 181w, /assets/skp/custom-printed-181.webp 181w",
+    "width": 181,
+    "height": 174,
+    "source": "ChatGPT Image Oct 1, 2026, 08_29_50 PM.png",
     "crop": {
-      "left": 8,
-      "top": 780,
-      "width": 373,
-      "height": 123
+      "left": 1348,
+      "top": 714,
+      "width": 181,
+      "height": 174
     }
   },
   "specialty": {
@@ -220,9 +220,22 @@ export const imageAssets = {
       "width": 249,
       "height": 89
     }
+  },
+  "tissues": {
+    "src": "/assets/skp/tissues-190.webp",
+    "srcset": "/assets/skp/tissues-190.webp 190w, /assets/skp/tissues-190.webp 190w",
+    "width": 190,
+    "height": 174,
+    "source": "ChatGPT Image Oct 1, 2026, 08_29_50 PM.png",
+    "crop": {
+      "left": 1148,
+      "top": 714,
+      "width": 190,
+      "height": 174
+    }
   }
 };
-export const categoryImages = {'cups-glasses':'paper-cups',plates:'plates','plates-trays':'plates',trays:'trays',bowls:'bowls',cutlery:'cutlery','food-containers':'food-containers','clamshell-containers':'clamshell','portion-sauce-cups':'portion-cups','dessert-ice-cream-cups':'dessert-cups','takeaway-packaging':'takeaway','thermoformed-products':'thermoformed','paper-products':'paper-products','custom-products':'custom-printed','specialty-products':'specialty'};
-export const productImages = {'paper-cups':'paper-cups','printed-paper-cups':'custom-printed','100ml-tea-cup':'paper-cups','disposable-juice-glass':'plastic-cups','water-plastic-glass':'plastic-cups','plastic-cups':'plastic-cups','paper-bowls':'bowls','plastic-bowls':'bowls','paper-plates':'plates','disposable-spoons-forks':'cutlery','table-tissues':'paper-products'};
+export const categoryImages = {'cups-glasses':'paper-cups',plates:'plates','plates-trays':'plates',trays:'trays',bowls:'bowls',cutlery:'cutlery','food-containers':'food-containers','clamshell-containers':'clamshell','portion-sauce-cups':'portion-cups','dessert-ice-cream-cups':'dessert-cups','takeaway-packaging':'takeaway','thermoformed-products':'plastic-cups','paper-products':'tissues','custom-products':'custom-printed','specialty-products':'specialty'};
+export const productImages = {'paper-cups':'paper-cups','printed-paper-cups':'custom-printed','100ml-tea-cup':'paper-cups','disposable-juice-glass':'plastic-cups','water-plastic-glass':'plastic-cups','plastic-cups':'plastic-cups','paper-bowls':'bowls','plastic-bowls':'bowls','paper-plates':'plates','disposable-spoons-forks':'cutlery','table-tissues':'tissues'};
 export const heroImages={home:'hero',custom:'custom-printed'};
 export const industryImages={};

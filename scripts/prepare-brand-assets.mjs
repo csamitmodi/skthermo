@@ -1,0 +1,6 @@
+﻿import sharp from 'sharp';import {writeFile} from 'node:fs/promises';import {imageAssets} from '../src/image-map.js';
+const logo=await sharp('public'+imageAssets.logo.src).toBuffer();
+const background=Buffer.from(`<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg"><rect width="1200" height="630" fill="#faf9f6"/><rect x="0" y="606" width="1200" height="24" fill="#c90019"/><path d="M80 190h1040" stroke="#d0ccc1"/><text x="80" y="290" font-family="Arial" font-size="60" font-weight="600" fill="#202020">Disposable Foodservice Solutions.</text><text x="80" y="370" font-family="Arial" font-size="60" font-weight="600" fill="#c90019">Built for Business.</text><text x="80" y="470" font-family="Arial" font-size="26" fill="#555550">Paper cups / Plastic formats / Disposable tableware</text><text x="80" y="545" font-family="Arial" font-size="21" fill="#555550">M/s S. K. Thermoformers - B2B product enquiries</text></svg>`);
+await sharp(background).composite([{input:await sharp(logo).resize({width:200}).toBuffer(),left:80,top:65}]).jpeg({quality:90}).toFile('public/assets/social.jpg');
+await sharp(logo).resize(96,96,{fit:'contain',background:'#faf9f6'}).png().toFile('public/assets/favicon.png');
+console.log('Prepared SKP social JPEG and proportional favicon.');

@@ -1,0 +1,149 @@
+{
+  "reports": [
+    {
+      "route": "/",
+      "contrastFailures": []
+    },
+    {
+      "route": "/products",
+      "contrastFailures": []
+    },
+    {
+      "route": "/products/paper-cups",
+      "contrastFailures": []
+    },
+    {
+      "route": "/manufacturing",
+      "contrastFailures": []
+    },
+    {
+      "route": "/contact",
+      "contrastFailures": []
+    },
+    {
+      "route": "/rfq",
+      "contrastFailures": []
+    }
+  ],
+  "skipLink": "passed",
+  "reducedMotion": "passed",
+  "localTimings": {
+    "navigation": {
+      "name": "http://localhost:3001/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 45.899999998509884,
+      "navigationId": 6631,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 2.899999998509884,
+      "domainLookupStart": 2.899999998509884,
+      "domainLookupEnd": 2.899999998509884,
+      "connectStart": 2.899999998509884,
+      "secureConnectionStart": 0,
+      "connectEnd": 2.899999998509884,
+      "requestStart": 4.399999998509884,
+      "responseStart": 5.200000002980232,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 5.200000002980232,
+      "responseEnd": 5.700000002980232,
+      "transferSize": 36216,
+      "encodedBodySize": 35916,
+      "decodedBodySize": 35916,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 14.200000002980232,
+      "unloadEventEnd": 14.200000002980232,
+      "domInteractive": 30.600000001490116,
+      "domContentLoadedEventStart": 34.899999998509884,
+      "domContentLoadedEventEnd": 35,
+      "domComplete": 45.79999999701977,
+      "loadEventStart": 45.899999998509884,
+      "loadEventEnd": 45.899999998509884,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "name": "http://localhost:3001/src/styles.css",
+        "transferSize": 30727,
+        "encodedBodySize": 30427
+      },
+      {
+        "name": "http://localhost:3001/src/client.js",
+        "transferSize": 9735,
+        "encodedBodySize": 9435
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/logo-249.webp",
+        "transferSize": 3700,
+        "encodedBodySize": 3400
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/hero-1101.webp",
+        "transferSize": 59428,
+        "encodedBodySize": 59128
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/plates-369.webp",
+        "transferSize": 10860,
+        "encodedBodySize": 10560
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/paper-cups-373.webp",
+        "transferSize": 13332,
+        "encodedBodySize": 13032
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/bowls-372.webp",
+        "transferSize": 10488,
+        "encodedBodySize": 10188
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/cutlery-373.webp",
+        "transferSize": 8332,
+        "encodedBodySize": 8032
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/tissues-190.webp",
+        "transferSize": 5220,
+        "encodedBodySize": 4920
+      },
+      {
+        "name": "http://localhost:3001/assets/skp/plastic-cups-370.webp",
+        "transferSize": 7460,
+        "encodedBodySize": 7160
+      },
+      {
+        "name": "http://localhost:3001/assets/favicon.png",
+        "transferSize": 6123,
+        "encodedBodySize": 5823
+      },
+      {
+        "name": "http://localhost:3001/assets/favicon.png",
+        "transferSize": 6123,
+        "encodedBodySize": 5823
+      }
+    ],
+    "fonts": 0
+  },
+  "notes": "Contrast check uses computed solid backgrounds; this is a focused accessibility review, not a WCAG certification or field Core Web Vitals measurement."
+}

@@ -33,3 +33,6 @@ Thumbs.db
 # Python caches used by project utility scripts
 __pycache__/
 *.py[cod]
+# Large per-route audit captures are reproducible; review sheets and representative screenshots are retained.
+docs/qa/refinement-before/[0-9]*.png
+docs/qa/refinement/route-*.png

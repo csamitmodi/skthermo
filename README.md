@@ -1,57 +1,56 @@
-# SK Thermoformers — implementation and handover
+﻿# SKP / S. K. Thermoformers website
 
-A new, independent identity and dependency-free, pre-rendered B2B website. The workspace was empty: no existing source, assets, routing, framework, forms, SEO or deployment configuration existed to retain. No other local project was inspected or reused.
+A dependency-free, pre-rendered B2B catalogue and enquiry website. The existing application uses JavaScript templates, not React. Node 20+ is required; Node 24 is used locally.
 
-## Run
+## Commands
 
-Requires Node.js 20+ (Node 24 used in verification). No package installation required.
+- `npm.cmd run dev`: development server at http://localhost:3000
+- `npm.cmd run build`: clean static output in `dist/`
+- `npm.cmd test`: metadata, route, content safety, enquiry and production asset checks (run build first)
+- `npm.cmd run preview`: production preview on port 3000; use `PORT=3001` for browser QA
+- `node scripts/refinement-qa.mjs`: comprehensive headless Edge checks at localhost:3001
+- `node scripts/accessibility-qa.mjs`: focused text contrast, keyboard skip navigation and reduced-motion review
 
-- Development: `npm.cmd run dev` ? http://localhost:3000
-- Production: `npm.cmd run build` ? dist/
-- Preview: `npm.cmd run preview` (stop the development server first)
-- Checks: `npm.cmd test`
+## Content architecture
 
-Deploy the contents of dist to a static host. Every route has its own index.html, so SPA fallback is unnecessary. The included _redirects supports Netlify-style legacy redirects; configure equivalent redirects on your chosen host. The development server also redirects known legacy PHP URLs. Audit legacy product detail/blog URLs before switching the live domain: current site access was incomplete. Query-based product.php URLs currently redirect to the catalogue; map them to exact new products when historical IDs are confirmed.
+- `src/data/company.js`: legal identity, contacts, capability toggles and unfilled evidence slots
+- `src/data/products.js`: category definitions and structured products; unknown technical values remain null
+- `src/data/industries.js`: markets and enabled application solutions; buyer pathways do not claim existing customers
+- `src/data/pages.js`: editorial and website-information content
+- `src/data.js`: compatibility exports and central route list
+- `src/image-map.js`: centralized, replaceable image records with responsive sizes and provenance
+- `src/components/`: layout, UI, catalogue/detail, forms and page templates
+- `src/render.js`: route dispatch, metadata and evidence-conscious structured data
+- `src/client.js`: menus, filtering, accessible enquiry dialog and unsent email drafts
 
-## Architecture
+66 static routes: all original routes remain, with a Solutions index and four application pages. Seven documented product families lead discovery. Seven unconfirmed families remain clearly labelled enquiry routes. Disable a category or product using its `enabled` flag. Custom Printed Products is a cross-category view of printing-enabled paper cup records.
 
-- src/data.js: company, contacts, categories, products, applications, manufacturing journey, navigation, page content, missing data and capability toggles.
-- src/render.js: shared layout, product and category cards, industry pages, editorial pages, RFQ and enquiry forms, metadata and JSON-LD.
-- src/client.js: accessible menu disclosures, native modal dialog, product filters/search, contextual RFQ, validation, draft generation and optional submission adapter.
-- src/styles.css: original design system, responsive layouts, reduced-motion support, focus states.
-- scripts/build.mjs: static production build, sitemap, robots, 404 and redirect output.
-- scripts/server.mjs: local development / static preview server.
+## Adding verified information
 
-47 pages: homepage; 8 category pages; 12 product detail pages; industries listing and 12 industry pages; About, Manufacturing, Custom Solutions, Quality, Sustainability, Export, Resources, Contact, RFQ and 3 legal drafts. Category/detail routes share the /products/[slug] architecture. Keep all slugs unique.
+Update the central data, not individual templates. Product fields support SKU, capacity, dimensions, colour, applications, features, temperature use, printing, lids, packaging, MOQ, variants, images and an actual PDF sheet. Empty values are omitted from public specifications. Gallery and variant sections render only when values exist. Product schema is omitted for pending enquiry records.
 
-## Data changes
+Company slots include leadership, dated history, milestones, factory/machinery/quality media, production capacity, certifications, export markets, client logos, catalogue and WhatsApp. No fabricated names, metrics, factory photographs or badges are published. Register approved photography in `imageAssets` and update the relevant central image key. Approved leadership, history, milestone and certificate entries have conditional templates; other future content can be added using these central slots without page-by-page data edits.
 
-Add a product to products and it appears automatically in discovery, enquiry selection, detail routes and sitemap. Populate sizes, specifications, packing, finish, gallery and specPdf with verified data. Current gallery/PDF fields are reserved; extend rendering when approved files are supplied. Current images are original SVG illustrations, visibly labelled and never represented as photographs. Replace art calls with verified assets plus dimensions, alt text and responsive images when available.
+## Imagery
 
-company.metrics, certifications, leadership, social and whatsapp are intentionally empty. Numeric and certification badges are not rendered. Private-label/OEM capabilities are false; enquiry options allow buyers to ask without asserting that these services exist. If enabling new capabilities, add verified supporting copy and conditional sections. Do not activate services merely because a buyer submits an enquiry.
+Supplied SKP catalogue composites remain in `src/assets/skp-products/`. `scripts/prepare-skp-images.mjs` records crops and produces WebP derivatives without upscaling. They are presentation references, not exact SKU or factory photography. Small source panels limit detail sharpness; dedicated photographs are the next priority. Legacy product imagery stays archived. Originals and archives are excluded from deployment.
 
-## Forms / backend
+`node scripts/prepare-brand-assets.mjs` builds a JPEG social card and proportional SKP favicon from the supplied logo and code-native layout.
 
-Forms support category, product, capacity, quantity, customization, location, name, company, phone, email, message, artwork and consent. Product RFQs preserve category and known size. Catalogue/general enquiries do not require a quantity. Email draft generation happens locally. The visitor must click Open email app and send the draft; there is no fake delivery success. A downloadable text fallback is provided. Files must be attached manually in email mode.
+## Enquiries
 
-Set company.leadEndpoint to an approved HTTPS endpoint to enable submission. The adapter sends multipart FormData, and expects a 2xx JSON response containing {"success":true}. Required server work: field validation, file type/content and size checks, malware scanning, safe attachment storage, rate limits, honeypot checking, abuse monitoring, explicit CORS policy, lead/email delivery, retention rules and CRM if desired. Frontend validation is not a security boundary. No external analytics or tracking is included.
+Only name, email and consent are required. Product/category quote context, buyer type, pathway, quantity, destination and artwork selection are supported. No message is sent automatically. Buyers must send the prepared email draft; the text download is a fallback. Attachments are selected and validated locally but must be attached manually in email mode.
 
-## SEO / accessibility / performance
+A verified HTTPS `company.leadEndpoint` can enable multipart submission expecting a 2xx JSON `{success:true}` response. Server validation, safe file handling, lead delivery and privacy requirements must be implemented before activating that endpoint.
 
-All routes are pre-rendered HTML with unique titles, descriptions, canonicals, OpenGraph and Twitter metadata. Organization, WebSite, Product (no offers or prices) and BreadcrumbList JSON-LD are emitted where appropriate. Sitemap and robots are generated. SVG social card is included; supply a 1200×630 PNG/JPEG for broad social-preview compatibility.
+## Deployment and SEO
 
-Semantic landmarks, skip link, labelled fields, native validation, consent, visible focus, keyboard menu dismissal, modal focus management, reduced motion and no unnecessary animation. System fonts and inline SVG eliminate font and image requests. No third-party runtime packages. Responsive rules target 320, 375, 390, 430, 768, 1024 and 1440+ widths. No invented SKU sizes or capacity filters.
+`vercel.json` retains static hosting with explicit build output, clean URLs, legacy PHP redirects and modest asset caching. GitHub main triggers the existing Vercel project. No domain connection is made.
 
-## Verification
+Build metadata uses `SITE_URL` if provided, otherwise Vercel's project production URL, otherwise the local Vercel alias in company data. The old skgroupalwar.com site remains evidence/source information and is not connected or changed. Every route has a unique title/description, canonical, social metadata and relevant breadcrumbs. Pending reference products do not get Product schema. No prices, offers, reviews or availability are fabricated. The sitemap and robots use the same host; 404 is noindex with recovery links.
 
-Production build: passed, 47 routes. Node syntax checks: passed. Automated route, unique-title, canonical, internal-link, no-fabricated-commerce, product-context and form-disclosure checks: passed. Live HTTP check: all 47 pages and 5 assets returned 200. No TypeScript or lint configuration exists. Browser inventory contained no apps or browsers, so screenshot review, actual mobile overflow checks, browser console checks, keyboard interaction testing and Lighthouse measurements remain unverified. Run these before launch; no performance score is claimed.
+## QA and remaining information
 
-## Required from the company
+See `docs/REFINEMENT.md`, `docs/qa/refinement/results.json` and `docs/qa/refinement/accessibility-performance.json`. All 66 routes were captured and visually reviewed. Browser checks cover six widths, assets, links, metadata, filters, every product RFQ, email-draft preparation, downloads, file validation, keyboard dismissal, focus restoration and 404. No enquiry was sent. Focused accessibility review is not a certification; local timings are not field Core Web Vitals scores.
 
-Current product list, dimensions/capacities, material grades/coatings, finishes, applications, packing, MOQ, lead times, sample process and artwork requirements. Factory/production/packing/warehouse photographs and video, genuine product photography, current certificates and test reports, downloadable catalogue, leadership details, dated milestones and confirmed metrics. Confirm WhatsApp, contact details, OEM/private-label/export scope and shipping documentation. Approve legal drafts before public launch.
-
-Asset folders are provided under public/assets: products, factory, machines, quality, warehouse, team, certificates and applications. No competitor photographs or fake factory imagery have been used.
-
-
-## Product photography update
-Recovered seven images from SK’s original website; five are mapped to matching products, three category cards use relevant range photos, and the hero/custom section use original-site imagery. Sources: docs/image-sources.json. Unmatched categories retain explicitly labelled illustrations. Historic image text is not treated as a current specification. UTF-8 encoding and broken arrow glyphs were corrected.
+Required next: current product and factory photographs, specifications, construction details, packing/MOQ/lead times, manufacturing scope, verified certificates, company/partner history and photos, export/private-label scope, current contacts and approved legal/submission integration.

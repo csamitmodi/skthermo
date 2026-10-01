@@ -1,0 +1,420 @@
+{
+  "routes": 66,
+  "viewports": [
+    360,
+    390,
+    430,
+    768,
+    1024,
+    1440
+  ],
+  "pages": [
+    {
+      "route": "/",
+      "title": "Foodservice Disposables & Paper Cup Manufacturing | S. K. Thermoformers",
+      "description": "Explore SKP paper cups, plastic beverage formats, tableware and custom paper cup enquiries with M/s S. K. Thermoformers, Khairthal, Rajasthan.",
+      "status": 200
+    },
+    {
+      "route": "/products",
+      "title": "SKP Product Catalogue | S. K. Thermoformers",
+      "description": "Explore listed SKP foodservice products by category, material and application. Request current specifications and a bulk supply quote.",
+      "status": 200
+    },
+    {
+      "route": "/solutions",
+      "title": "Foodservice Application Solutions | S. K. Thermoformers",
+      "description": "Find SKP product families for beverage service, catering, institutional foodservice and custom paper cup branding enquiries.",
+      "status": 200
+    },
+    {
+      "route": "/industries",
+      "title": "Markets We Serve | S. K. Thermoformers",
+      "description": "Explore foodservice buying requirements for restaurants, hospitality, catering, institutions and distributors with SK Thermoformers.",
+      "status": 200
+    },
+    {
+      "route": "/about",
+      "title": "A manufacturing base. A broader foodservice range. | S. K. Thermoformers",
+      "description": "M/s S. K. Thermoformers manufactures paper cups in Khairthal, Rajasthan, and supplies a wider range of disposable foodservice products.",
+      "status": 200
+    },
+    {
+      "route": "/manufacturing",
+      "title": "Manufacturing starts with the specification. | S. K. Thermoformers",
+      "description": "Paper cup manufacturing in Khairthal, Rajasthan, supported by a broader disposable product supply conversation.",
+      "status": 200
+    },
+    {
+      "route": "/custom-solutions",
+      "title": "Made around your requirement. | S. K. Thermoformers",
+      "description": "Discuss paper cup designs, sizes and packaging. Start with the application, specification, artwork and quantity.",
+      "status": 200
+    },
+    {
+      "route": "/quality",
+      "title": "Define quality before the order. | S. K. Thermoformers",
+      "description": "Use a clear specification and application-specific documentation to evaluate your chosen product.",
+      "status": 200
+    },
+    {
+      "route": "/sustainability",
+      "title": "Choose materials with the facts in view. | S. K. Thermoformers",
+      "description": "Paper and plastic options require product-specific information. Composition, use and local recovery infrastructure all affect the decision.",
+      "status": 200
+    },
+    {
+      "route": "/export",
+      "title": "Domestic requirements. International enquiries. | S. K. Thermoformers",
+      "description": "For domestic bulk requirements and export enquiries, talk to our team in Khairthal, Rajasthan.",
+      "status": 200
+    },
+    {
+      "route": "/resources",
+      "title": "Prepare a useful sourcing brief. | S. K. Thermoformers",
+      "description": "A practical checklist for procurement teams, distributors and foodservice buyers.",
+      "status": 200
+    },
+    {
+      "route": "/contact",
+      "title": "Contact SK Thermoformers | S. K. Thermoformers",
+      "description": "Contact M/s S. K. Thermoformers in Khairthal, Rajasthan, about bulk foodservice products, custom paper cups and export enquiries.",
+      "status": 200
+    },
+    {
+      "route": "/rfq",
+      "title": "Request a Quote | S. K. Thermoformers",
+      "description": "Share your product, application, quantity and destination with SK Thermoformers. Prepare a business enquiry for specifications and availability.",
+      "status": 200
+    },
+    {
+      "route": "/privacy-policy",
+      "title": "Privacy notice | S. K. Thermoformers",
+      "description": "How this preview handles your enquiry information.",
+      "status": 200
+    },
+    {
+      "route": "/terms-and-conditions",
+      "title": "Enquiry and ordering information | S. K. Thermoformers",
+      "description": "Website information supports a business enquiry; it is not an order acceptance.",
+      "status": 200
+    },
+    {
+      "route": "/disclaimer",
+      "title": "Product reference disclaimer | S. K. Thermoformers",
+      "description": "Understand the difference between a range reference and a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/cups-glasses",
+      "title": "Cups & Glasses | S. K. Thermoformers",
+      "description": "Explore cups & glasses with SKP. Paper cups and plastic beverage formats. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plates",
+      "title": "Plates | S. K. Thermoformers",
+      "description": "Explore plates with SKP. Paper tableware for catering and meal service. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bowls",
+      "title": "Bowls | S. K. Thermoformers",
+      "description": "Explore bowls with SKP. Paper and plastic bowls for foodservice enquiries. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/cutlery",
+      "title": "Cutlery | S. K. Thermoformers",
+      "description": "Explore cutlery with SKP. Disposable spoons and forks for your service format. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-products",
+      "title": "Paper Products | S. K. Thermoformers",
+      "description": "Explore paper products with SKP. Tissues, rolls and paper cup production inputs. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/thermoformed-products",
+      "title": "Thermoformed Products | S. K. Thermoformers",
+      "description": "Explore thermoformed products with SKP. Plastic disposable products; production scope on enquiry. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/custom-products",
+      "title": "Custom Printed Products | S. K. Thermoformers",
+      "description": "Explore custom printed products with SKP. Paper cup designs developed around your artwork brief. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/trays",
+      "title": "Trays | S. K. Thermoformers",
+      "description": "Explore trays with SKP. Discuss serving and portioning requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/food-containers",
+      "title": "Food Containers | S. K. Thermoformers",
+      "description": "Explore food containers with SKP. Define the container and lid format you need. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/clamshell-containers",
+      "title": "Clamshell Containers | S. K. Thermoformers",
+      "description": "Explore clamshell containers with SKP. Discuss hinged packaging requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/portion-sauce-cups",
+      "title": "Portion & Sauce Cups | S. K. Thermoformers",
+      "description": "Explore portion & sauce cups with SKP. Share your portioning and accompaniment brief. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/dessert-ice-cream-cups",
+      "title": "Dessert & Ice Cream Cups | S. K. Thermoformers",
+      "description": "Explore dessert & ice cream cups with SKP. Ask about formats for dessert service. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/takeaway-packaging",
+      "title": "Takeaway Packaging | S. K. Thermoformers",
+      "description": "Explore takeaway packaging with SKP. Discuss packaging for your takeaway operation. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/specialty-products",
+      "title": "Specialty Products | S. K. Thermoformers",
+      "description": "Explore specialty products with SKP. Tell us about a specific sourcing requirement. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plates-trays",
+      "title": "Plates & Trays | S. K. Thermoformers",
+      "description": "Explore plates & trays with SKP. Tableware and serving enquiries. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-cups",
+      "title": "Plain paper cups | S. K. Thermoformers",
+      "description": "Unprinted paper cup requirements for beverage service. Share your target capacity and intended use.",
+      "status": 200
+    },
+    {
+      "route": "/products/printed-paper-cups",
+      "title": "Printed paper cups | S. K. Thermoformers",
+      "description": "Paper cups with custom design enquiries. Supply your artwork, colours and quantity for a printing discussion.",
+      "status": 200
+    },
+    {
+      "route": "/products/100ml-tea-cup",
+      "title": "100 ml tea cup | S. K. Thermoformers",
+      "description": "A 100 ml tea cup listed in the historical SK portfolio. Confirm the current dimensions, construction and packing with your quote.",
+      "status": 200
+    },
+    {
+      "route": "/products/disposable-juice-glass",
+      "title": "Disposable juice glass | S. K. Thermoformers",
+      "description": "Disposable glass requirements for beverage service. Confirm material, capacity and suitability for the drink you serve.",
+      "status": 200
+    },
+    {
+      "route": "/products/water-plastic-glass",
+      "title": "Water plastic glass | S. K. Thermoformers",
+      "description": "Plastic beverage glasses from the listed disposable range. Ask for the current format and material specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/plastic-cups",
+      "title": "Plastic disposable cups | S. K. Thermoformers",
+      "description": "Plastic cup requirements for foodservice and distribution. Define the capacity, appearance and intended beverage application.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-bowls",
+      "title": "Paper bowls | S. K. Thermoformers",
+      "description": "Paper bowl requirements for foodservice procurement. Discuss capacity, coating and intended conditions of use.",
+      "status": 200
+    },
+    {
+      "route": "/products/plastic-bowls",
+      "title": "Plastic bowls | S. K. Thermoformers",
+      "description": "Plastic bowl requirements for meal service. Confirm polymer grade, dimensions and application before ordering.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-plates",
+      "title": "Paper plates | S. K. Thermoformers",
+      "description": "Paper plate requirements for catering and organised foodservice. Share the meal format, dimensions and quantity.",
+      "status": 200
+    },
+    {
+      "route": "/products/disposable-spoons-forks",
+      "title": "Disposable spoons & forks | S. K. Thermoformers",
+      "description": "Disposable spoons and forks from the listed service range. Confirm material, finish and packing for your requirement.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-blanks-bottoms",
+      "title": "Paper blanks & bottoms | S. K. Thermoformers",
+      "description": "Paper blanks and bottoms for paper cup production enquiries. Provide the drawing, grade and quantity required.",
+      "status": 200
+    },
+    {
+      "route": "/products/table-tissues",
+      "title": "Table tissues & tissue rolls | S. K. Thermoformers",
+      "description": "Table tissues and tissue rolls for service operations. Discuss format, dimensions and packing quantities.",
+      "status": 200
+    },
+    {
+      "route": "/products/trays-enquiry",
+      "title": "Trays enquiry | S. K. Thermoformers",
+      "description": "Discuss your trays requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/food-containers-enquiry",
+      "title": "Food Containers enquiry | S. K. Thermoformers",
+      "description": "Discuss your food containers requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/clamshell-containers-enquiry",
+      "title": "Clamshell Containers enquiry | S. K. Thermoformers",
+      "description": "Discuss your clamshell containers requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/portion-sauce-cups-enquiry",
+      "title": "Portion & Sauce Cups enquiry | S. K. Thermoformers",
+      "description": "Discuss your portion & sauce cups requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/dessert-ice-cream-cups-enquiry",
+      "title": "Dessert & Ice Cream Cups enquiry | S. K. Thermoformers",
+      "description": "Discuss your dessert & ice cream cups requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/takeaway-packaging-enquiry",
+      "title": "Takeaway Packaging enquiry | S. K. Thermoformers",
+      "description": "Discuss your takeaway packaging requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/specialty-products-enquiry",
+      "title": "Specialty Products enquiry | S. K. Thermoformers",
+      "description": "Discuss your specialty products requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/industries/restaurants-qsr",
+      "title": "Restaurants & QSR - Market Enquiries | S. K. Thermoformers",
+      "description": "Compare your service formats, expected order volumes and intended food or beverage use. Confirm product suitability and packing before procurement.",
+      "status": 200
+    },
+    {
+      "route": "/industries/hotels",
+      "title": "Hotels - Market Enquiries | S. K. Thermoformers",
+      "description": "Bring together beverage, meal service and tissue requirements across your outlets. Share your packing and delivery preferences.",
+      "status": 200
+    },
+    {
+      "route": "/industries/catering",
+      "title": "Catering - Market Enquiries | S. K. Thermoformers",
+      "description": "Share your menu, portioning needs and event quantities. Compare plates, bowls and cutlery against your intended service.",
+      "status": 200
+    },
+    {
+      "route": "/industries/events",
+      "title": "Events - Market Enquiries | S. K. Thermoformers",
+      "description": "Build your enquiry around beverages, meals and distribution points. Tell us the quantity and delivery date; availability is confirmed by the team.",
+      "status": 200
+    },
+    {
+      "route": "/industries/institutional-buyers",
+      "title": "Institutional Foodservice - Market Enquiries | S. K. Thermoformers",
+      "description": "Procurement teams can share specifications, acceptance criteria and expected quantities. Ask for the documentation needed for your application.",
+      "status": 200
+    },
+    {
+      "route": "/industries/corporate-buyers",
+      "title": "Corporate Buyers - Market Enquiries | S. K. Thermoformers",
+      "description": "Discuss beverage cups, tissue products and tableware requirements for your workplace or event. Confirm suitability for the intended conditions of use.",
+      "status": 200
+    },
+    {
+      "route": "/industries/retail",
+      "title": "Retail & Food Businesses - Market Enquiries | S. K. Thermoformers",
+      "description": "Share the product, intended use and target quantities. Product suitability, packing and availability are confirmed against your enquiry.",
+      "status": 200
+    },
+    {
+      "route": "/industries/wholesalers-distributors",
+      "title": "Distributors & Wholesalers - Market Enquiries | S. K. Thermoformers",
+      "description": "Compare the listed paper and plastic range, then share your quantities by format and destination. Agree specifications and commercial terms with the team.",
+      "status": 200
+    },
+    {
+      "route": "/industries/healthcare",
+      "title": "Healthcare requirement - Market Enquiries | S. K. Thermoformers",
+      "description": "Share your intended use and required documentation. No clinical, sterile or specialist healthcare suitability is claimed.",
+      "status": 200
+    },
+    {
+      "route": "/industries/travel",
+      "title": "Travel service requirement - Market Enquiries | S. K. Thermoformers",
+      "description": "Tell us your use conditions, dimensions and acceptance requirements. Suitability for travel operations is subject to review.",
+      "status": 200
+    },
+    {
+      "route": "/industries/private-label-enquiries",
+      "title": "Private label enquiry - Market Enquiries | S. K. Thermoformers",
+      "description": "Private label and OEM arrangements are not confirmed services. Send your brief for a feasibility discussion; custom paper cup printing is listed separately.",
+      "status": 200
+    },
+    {
+      "route": "/industries/export-buyers",
+      "title": "Export enquiry - Market Enquiries | S. K. Thermoformers",
+      "description": "Share your destination, product specifications, quantities and required documentation. Export availability, shipping and commercial terms require confirmation.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/beverage-service",
+      "title": "Beverage Service - Solutions | S. K. Thermoformers",
+      "description": "Define the drink, target capacity and service conditions. Explore listed cups and glasses, then confirm the exact construction with the team.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/catering-events",
+      "title": "Catering & Events - Solutions | S. K. Thermoformers",
+      "description": "Build a requirement around meal format, guest quantities and delivery date. Compare listed tableware before requesting a quote.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/institutional-foodservice",
+      "title": "Institutional Foodservice - Solutions | S. K. Thermoformers",
+      "description": "Share the formats, quantities and acceptance criteria your procurement team needs. Request application-specific documentation before approval.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/custom-branding",
+      "title": "Custom Branding - Solutions | S. K. Thermoformers",
+      "description": "Share artwork, colours, capacity and order quantity. Printing feasibility, finish and packaging are confirmed against your brief.",
+      "status": 200
+    }
+  ],
+  "overflow": [],
+  "missingImages": [],
+  "consoleErrors": [],
+  "checks": [
+    "Search, material, printing, empty states and cross-category navigation",
+    "All product RFQs and category context, Escape and restored focus",
+    "RFQ minimal fields, export prefill, email draft, download and attachment validation; no message sent",
+    "Mobile filter drawer, navigation, keyboard dismissal and focus",
+    "Desktop mega menu and sticky header",
+    "404 HTTP status, recovery links and noindex"
+  ]
+}
