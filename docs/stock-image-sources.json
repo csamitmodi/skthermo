@@ -1,0 +1,134 @@
+[
+  {
+    "id": "stock-paper-cups",
+    "original": "public/assets/library/originals/stock-paper-cups.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/paper-cups-of-coffee-on-table-7319334/",
+    "downloadUrl": "https://images.pexels.com/photos/7319334/pexels-photo-7319334.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Angela Roma",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-cutlery",
+    "original": "public/assets/library/originals/stock-cutlery.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/set-of-plastic-fork-on-white-table-4397813/",
+    "downloadUrl": "https://images.pexels.com/photos/4397813/pexels-photo-4397813.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Kaboompics",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-takeaway",
+    "original": "public/assets/library/originals/stock-takeaway.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/sliced-vegetables-in-a-take-out-container-10748608/",
+    "downloadUrl": "https://images.pexels.com/photos/10748608/pexels-photo-10748608.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "FOX",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-qsr",
+    "original": "public/assets/library/originals/stock-qsr.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/a-man-serving-takeaway-4393664/",
+    "downloadUrl": "https://images.pexels.com/photos/4393664/pexels-photo-4393664.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Norma Mortenson",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-hotel",
+    "original": "public/assets/library/originals/stock-hotel.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/cook-at-buffet-in-hotel-4873342/",
+    "downloadUrl": "https://images.pexels.com/photos/4873342/pexels-photo-4873342.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Western Skyline Hotel",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-warehouse",
+    "original": "public/assets/library/originals/stock-warehouse.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/industrial-warehouse-with-stacked-cardboard-boxes-34221998/",
+    "downloadUrl": "https://images.pexels.com/photos/34221998/pexels-photo-34221998.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Freek Wolsink",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-bowl-use",
+    "original": "public/assets/library/originals/stock-bowl-use.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/white-disposable-bowl-3035261/",
+    "downloadUrl": "https://images.pexels.com/photos/3035261/pexels-photo-3035261.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "David Egon",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-street-food",
+    "original": "public/assets/library/originals/stock-street-food.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/a-person-holding-brown-paper-plate-with-food-8254063/",
+    "downloadUrl": "https://images.pexels.com/photos/8254063/pexels-photo-8254063.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "ENESFILM",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-packing",
+    "original": "public/assets/library/originals/stock-packing.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/person-packing-using-brown-paper-9594501/",
+    "downloadUrl": "https://images.pexels.com/photos/9594501/pexels-photo-9594501.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Ron Lach",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-export",
+    "original": "public/assets/library/originals/stock-export.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/cargo-containers-at-busy-shipping-port-36652829/",
+    "downloadUrl": "https://images.pexels.com/photos/36652829/pexels-photo-36652829.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Rafael Rodrigues",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-travel",
+    "original": "public/assets/library/originals/stock-travel.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/person-holding-a-food-takeaway-paper-bag-and-a-cup-8165281/",
+    "downloadUrl": "https://images.pexels.com/photos/8165281/pexels-photo-8165281.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "MART PRODUCTION",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  },
+  {
+    "id": "stock-events",
+    "original": "public/assets/library/originals/stock-events.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/rows-of-paper-cups-with-brown-liquid-37060179/",
+    "downloadUrl": "https://images.pexels.com/photos/37060179/pexels-photo-37060179.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "creator": "Soc Nang Dong",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "kind": "stock",
+    "representative": true
+  }
+]

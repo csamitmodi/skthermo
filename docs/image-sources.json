@@ -1,0 +1,37 @@
+[
+  {
+    "name": "printed-paper-cups",
+    "source": "https://www.skgroupalwar.com/admin/images/service/IMG-20210324-WA0069.jpg",
+    "local": "/public/assets/products/printed-paper-cups.jpg"
+  },
+  {
+    "name": "disposable-juice-glass",
+    "source": "https://www.skgroupalwar.com/admin/images/service/IMG-20210324-WA0070.jpg",
+    "local": "/public/assets/products/disposable-juice-glass.jpg"
+  },
+  {
+    "name": "white-paper-cups",
+    "source": "https://www.skgroupalwar.com/admin/images/service/IMG-20210324-WA0071.jpg",
+    "local": "/public/assets/products/white-paper-cups.jpg"
+  },
+  {
+    "name": "water-plastic-glass",
+    "source": "https://www.skgroupalwar.com/admin/images/service/IMG-20210324-WA0074.jpg",
+    "local": "/public/assets/products/water-plastic-glass.jpg"
+  },
+  {
+    "name": "plastic-cups",
+    "source": "https://www.skgroupalwar.com/admin/images/service/IMG-20210324-WA0098.jpg",
+    "local": "/public/assets/products/plastic-cups.jpg"
+  },
+  {
+    "name": "plastic-range",
+    "source": "https://www.skgroupalwar.com/admin/images/service/IMG-20210324-WA0097.jpg",
+    "local": "/public/assets/products/plastic-range.jpg"
+  },
+  {
+    "name": "100ml-tea-cup",
+    "source": "https://www.skgroupalwar.com/admin/images/service/SKP%202.jpg.jpeg",
+    "local": "/public/assets/products/100ml-tea-cup.jpg"
+  }
+]
