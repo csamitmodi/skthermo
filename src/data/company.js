@@ -8,6 +8,7 @@ export const company = {
  source:'https://www.skgroupalwar.com/about.php', whatsapp:null, leadEndpoint:null,
  established:null, history:[], leadership:[], milestones:[], metrics:[], certifications:[],
  machinery:[], productionCapacity:null, exportMarkets:[], clientLogos:[], social:[], catalogue:null,
+ trustFacts:['Years in business','Factory','Production capacity','Certifications','Quality systems','Export markets','Infrastructure','Clients','Registrations'].map(label=>({label,value:null,verified:false,source:null})),
  services:{customSize:true,customPrint:true,packaging:true,privateLabel:false,oem:false,development:false},
  media:{factory:null,machinery:null,quality:null,team:null},
  todos:['Confirm current contacts','Provide current specifications and packing','Confirm MOQ and lead times','Provide actual product and factory photographs','Confirm partner details and history','Supply current certification evidence','Confirm export and private label scope','Approve legal copy and connect lead endpoint']

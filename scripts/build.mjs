@@ -2,7 +2,7 @@ import {mkdir,writeFile,cp,rm} from 'node:fs/promises';import path from 'node:pa
 const output=path.resolve('dist');if(output!==path.join(process.cwd(),'dist')||path.dirname(output)!==process.cwd())throw Error('Unexpected build output directory');
 await rm(output,{recursive:true,force:true});await mkdir('dist/src',{recursive:true});
 // Runtime uses one small module and serialized enquiry data. Keep source/reference archives in Git, not mobile payloads.
-for(const file of ['client.js','styles.css'])await cp('src/'+file,'dist/src/'+file);
+for(const file of ['client.js','enquiry.js','styles.css'])await cp('src/'+file,'dist/src/'+file);
 await cp('public','dist',{recursive:true,filter:source=>!/[\\/](archive|library)([\\/]|$)/.test(source)});
 const host=process.env.SITE_URL||(process.env.VERCEL_PROJECT_PRODUCTION_URL?'https://'+process.env.VERCEL_PROJECT_PRODUCTION_URL:company.url);const baseUrl=host.replace(/\/$/,'');
 for(const route of routes){const dir=route==='/'?'dist':`dist${route}`;await mkdir(dir,{recursive:true});await writeFile(`${dir}/index.html`,render(route,{baseUrl}));}

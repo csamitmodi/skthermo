@@ -1,0 +1,7 @@
+import sharp from 'sharp';import {mkdir,writeFile} from 'node:fs/promises';import {imageAssets} from '../src/image-map.js';
+// A photography-only range composition, preserving native crop resolution and provenance.
+const items=[['cup-textured',45,60],['plate-compartment',625,75],['container-rectangular',40,290],['kraft-meal',620,290],['foil-round',40,490],['catering-set',670,430]];
+const layers=[];for(const [key,left,top] of items){const a=imageAssets[key];const input=await sharp('public'+a.src).resize({width:470,height:210,fit:'inside',withoutEnlargement:true}).toBuffer();layers.push({input,left,top});}
+const result=await sharp({create:{width:1200,height:700,channels:3,background:'#faf9f5'}}).composite(layers).png().toBuffer();await mkdir('public/assets/story',{recursive:true});
+for(const width of [480,800,1200])await sharp(result).resize(width).webp({quality:94}).toFile(`public/assets/story/product-universe-${width}.webp`);
+await writeFile('src/data/storyMedia.js',`// Derived visual composition only. No product specifications or manufacturing claims.\nexport const storyMedia={'product-universe':{src:'/assets/story/product-universe-1200.webp',srcset:[480,800,1200].map(w=>'/assets/story/product-universe-'+w+'.webp '+w+'w').join(', '),width:1200,height:700,status:'range-level',sources:${JSON.stringify(items.map(([id])=>({id,sourceCatalogue:imageAssets[id].sourceCatalogue})))}}};\n`);

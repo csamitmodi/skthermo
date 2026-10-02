@@ -1,0 +1,872 @@
+[
+  {
+    "slug": "paper-cups",
+    "name": "Paper cups",
+    "category": "cups-glasses",
+    "image": "cup-paper",
+    "sourceCatalogue": "catalogue-10_21_08",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "printed-paper-cups",
+    "name": "Printed paper cups",
+    "category": "cups-glasses",
+    "image": "cup-print",
+    "sourceCatalogue": "catalogue-10_21_08",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "100ml-tea-cup",
+    "name": "Tea cup range",
+    "category": "cups-glasses",
+    "image": null,
+    "sourceCatalogue": null,
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": "100 ml"
+  },
+  {
+    "slug": "disposable-juice-glass",
+    "name": "Disposable juice glass",
+    "category": "cups-glasses",
+    "image": "cup-clear",
+    "sourceCatalogue": "catalogue-10_21_08",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "water-plastic-glass",
+    "name": "Beverage glasses",
+    "category": "thermoformed-products",
+    "image": "cup-clear",
+    "sourceCatalogue": "catalogue-10_21_08",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "plastic-cups",
+    "name": "Plastic disposable cups",
+    "category": "cups-glasses",
+    "image": "cup-clear",
+    "sourceCatalogue": "catalogue-10_21_08",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "paper-bowls",
+    "name": "Paper bowls",
+    "category": "bowls",
+    "image": "bowl-paper",
+    "sourceCatalogue": "catalogue-10_20_57",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "plastic-bowls",
+    "name": "Plastic bowls",
+    "category": "bowls",
+    "image": "bowl-plastic",
+    "sourceCatalogue": "catalogue-10_20_57",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "paper-plates",
+    "name": "Round plates",
+    "category": "plates",
+    "image": "plate-round",
+    "sourceCatalogue": "catalogue-10_21_05",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "disposable-spoons-forks",
+    "name": "Disposable spoons",
+    "category": "cutlery",
+    "image": "cutlery-spoons",
+    "sourceCatalogue": "catalogue-10_20_50",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "paper-blanks-bottoms",
+    "name": "Paper blanks & bottoms",
+    "category": "paper-products",
+    "image": null,
+    "sourceCatalogue": null,
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "table-tissues",
+    "name": "Table napkins",
+    "category": "paper-products",
+    "image": "tissue-napkins",
+    "sourceCatalogue": "catalogue-10_19_00",
+    "state": "range-level",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "trays-enquiry",
+    "name": "Trays",
+    "category": "trays",
+    "image": "tray-serving",
+    "sourceCatalogue": "catalogue-10_21_01",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "food-containers-enquiry",
+    "name": "Food Containers",
+    "category": "food-containers",
+    "image": "container-rectangular",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "clamshell-containers-enquiry",
+    "name": "Clamshell Containers",
+    "category": "clamshell-containers",
+    "image": "clamshell-rectangular",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "portion-sauce-cups-enquiry",
+    "name": "Portion & Sauce Cups",
+    "category": "portion-sauce-cups",
+    "image": "portion-round",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "dessert-ice-cream-cups-enquiry",
+    "name": "Dessert & Ice Cream Cups",
+    "category": "dessert-ice-cream-cups",
+    "image": "dessert-clear",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "takeaway-packaging-enquiry",
+    "name": "Takeaway Packaging",
+    "category": "takeaway-packaging",
+    "image": "takeaway-boxes",
+    "sourceCatalogue": "catalogue-10_20_34",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "specialty-products-enquiry",
+    "name": "Specialty Products",
+    "category": "specialty-products",
+    "image": "thermoformed",
+    "sourceCatalogue": null,
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "meal-trays-enquiry",
+    "name": "Meal & Packing Trays",
+    "category": "meal-trays",
+    "image": "meal-round",
+    "sourceCatalogue": "catalogue-10_20_53",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "utility-cups-enquiry",
+    "name": "Multipurpose & Utility Cups",
+    "category": "utility-cups",
+    "image": "utility-serving-cups",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "aluminium-foil-enquiry",
+    "name": "Aluminium Foil Packaging",
+    "category": "aluminium-foil",
+    "image": "foil-rectangular",
+    "sourceCatalogue": "catalogue-10_20_38",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "sweets-packaging-enquiry",
+    "name": "Sweets & Mithai Packaging",
+    "category": "sweets-packaging",
+    "image": "sweet-window",
+    "sourceCatalogue": "catalogue-10_20_31",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bakery-packaging-enquiry",
+    "name": "Bakery Packaging",
+    "category": "bakery-packaging",
+    "image": "bakery-boxes",
+    "sourceCatalogue": "catalogue-10_20_15",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "areca-enquiry",
+    "name": "Areca / Supari Leaf Tableware",
+    "category": "areca",
+    "image": "areca-round",
+    "sourceCatalogue": "catalogue-10_20_11",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bagasse-enquiry",
+    "name": "Bagasse / Sugarcane Tableware",
+    "category": "bagasse",
+    "image": "bagasse-plates",
+    "sourceCatalogue": "catalogue-10_19_33",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "kraft-packaging-enquiry",
+    "name": "Paper / Kraft Packaging",
+    "category": "kraft-packaging",
+    "image": "kraft-burger",
+    "sourceCatalogue": "catalogue-10_19_08",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "paper-bags-enquiry",
+    "name": "Paper Bags & Carry Packaging",
+    "category": "paper-bags",
+    "image": "bag-handled",
+    "sourceCatalogue": "catalogue-10_19_04",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "wooden-bamboo-enquiry",
+    "name": "Wooden / Bamboo Accessories",
+    "category": "wooden-bamboo",
+    "image": "wood-spoons",
+    "sourceCatalogue": "catalogue-10_18_54",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "lids-accessories-enquiry",
+    "name": "Lids & Accessories",
+    "category": "lids-accessories",
+    "image": "lid-cups",
+    "sourceCatalogue": "catalogue-10_18_49",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "catering-range-enquiry",
+    "name": "Catering & Function Range",
+    "category": "catering-range",
+    "image": "catering-round",
+    "sourceCatalogue": "catalogue-10_18_40",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "cup-textured",
+    "name": "Textured cup",
+    "category": "cups-glasses",
+    "image": "cup-textured",
+    "sourceCatalogue": "catalogue-10_21_08",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "plate-square",
+    "name": "Square plate",
+    "category": "plates",
+    "image": "plate-square",
+    "sourceCatalogue": "catalogue-10_21_05",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "plate-compartment",
+    "name": "Compartment plate",
+    "category": "plates",
+    "image": "plate-compartment",
+    "sourceCatalogue": "catalogue-10_21_05",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "plate-textured",
+    "name": "Textured plate",
+    "category": "plates",
+    "image": "plate-textured",
+    "sourceCatalogue": "catalogue-10_21_05",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "tray-serving",
+    "name": "Serving tray",
+    "category": "trays",
+    "image": "tray-serving",
+    "sourceCatalogue": "catalogue-10_21_01",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "tray-square",
+    "name": "Square tray",
+    "category": "trays",
+    "image": "tray-square",
+    "sourceCatalogue": "catalogue-10_21_01",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "tray-compartment",
+    "name": "Compartment tray",
+    "category": "trays",
+    "image": "tray-compartment",
+    "sourceCatalogue": "catalogue-10_21_01",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "meal-round",
+    "name": "Round thali",
+    "category": "meal-trays",
+    "image": "meal-round",
+    "sourceCatalogue": "catalogue-10_20_53",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "meal-divided",
+    "name": "Divided meal tray",
+    "category": "meal-trays",
+    "image": "meal-divided",
+    "sourceCatalogue": "catalogue-10_20_53",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "meal-lidded",
+    "name": "Lidded meal tray",
+    "category": "meal-trays",
+    "image": "meal-lidded",
+    "sourceCatalogue": "catalogue-10_20_53",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "container-rectangular",
+    "name": "Rectangular container",
+    "category": "food-containers",
+    "image": "container-rectangular",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "container-round",
+    "name": "Round container",
+    "category": "food-containers",
+    "image": "container-round",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "container-clear",
+    "name": "Clear container",
+    "category": "food-containers",
+    "image": "container-clear",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "clamshell-rectangular",
+    "name": "Rectangular hinged",
+    "category": "clamshell-containers",
+    "image": "clamshell-rectangular",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "clamshell-square",
+    "name": "Square hinged",
+    "category": "clamshell-containers",
+    "image": "clamshell-square",
+    "sourceCatalogue": "catalogue-10_20_46",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "portion-round",
+    "name": "Round portion cup",
+    "category": "portion-sauce-cups",
+    "image": "portion-round",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "portion-square",
+    "name": "Square portion cup",
+    "category": "portion-sauce-cups",
+    "image": "portion-square",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "sauce-lidded",
+    "name": "Lidded sauce cup",
+    "category": "portion-sauce-cups",
+    "image": "sauce-lidded",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "dessert-clear",
+    "name": "Clear dessert cup",
+    "category": "dessert-ice-cream-cups",
+    "image": "dessert-clear",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "dessert-opaque",
+    "name": "Dessert cup",
+    "category": "dessert-ice-cream-cups",
+    "image": "dessert-opaque",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "ice-cream-printed",
+    "name": "Ice cream cup",
+    "category": "dessert-ice-cream-cups",
+    "image": "ice-cream-printed",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "utility-serving-cups",
+    "name": "Utility cup",
+    "category": "utility-cups",
+    "image": "utility-serving-cups",
+    "sourceCatalogue": "catalogue-10_20_43",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "foil-rectangular",
+    "name": "Rectangular foil formats",
+    "category": "aluminium-foil",
+    "image": "foil-rectangular",
+    "sourceCatalogue": "catalogue-10_20_38",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "foil-round",
+    "name": "Round foil formats",
+    "category": "aluminium-foil",
+    "image": "foil-round",
+    "sourceCatalogue": "catalogue-10_20_38",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "foil-divided",
+    "name": "Divided foil formats",
+    "category": "aluminium-foil",
+    "image": "foil-divided",
+    "sourceCatalogue": "catalogue-10_20_38",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "takeaway-boxes",
+    "name": "Takeaway box",
+    "category": "takeaway-packaging",
+    "image": "takeaway-boxes",
+    "sourceCatalogue": "catalogue-10_20_34",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "takeaway-snack",
+    "name": "Snack packaging",
+    "category": "takeaway-packaging",
+    "image": "takeaway-snack",
+    "sourceCatalogue": "catalogue-10_20_34",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "sweet-window",
+    "name": "Window sweet box",
+    "category": "sweets-packaging",
+    "image": "sweet-window",
+    "sourceCatalogue": "catalogue-10_20_31",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "sweet-gift",
+    "name": "Gift box",
+    "category": "sweets-packaging",
+    "image": "sweet-gift",
+    "sourceCatalogue": "catalogue-10_20_31",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "sweet-divided",
+    "name": "Divided sweet box",
+    "category": "sweets-packaging",
+    "image": "sweet-divided",
+    "sourceCatalogue": "catalogue-10_20_31",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bakery-boxes",
+    "name": "Bakery box",
+    "category": "bakery-packaging",
+    "image": "bakery-boxes",
+    "sourceCatalogue": "catalogue-10_20_15",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bakery-domes",
+    "name": "Cake dome",
+    "category": "bakery-packaging",
+    "image": "bakery-domes",
+    "sourceCatalogue": "catalogue-10_20_15",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bakery-slices",
+    "name": "Pastry slice box",
+    "category": "bakery-packaging",
+    "image": "bakery-slices",
+    "sourceCatalogue": "catalogue-10_20_15",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "areca-round",
+    "name": "Leaf tableware round formats",
+    "category": "areca",
+    "image": "areca-round",
+    "sourceCatalogue": "catalogue-10_20_11",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "areca-square",
+    "name": "Leaf tableware square formats",
+    "category": "areca",
+    "image": "areca-square",
+    "sourceCatalogue": "catalogue-10_20_11",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "areca-bowls",
+    "name": "Leaf bowl formats",
+    "category": "areca",
+    "image": "areca-bowls",
+    "sourceCatalogue": "catalogue-10_20_11",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bagasse-plates",
+    "name": "Fibre plate",
+    "category": "bagasse",
+    "image": "bagasse-plates",
+    "sourceCatalogue": "catalogue-10_19_33",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bagasse-hinged",
+    "name": "Fibre hinged box",
+    "category": "bagasse",
+    "image": "bagasse-hinged",
+    "sourceCatalogue": "catalogue-10_19_33",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bagasse-trays",
+    "name": "Fibre meal tray",
+    "category": "bagasse",
+    "image": "bagasse-trays",
+    "sourceCatalogue": "catalogue-10_19_33",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "kraft-burger",
+    "name": "Kraft-style burger box",
+    "category": "kraft-packaging",
+    "image": "kraft-burger",
+    "sourceCatalogue": "catalogue-10_19_08",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "kraft-bowls",
+    "name": "Kraft-style bowl",
+    "category": "kraft-packaging",
+    "image": "kraft-bowls",
+    "sourceCatalogue": "catalogue-10_19_08",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "kraft-meal",
+    "name": "Kraft-style meal box",
+    "category": "kraft-packaging",
+    "image": "kraft-meal",
+    "sourceCatalogue": "catalogue-10_19_08",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bag-handled",
+    "name": "Handled paper bag",
+    "category": "paper-bags",
+    "image": "bag-handled",
+    "sourceCatalogue": "catalogue-10_19_04",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bag-flat",
+    "name": "Flat paper bag",
+    "category": "paper-bags",
+    "image": "bag-flat",
+    "sourceCatalogue": "catalogue-10_19_04",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bag-diecut",
+    "name": "Die-cut bag",
+    "category": "paper-bags",
+    "image": "bag-diecut",
+    "sourceCatalogue": "catalogue-10_19_04",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "tissue-boxes",
+    "name": "Tissue box",
+    "category": "tissues",
+    "image": "tissue-boxes",
+    "sourceCatalogue": "catalogue-10_19_00",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "tissue-dinner",
+    "name": "Dinner napkin",
+    "category": "tissues",
+    "image": "tissue-dinner",
+    "sourceCatalogue": "catalogue-10_19_00",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "wood-spoons",
+    "name": "Wooden spoon",
+    "category": "wooden-bamboo",
+    "image": "wood-spoons",
+    "sourceCatalogue": "catalogue-10_18_54",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "wood-forks",
+    "name": "Wooden fork",
+    "category": "wooden-bamboo",
+    "image": "wood-forks",
+    "sourceCatalogue": "catalogue-10_18_54",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "bamboo-chopsticks",
+    "name": "Bamboo accessory",
+    "category": "wooden-bamboo",
+    "image": "bamboo-chopsticks",
+    "sourceCatalogue": "catalogue-10_18_54",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "lid-cups",
+    "name": "Cup lid",
+    "category": "lids-accessories",
+    "image": "lid-cups",
+    "sourceCatalogue": "catalogue-10_18_49",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "lid-flat-dome",
+    "name": "Flat and dome lid",
+    "category": "lids-accessories",
+    "image": "lid-flat-dome",
+    "sourceCatalogue": "catalogue-10_18_49",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "lid-containers",
+    "name": "Container lid",
+    "category": "lids-accessories",
+    "image": "lid-containers",
+    "sourceCatalogue": "catalogue-10_18_49",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "catering-round",
+    "name": "Catering plate",
+    "category": "catering-range",
+    "image": "catering-round",
+    "sourceCatalogue": "catalogue-10_18_40",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "catering-square",
+    "name": "Catering square plate",
+    "category": "catering-range",
+    "image": "catering-square",
+    "sourceCatalogue": "catalogue-10_18_40",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  },
+  {
+    "slug": "catering-set",
+    "name": "Place-setting concept",
+    "category": "catering-range",
+    "image": "catering-set",
+    "sourceCatalogue": "catalogue-10_18_40",
+    "state": "pending",
+    "specificationsVisible": false,
+    "historicalCapacity": null
+  }
+]

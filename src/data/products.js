@@ -1,10 +1,11 @@
+import {presentationOverrides} from './productPresentation.js';
 import {company} from './company.js';
 import {categoryImages,productImages} from '../image-map.js';
 import {productMedia,visualGroups} from './productMedia.js';
 export const productGroups=[
  {id:'tableware',name:'Tableware',description:'Beverage and meal service formats.',image:'plate-round',categories:['cups-glasses','plates','trays','bowls','cutlery']},
  {id:'food-packaging',name:'Food Packaging',description:'Container, portioning and lid requirements.',image:'container-rectangular',categories:['food-containers','clamshell-containers','meal-trays','portion-sauce-cups','dessert-ice-cream-cups','utility-cups','lids-accessories','thermoformed-products']},
- {id:'material-ranges',name:'Material Ranges',description:'Compare visual directions; confirm construction and availability.',image:'areca-round',categories:['bagasse','areca','kraft-packaging','wooden-bamboo']},
+ {id:'material-ranges',name:'Material Ranges',description:'Formats inspired by leaf, fibre, paper and wood.',image:'areca-round',categories:['bagasse','areca','kraft-packaging','wooden-bamboo']},
  {id:'specialty-packaging',name:'Specialty Packaging',description:'Packaging briefs for takeaway, bakery and sweets.',image:'bakery-boxes',categories:['aluminium-foil','takeaway-packaging','bakery-packaging','sweets-packaging','paper-bags','catering-range','specialty-products','custom-products']},
  {id:'foodservice-essentials',name:'Foodservice Essentials',description:'Dining and paper service requirements.',image:'tissue-napkins',categories:['tissues','paper-products']}
 ];
@@ -27,6 +28,8 @@ export const categoryDefinitions=[
  ['specialty-products','Specialty Products','Tell us about a specific sourcing requirement.',false],
  ['plates-trays','Plates & Trays','Tableware and serving enquiries.',true]
 ,...additional.map(([slug,name,description])=>[slug,name,description,slug==='tissues'])].map(([slug,name,description,verified])=>({id:slug,slug,name,description,verified,enabled:true,legacy:slug==='plates-trays',image:categoryImages[slug],media:productMedia[slug]||productMedia.plates,group:productGroups.find(g=>g.categories.includes(slug))?.id||'tableware',status:verified?'listed':'pending',verification:{availability:verified?'verified':'pending',specifications:'pending',manufacturing:'pending'},manufacturingConfirmed:false}));
+const categoryCopy={plates:'Round, square and compartment plate formats for meal service and catering.',bagasse:'Fibre tableware formats for meals, takeaway and catering.',areca:'Leaf-style plates and bowls for foodservice and event requirements.',tissues:'Napkins and dining formats for foodservice operations.','thermoformed-products':'Formed packaging formats for beverage and foodservice requirements.'};
+for(const c of categoryDefinitions)if(categoryCopy[c.slug])c.description=categoryCopy[c.slug];
 export const categories=categoryDefinitions.filter(c=>c.enabled);
 export const primaryCategories=categories.filter(c=>c.verified&&!c.legacy);
 export const enquiryCategories=categories.filter(c=>!c.verified);
@@ -45,7 +48,7 @@ const rows=[
  ['paper-blanks-bottoms','Paper blanks & bottoms','paper-products','Paper','Production',false,'Paper blanks and bottoms for paper cup production enquiries. Provide the drawing, grade and quantity required.'],
  ['table-tissues','Table tissues & tissue rolls','paper-products','Paper','Food service',false,'Table tissues and tissue rolls for service operations. Discuss format, dimensions and packing quantities.']
 ];
-const defaults={subcategory:null,sku:null,capacity:null,dimensions:null,colour:null,variants:[],features:[],temperatureUse:null,customPrint:null,lidOptions:null,packaging:null,moq:null,packing:null,finish:null,gallery:[],specifications:{},specPdf:null,photographyStatus:'reference',status:'listed',enabled:true,verification:{availability:'pending',specifications:'pending'},exportPacking:{innerPack:null,masterCarton:null,piecesPerCarton:null,cartonDimensions:null,grossWeight:null,netWeight:null,cbm:null,palletization:null,containerLoadingQuantity:null},commercial:{moq:null,samples:null,leadTime:null,paymentTerms:null,incoterms:null,portOfLoading:null}};
+const defaults={subcategory:null,sku:null,capacity:null,dimensions:null,colour:null,variants:[],features:[],temperatureUse:null,customPrint:null,lidOptions:null,packaging:null,moq:null,packing:null,finish:null,gallery:[],specifications:{},specPdf:null,photographyStatus:'reference',status:'listed',enabled:true,verification:{availability:'pending',specifications:'pending'},exportPacking:{innerPack:null,piecesPerPack:null,packsPerCarton:null,masterCarton:null,piecesPerCarton:null,cartonDimensions:null,grossWeight:null,netWeight:null,cbm:null,palletization:null,containerLoadingQuantity:null},commercial:{moq:null,samples:null,leadTime:null,paymentTerms:null,incoterms:null,portOfLoading:null}};
 export const productDefinitions=rows.map(([slug,name,category,material,application,customizable,description])=>({...defaults,id:slug,slug,name,category,material,application,applications:[application],customizable,description,shortDescription:description.split('. ')[0]+(description.includes('. ')?'.':''),verification:{availability:'verified',specifications:'pending'},source:company.source,sizes:slug==='100ml-tea-cup'?['100 ml']:[],capacity:slug==='100ml-tea-cup'?'100 ml':null,customPrint:['paper-cups','printed-paper-cups','100ml-tea-cup'].includes(slug)?true:null,featured:['printed-paper-cups','plastic-cups','paper-plates'].includes(slug),image:productImages[slug]||categoryImages[category],images:[],referenceOnly:false}));
 for(const c of enquiryCategories)productDefinitions.push({...defaults,id:c.slug+'-enquiry',slug:c.slug+'-enquiry',name:c.name+' enquiry',category:c.slug,material:null,application:'Requirement enquiry',applications:[],customizable:null,description:`Discuss your ${c.name.toLowerCase()} requirement. Availability and sourcing feasibility must be confirmed; this reference is not a confirmed product specification.`,shortDescription:'Availability and specification on enquiry.',sizes:[],featured:false,status:'pending',referenceOnly:true,image:c.image,source:null});
 // Clean visual groups are concept enquiries, not newly verified SK products.
@@ -53,6 +56,16 @@ const bound={'plate-round':'paper-plates','cutlery-spoons':'disposable-spoons-fo
 for(const [category,media] of Object.entries(productMedia))for(const id of media.groups){const v=visualGroups.find(x=>x.id===id);if(bound[id])continue;productDefinitions.push({...defaults,id,slug:id,name:v.name,category,material:null,application:'Requirement enquiry',applications:[],customizable:null,description:`Use this ${v.name.toLowerCase()} visual to explain your requirement. Confirm availability, construction and suitability with SK Thermoformers before ordering.`,shortDescription:'Visual format reference. Availability requires confirmation.',source:null,sourceCatalogue:media.catalogue,sizes:[],featured:false,status:'pending',referenceOnly:true,image:id,images:[],searchTerms:category+' '+v.name});}
 for(const p of productDefinitions){
  if(p.slug==='paper-blanks-bottoms'){p.image=null;p.photographyStatus='pending';}
+ p.historicalData={name:p.name,material:p.material,capacity:p.capacity,description:p.description};
+ Object.assign(p,presentationOverrides[p.slug]||{});
+ p.contentState=p.status==='pending'?'pending':'range-level';
+ p.verification={...p.verification,imageMatch:'range-level'};
+ p.subcategory=p.name;
+ p.name=p.name.replace(/ styles$| concepts$| presentation$| enquiry$/g,'');
+ p.shortDescription=p.application!=='Requirement enquiry'?p.name+' for '+p.application.toLowerCase()+' and bulk requirements.':p.name+' for foodservice, distribution and bulk requirements.';
+ p.description=p.shortDescription+' Share your intended use, quantity and packing requirements with our team.';
+ // Company-approved entries can supply actual media and verified facts here later.
+ Object.assign(p,presentationOverrides[p.slug]||{});
  p.images=p.image?[p.image]:[];
 }
 export const products=productDefinitions.filter(p=>p.enabled&&categories.some(c=>c.slug===p.category));

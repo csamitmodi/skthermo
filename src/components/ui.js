@@ -1,4 +1,6 @@
-import {imageAssets} from '../image-map.js';
+import {imageAssets as baseImages} from '../image-map.js';
+import {storyMedia} from '../data/storyMedia.js';
+const imageAssets={...baseImages,...storyMedia};
 import {company} from '../data/company.js';
 export const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const icon=(kind='arrow')=>`<svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">${kind==='menu'?'<path d="M4 6h16M4 12h16M4 18h16"/>':kind==='close'?'<path d="m6 6 12 12M18 6 6 18"/>':kind==='chevron'?'<path d="m6 9 6 6 6-6"/>':kind==='filter'?'<path d="M4 6h16M7 12h10M10 18h4"/>':'<path d="M6 18 18 6M6 6h12v12"/>'}</svg>`;
