@@ -1,0 +1,440 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "route": "/",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-1440.webp",
+        "http://localhost:3004/assets/site-media/foodservice-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "/products",
+      "sceneImages": []
+    },
+    {
+      "width": 1440,
+      "route": "/manufacturing",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/manufacturing-1440.webp"
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "/quality",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/quality-1440.webp"
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "/custom-solutions",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/customPrinting-1440.webp"
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "/industries",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-1440.webp"
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "/solutions",
+      "sceneImages": []
+    },
+    {
+      "width": 1440,
+      "route": "/export",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/export-1440.webp"
+      ]
+    },
+    {
+      "width": 1440,
+      "route": "/contact",
+      "sceneImages": []
+    },
+    {
+      "width": 1440,
+      "route": "/rfq",
+      "sceneImages": []
+    },
+    {
+      "width": 1440,
+      "route": "/about",
+      "sceneImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-1440.webp"
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "/products",
+      "sceneImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/manufacturing",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/manufacturing-1440.webp"
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "/quality",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/quality-1440.webp"
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "/custom-solutions",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/customPrinting-1440.webp"
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "/industries",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-1440.webp"
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "/solutions",
+      "sceneImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/export",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/export-1440.webp"
+      ]
+    },
+    {
+      "width": 1024,
+      "route": "/contact",
+      "sceneImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/rfq",
+      "sceneImages": []
+    },
+    {
+      "width": 1024,
+      "route": "/about",
+      "sceneImages": []
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 768,
+      "route": "/products",
+      "sceneImages": []
+    },
+    {
+      "width": 768,
+      "route": "/manufacturing",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/manufacturing-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 768,
+      "route": "/quality",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/quality-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 768,
+      "route": "/custom-solutions",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/customPrinting-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 768,
+      "route": "/industries",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 768,
+      "route": "/solutions",
+      "sceneImages": []
+    },
+    {
+      "width": 768,
+      "route": "/export",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/export-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 768,
+      "route": "/contact",
+      "sceneImages": []
+    },
+    {
+      "width": 768,
+      "route": "/rfq",
+      "sceneImages": []
+    },
+    {
+      "width": 768,
+      "route": "/about",
+      "sceneImages": []
+    },
+    {
+      "width": 430,
+      "route": "/",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-800.webp"
+      ]
+    },
+    {
+      "width": 430,
+      "route": "/products",
+      "sceneImages": []
+    },
+    {
+      "width": 430,
+      "route": "/manufacturing",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/manufacturing-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 430,
+      "route": "/quality",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/quality-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 430,
+      "route": "/custom-solutions",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/customPrinting-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 430,
+      "route": "/industries",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 430,
+      "route": "/solutions",
+      "sceneImages": []
+    },
+    {
+      "width": 430,
+      "route": "/export",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/export-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 430,
+      "route": "/contact",
+      "sceneImages": []
+    },
+    {
+      "width": 430,
+      "route": "/rfq",
+      "sceneImages": []
+    },
+    {
+      "width": 430,
+      "route": "/about",
+      "sceneImages": []
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 390,
+      "route": "/products",
+      "sceneImages": []
+    },
+    {
+      "width": 390,
+      "route": "/manufacturing",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/manufacturing-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 390,
+      "route": "/quality",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/quality-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 390,
+      "route": "/custom-solutions",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/customPrinting-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 390,
+      "route": "/industries",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 390,
+      "route": "/solutions",
+      "sceneImages": []
+    },
+    {
+      "width": 390,
+      "route": "/export",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/export-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 390,
+      "route": "/contact",
+      "sceneImages": []
+    },
+    {
+      "width": 390,
+      "route": "/rfq",
+      "sceneImages": []
+    },
+    {
+      "width": 390,
+      "route": "/about",
+      "sceneImages": []
+    },
+    {
+      "width": 360,
+      "route": "/",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 360,
+      "route": "/products",
+      "sceneImages": []
+    },
+    {
+      "width": 360,
+      "route": "/manufacturing",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/manufacturing-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 360,
+      "route": "/quality",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/quality-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 360,
+      "route": "/custom-solutions",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/customPrinting-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 360,
+      "route": "/industries",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/foodservice-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 360,
+      "route": "/solutions",
+      "sceneImages": []
+    },
+    {
+      "width": 360,
+      "route": "/export",
+      "sceneImages": [
+        "http://localhost:3004/assets/site-media/export-mobile-480.webp"
+      ]
+    },
+    {
+      "width": 360,
+      "route": "/contact",
+      "sceneImages": []
+    },
+    {
+      "width": 360,
+      "route": "/rfq",
+      "sceneImages": []
+    },
+    {
+      "width": 360,
+      "route": "/about",
+      "sceneImages": []
+    }
+  ],
+  "sizes": {
+    "manufacturing": {
+      "sourceBytes": 2206637,
+      "webp1440Bytes": 168480,
+      "mobile480Bytes": 56000
+    },
+    "customPrinting": {
+      "sourceBytes": 2171908,
+      "webp1440Bytes": 161742,
+      "mobile480Bytes": 52478
+    },
+    "export": {
+      "sourceBytes": 2341017,
+      "webp1440Bytes": 203388,
+      "mobile480Bytes": 50890
+    },
+    "quality": {
+      "sourceBytes": 1925107,
+      "webp1440Bytes": 112284,
+      "mobile480Bytes": 33642
+    },
+    "foodservice": {
+      "sourceBytes": 2365496,
+      "webp1440Bytes": 192286,
+      "mobile480Bytes": 49600
+    }
+  },
+  "errors": [],
+  "depth": "Native bounded sticky on capable desktop",
+  "reducedMotion": "static",
+  "mobile": "image blocks",
+  "rfqContext": true,
+  "emailDraftOnly": true
+}

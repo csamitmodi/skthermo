@@ -8,7 +8,7 @@ export const link=(text,url,cls='text-link')=>`<a class="${cls}" href="${esc(url
 export const quote=(label='Request a Quote',product='',kind='Domestic bulk',category='')=>`<button type="button" class="button" data-quote="${esc(product)}" data-kind="${esc(kind)}" data-category="${esc(category)}">${esc(label)} ${icon()}</button>`;
 export const heading=(eyebrow,title,description='')=>`<div class="section-head"><div><p class="eyebrow">${esc(eyebrow)}</p><h2>${esc(title)}</h2></div>${description?`<p>${esc(description)}</p>`:''}</div>`;
 export function photo(key,alt,{priority=false,sizes='(max-width:600px) 90vw, (max-width:1024px) 45vw, 30vw',cls=''}={}){
- const a=imageAssets[key];if(!a)return `<div class="photo-placeholder"><span>SKP</span><p>Product photograph on request</p></div>`;
+ const a=imageAssets[key];if(!a)return `<div class="photo-placeholder"><span>SKP</span><p>Discuss this range</p></div>`;
  return `<img class="actual-product-photo ${cls}" src="${a.src}" srcset="${a.srcset}" sizes="${sizes}" alt="${esc(alt)}" width="${a.width}" height="${a.height}" loading="${priority?'eager':'lazy'}" decoding="async" ${priority?'fetchpriority="high"':''}>`;
 }
 export const brand=()=>`<a class="logo" href="/" aria-label="SKP - S. K. Thermoformers home"><img src="${imageAssets.logo.src}" width="249" height="89" alt="SKP"><span>S. K. THERMOFORMERS<small>FOODSERVICE DISPOSABLES</small></span></a>`;

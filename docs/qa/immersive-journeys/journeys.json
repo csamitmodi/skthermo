@@ -1,0 +1,13 @@
+{
+  "journeys": 5,
+  "productContext": true,
+  "categoryChangeClearsStaleProduct": true,
+  "noInventedCapacity": true,
+  "widths": [
+    360,
+    390,
+    430,
+    1440
+  ],
+  "errors": []
+}
