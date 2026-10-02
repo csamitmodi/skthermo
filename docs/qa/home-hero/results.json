@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "viewportWidth": 1920,
+      "src": "http://localhost:3003/assets/home-hero/desktop-1123.webp",
+      "width": 1267,
+      "height": 894,
+      "heroHeight": 682
+    },
+    {
+      "viewportWidth": 1440,
+      "src": "http://localhost:3003/assets/home-hero/desktop-960.webp",
+      "width": 950,
+      "height": 671,
+      "heroHeight": 682
+    },
+    {
+      "viewportWidth": 1024,
+      "src": "http://localhost:3003/assets/home-hero/desktop-960.webp",
+      "width": 675,
+      "height": 477,
+      "heroHeight": 620
+    },
+    {
+      "viewportWidth": 768,
+      "src": "http://localhost:3003/assets/home-hero/mobile-1083.webp",
+      "width": 768,
+      "height": 473,
+      "heroHeight": 873
+    },
+    {
+      "viewportWidth": 430,
+      "src": "http://localhost:3003/assets/home-hero/mobile-480.webp",
+      "width": 430,
+      "height": 265,
+      "heroHeight": 658
+    },
+    {
+      "viewportWidth": 390,
+      "src": "http://localhost:3003/assets/home-hero/mobile-480.webp",
+      "width": 389,
+      "height": 240,
+      "heroHeight": 628
+    },
+    {
+      "viewportWidth": 360,
+      "src": "http://localhost:3003/assets/home-hero/mobile-480.webp",
+      "width": 360,
+      "height": 222,
+      "heroHeight": 609
+    }
+  ],
+  "errors": [],
+  "checks": [
+    "HTML content and CTA routing",
+    "Desktop/mobile art direction",
+    "Eager high-priority image",
+    "No original PNG or full catalogue fetch",
+    "No horizontal overflow",
+    "RFQ Escape and focus restore"
+  ]
+}
