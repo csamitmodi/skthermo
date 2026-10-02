@@ -1,0 +1,131 @@
+{
+  "browser": "Chrome",
+  "viewports": [
+    {
+      "lang": "en",
+      "route": "/solutions",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "route": "/contact",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "route": "/solutions",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "route": "/contact",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "route": "/solutions",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "route": "/contact",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "route": "/solutions",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "route": "/contact",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "route": "/solutions",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "route": "/contact",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "route": "/solutions",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "route": "/contact",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "route": "/solutions",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "route": "/contact",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "route": "/solutions",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "route": "/contact",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "route": "/solutions",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "route": "/contact",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "route": "/solutions",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "route": "/contact",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "route": "/solutions",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "route": "/contact",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "route": "/solutions",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "route": "/contact",
+      "width": 360
+    }
+  ],
+  "checks": [
+    "Approved telephone and WhatsApp number, encoded contextual messages, safe external links, English/Hindi legacy redirects preserve query context",
+    "Eight solution journeys, solutions RFQ source, Contact form and honest email-draft fallback retain category/quantity; no enquiry sent",
+    "Mobile contact bar, preserved enquiry list, non-overlapping controls, context-prefilled RFQ, input-focus fallback and reduced motion"
+  ],
+  "errors": []
+}

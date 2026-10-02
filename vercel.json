@@ -4,13 +4,61 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    {"source":"/about.php","destination":"/about","permanent":true},
-    {"source":"/contact.php","destination":"/contact","permanent":true},
-    {"source":"/contact-us.php","destination":"/contact","permanent":true},
-    {"source":"/infrastructure.php","destination":"/manufacturing","permanent":true},
-    {"source":"/gallery.php","destination":"/manufacturing","permanent":true},
-    {"source":"/blog.php","destination":"/resources","permanent":true},
-    {"source":"/product.php","destination":"/products","permanent":true}
+    {
+      "source": "/about.php",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/contact.php",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us.php",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/infrastructure.php",
+      "destination": "/manufacturing",
+      "permanent": true
+    },
+    {
+      "source": "/gallery.php",
+      "destination": "/manufacturing",
+      "permanent": true
+    },
+    {
+      "source": "/blog.php",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/product.php",
+      "destination": "/products",
+      "permanent": true
+    },
+    {
+      "source": "/solutions/mithai-halwai",
+      "destination": "/solutions/sweets-confectionery",
+      "permanent": true
+    },
+    {
+      "source": "/hi/solutions/mithai-halwai",
+      "destination": "/hi/solutions/sweets-confectionery",
+      "permanent": true
+    }
   ],
-  "headers": [{"source":"/assets/:path*","headers":[{"key":"Cache-Control","value":"public, max-age=3600"}]}]
+  "headers": [
+    {
+      "source": "/assets/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    }
+  ]
 }

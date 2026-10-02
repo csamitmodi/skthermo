@@ -4,6 +4,9 @@ import {submitEnquiry} from './enquiry.js';
 const config=JSON.parse(document.querySelector('#site-config').textContent);
 const products=config.products;
 const platformClient=initPlatform(config);
+// Stable first-party hooks for future analytics; no analytics service or contact data is sent.
+const actionEvent=(name,details={})=>document.dispatchEvent(new CustomEvent('skp:action',{detail:{name,...details}}));
+document.addEventListener('click',e=>{const action=e.target.closest('[data-event]');if(action)actionEvent(action.dataset.event,{path:basePath(location.pathname)});});
 const modal=document.querySelector('#rfq-modal');
 const mobileToggle=document.querySelector('#mobile-toggle');
 const mobileNav=document.querySelector('#mobile-nav');
@@ -19,12 +22,13 @@ addEventListener('scroll',()=>document.querySelector('#site-header').classList.t
 function setProduct(f,slug){const p=products.find(x=>x.slug===slug);f.elements.product.value=p?.slug||'';if(p){f.elements.category.value=p.category;f.elements.size.value=p.capacity||'';}filterProductOptions(f);const preview=f.querySelector('.rfq-product-preview');if(preview){preview.replaceChildren();preview.hidden=!p;if(p){if(p.image){const img=document.createElement('img');img.src=p.image;img.alt=p.name;img.width=160;img.height=100;preview.append(img);}const label=document.createElement('span');label.textContent=p.name;preview.append(label);}}}
 function resetResult(f){f.querySelector('.form-status').textContent='';f.querySelector('.email-result').hidden=true;}
 function filterProductOptions(f){for(const option of f.elements.product.options){if(!option.value)continue;const p=products.find(p=>p.slug===option.value);option.hidden=option.value.endsWith('-enquiry')||Boolean(f.elements.category.value&&p?.category!==f.elements.category.value);}}
-document.querySelectorAll('[data-quote]').forEach(b=>b.addEventListener('click',()=>{const f=modal.querySelector('form');f.reset();setProduct(f,b.dataset.quote);if(b.dataset.category)f.elements.category.value=b.dataset.category;filterProductOptions(f);f.elements.enquiryType.value=b.dataset.kind||'Domestic bulk';if([...f.elements.pathway.options].some(o=>o.value===b.dataset.kind))f.elements.pathway.value=b.dataset.kind;modal.querySelector('#rfq-title').textContent=products.find(p=>p.slug===b.dataset.quote)?.name||'Discuss your requirement.';resetResult(f);quoteOpener=b;modal.showModal();document.body.classList.add('modal-open');}));
+document.querySelectorAll('[data-quote]').forEach(b=>b.addEventListener('click',()=>{const f=modal.querySelector('form');f.reset();f.dataset.source=b.dataset.source||basePath(location.pathname);actionEvent('rfq_click',{source:f.dataset.source});setProduct(f,b.dataset.quote);if(b.dataset.category)f.elements.category.value=b.dataset.category;filterProductOptions(f);f.elements.enquiryType.value=b.dataset.kind||'Domestic bulk';if([...f.elements.pathway.options].some(o=>o.value===b.dataset.kind))f.elements.pathway.value=b.dataset.kind;modal.querySelector('#rfq-title').textContent=products.find(p=>p.slug===b.dataset.quote)?.name||'Discuss your requirement.';resetResult(f);quoteOpener=b;modal.showModal();document.body.classList.add('modal-open');}));
 modal.querySelector('.modal-close').addEventListener('click',()=>modal.close());
 modal.addEventListener('close',()=>{document.body.classList.remove('modal-open');quoteOpener?.focus();});
 modal.addEventListener('click',e=>{if(e.target===modal){const r=modal.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)modal.close();}});
 document.querySelectorAll('[data-lead-form]').forEach(f=>{
  let draft='';const status=f.querySelector('.form-status');
+ f.addEventListener('focusin',()=>actionEvent('contact_form_start',{form:f.id}),{once:true});
  f.addEventListener('input',()=>resetResult(f));
  f.elements.pathway.addEventListener('change',()=>f.elements.enquiryType.value=f.elements.pathway.value);
  f.elements.product.addEventListener('change',()=>setProduct(f,f.elements.product.value));
@@ -32,8 +36,8 @@ document.querySelectorAll('[data-lead-form]').forEach(f=>{
  f.addEventListener('submit',async e=>{
   e.preventDefault();if(!f.reportValidity()||f.elements.website.value)return;
   const file=f.elements.artwork.files[0];if(file&&(file.size>5*1024*1024||! /\.(pdf|png|jpe?g)$/i.test(file.name))){status.textContent='Select a PDF, PNG or JPG smaller than 5 MB.';status.focus();return;}
-  const data=new FormData(f);const p=products.find(x=>x.slug===data.get('product'));const subject=`SKP ${data.get('enquiryType')} - ${p?.name||data.get('company')||data.get('name')}`;
-  const labels={enquiryType:'Enquiry type',name:'Name',company:'Company',email:'Email',phone:'Phone',country:'Country',city:'State / city',buyerType:'Buyer type',category:'Product category',product:'Product',size:'Size / capacity',quantity:'Estimated quantity',customization:'Customization',destination:'Destination port / city',branding:'Custom branding requirement',shippingAddress:'Shipping city / address',courierPreference:'Courier preference / account',message:'Message'};
+  const data=new FormData(f);data.set('source',f.dataset.source||basePath(location.pathname));actionEvent('contact_form_submit',{form:f.id,source:data.get('source')});const p=products.find(x=>x.slug===data.get('product'));const subject=`SKP ${data.get('enquiryType')} - ${p?.name||data.get('company')||data.get('name')}`;
+  const labels={source:'Source',enquiryType:'Enquiry type',name:'Name',company:'Company',email:'Email',phone:'Phone',country:'Country',city:'State / city',buyerType:'Buyer type',category:'Product category',product:'Product',size:'Size / capacity',quantity:'Estimated quantity',customization:'Customization',destination:'Destination port / city',branding:'Custom branding requirement',shippingAddress:'Shipping city / address',courierPreference:'Courier preference / account',message:'Message'};
   draft=[subject,...Object.entries(labels).filter(([k])=>data.get(k)).map(([k,label])=>`${label}: ${k==='product'?(p?.name||data.get(k)):k==='category'?(config.categories[data.get(k)]||data.get(k)):data.get(k)}`),file?`Attachment: ${file.name} (attach manually)`:''].filter(Boolean).join('\n');
   const selected=platformClient.payload(f);if(selected){data.set('items',JSON.stringify(selected.items));draft+='\n\nSelected Product Families\n'+selected.items.map((x,i)=>`${i+1}. ${x.name} (${config.categories[x.category]})${x.quantity?' - Quantity: '+x.quantity:''}${x.notes?' - '+x.notes:''}`).join('\n');}
   const submit=f.querySelector('[type=submit]');submit.disabled=true;status.textContent=config.leadEndpoint?'Sending your enquiry...':'Preparing your enquiry...';

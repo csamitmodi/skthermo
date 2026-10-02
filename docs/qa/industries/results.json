@@ -1,0 +1,142 @@
+{
+  "widths": [
+    {
+      "lang": "en",
+      "width": 1440,
+      "columns": 3
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "columns": 2
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "columns": 2
+    },
+    {
+      "lang": "en",
+      "width": 430,
+      "columns": 1
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "columns": 1
+    },
+    {
+      "lang": "en",
+      "width": 360,
+      "columns": 1
+    },
+    {
+      "lang": "hi",
+      "width": 1440,
+      "columns": 3
+    },
+    {
+      "lang": "hi",
+      "width": 1024,
+      "columns": 2
+    },
+    {
+      "lang": "hi",
+      "width": 768,
+      "columns": 2
+    },
+    {
+      "lang": "hi",
+      "width": 430,
+      "columns": 1
+    },
+    {
+      "lang": "hi",
+      "width": 390,
+      "columns": 1
+    },
+    {
+      "lang": "hi",
+      "width": 360,
+      "columns": 1
+    }
+  ],
+  "destinations": [
+    {
+      "industry": "Restaurants & QSR",
+      "href": "/industries/restaurants-qsr",
+      "categories": [
+        "cups-glasses",
+        "bowls",
+        "cutlery"
+      ]
+    },
+    {
+      "industry": "Hotels",
+      "href": "/industries/hotels",
+      "categories": [
+        "cups-glasses",
+        "plates",
+        "paper-products"
+      ]
+    },
+    {
+      "industry": "Catering",
+      "href": "/industries/catering",
+      "categories": [
+        "plates",
+        "bowls",
+        "cutlery"
+      ]
+    },
+    {
+      "industry": "Events",
+      "href": "/industries/events",
+      "categories": [
+        "cups-glasses",
+        "plates",
+        "cutlery"
+      ]
+    },
+    {
+      "industry": "Institutional Foodservice",
+      "href": "/industries/institutional-buyers",
+      "categories": [
+        "cups-glasses",
+        "bowls",
+        "plates",
+        "cutlery"
+      ]
+    },
+    {
+      "industry": "Corporate Buyers",
+      "href": "/industries/corporate-buyers",
+      "categories": [
+        "cups-glasses",
+        "paper-products",
+        "plates"
+      ]
+    },
+    {
+      "industry": "Retail & Food Businesses",
+      "href": "/industries/retail",
+      "categories": [
+        "cups-glasses",
+        "bowls",
+        "paper-products"
+      ]
+    },
+    {
+      "industry": "Distributors & Wholesalers",
+      "href": "/industries/wholesalers-distributors",
+      "categories": [
+        "cups-glasses",
+        "plates",
+        "bowls",
+        "cutlery",
+        "paper-products"
+      ]
+    }
+  ],
+  "errors": []
+}

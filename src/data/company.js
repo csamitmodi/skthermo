@@ -5,7 +5,8 @@ export const company = {
  email:'skthermoformers@gmail.com', phone:'+91 94140 15833',
  phones:['+91 94140 15833','+91 93515 86314','+91 93519 04615'],
  address:'Harsoli Road, Near Shailja Grits Udyog, Khairthal, Alwar - 301404, Rajasthan, India',
- source:'https://www.skgroupalwar.com/about.php', whatsapp:null, leadEndpoint:null,
+ // Primary phone and WhatsApp approved in the current user instruction; historic numbers remain internal.
+ source:'https://www.skgroupalwar.com/about.php', whatsapp:'919414015833', leadEndpoint:null,
  established:null, history:[], leadership:[], milestones:[], metrics:[], certifications:[],
  machinery:[], productionCapacity:null, exportMarkets:[], clientLogos:[], social:[], catalogue:null,
  trustFacts:['Years in business','Factory','Production capacity','Certifications','Quality systems','Export markets','Infrastructure','Clients','Registrations'].map(label=>({label,value:null,verified:false,source:null})),
