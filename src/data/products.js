@@ -1,4 +1,5 @@
 import {presentationOverrides} from './productPresentation.js';
+import {translate} from '../locales/hi.js';
 import {company} from './company.js';
 import {categoryImages,productImages} from '../image-map.js';
 import {productMedia,visualGroups} from './productMedia.js';
@@ -66,7 +67,7 @@ for(const p of productDefinitions){
  p.description=p.shortDescription+' Share your intended use, quantity and packing requirements with our team.';
  // Company-approved entries can supply actual media and verified facts here later.
  Object.assign(p,presentationOverrides[p.slug]||{});
- p.images=p.image?[p.image]:[];
+ p.images=p.images?.length?[...new Set(p.images)]:p.image?[p.image]:[];
 }
 export const products=productDefinitions.filter(p=>p.enabled&&categories.some(c=>c.slug===p.category));
 export const listedProducts=products.filter(p=>p.status==='listed');
@@ -74,3 +75,7 @@ export function productsForCategory(c){if(!c)return products.filter(p=>!p.slug.e
 export const homeCategories=['cups-glasses','plates','food-containers','takeaway-packaging','bagasse','kraft-packaging','aluminium-foil','catering-range'].map(slug=>categories.find(c=>c.slug===slug)).filter(Boolean);
 
 export const relatedCategoryViews={plates:['bagasse-plates','areca-round','areca-square','catering-round','catering-square'],bowls:['areca-bowls','kraft-bowls'],cutlery:['wood-spoons','wood-forks'],trays:['bagasse-trays','meal-divided'],tissues:['table-tissues']};
+// One identity/database, with localized display fields. English compatibility remains intact.
+for(const item of [...categories,...products])item.localized=Object.fromEntries(['name','description','shortDescription'].filter(key=>item[key]).map(key=>[key,{en:item[key],hi:translate(item[key])}]));
+// Additional photo roles can be supplied without duplicating one reference image in a gallery.
+for(const p of products){p.mediaRoles={primary:p.image,alternate:[],side:[],packaging:[],application:[],technical:[],...p.mediaRoles};p.image=p.mediaRoles.primary;p.images=[...new Set([p.mediaRoles.primary,...p.images,...p.mediaRoles.alternate,...p.mediaRoles.side,...p.mediaRoles.packaging,...p.mediaRoles.application,...p.mediaRoles.technical].filter(Boolean))];}

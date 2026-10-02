@@ -1,6 +1,9 @@
+import {initLanguage,basePath,languagePath,routeLanguage} from './i18n.js';
+import {initPlatform} from './platformClient.js';
 import {submitEnquiry} from './enquiry.js';
 const config=JSON.parse(document.querySelector('#site-config').textContent);
 const products=config.products;
+const platformClient=initPlatform(config);
 const modal=document.querySelector('#rfq-modal');
 const mobileToggle=document.querySelector('#mobile-toggle');
 const mobileNav=document.querySelector('#mobile-nav');
@@ -30,14 +33,15 @@ document.querySelectorAll('[data-lead-form]').forEach(f=>{
   e.preventDefault();if(!f.reportValidity()||f.elements.website.value)return;
   const file=f.elements.artwork.files[0];if(file&&(file.size>5*1024*1024||! /\.(pdf|png|jpe?g)$/i.test(file.name))){status.textContent='Select a PDF, PNG or JPG smaller than 5 MB.';status.focus();return;}
   const data=new FormData(f);const p=products.find(x=>x.slug===data.get('product'));const subject=`SKP ${data.get('enquiryType')} - ${p?.name||data.get('company')||data.get('name')}`;
-  const labels={enquiryType:'Enquiry type',name:'Name',company:'Company',email:'Email',phone:'Phone',country:'Country',city:'State / city',buyerType:'Buyer type',category:'Product category',product:'Product',size:'Size / capacity',quantity:'Estimated quantity',customization:'Customization',destination:'Destination port / city',branding:'Custom branding requirement',message:'Message'};
+  const labels={enquiryType:'Enquiry type',name:'Name',company:'Company',email:'Email',phone:'Phone',country:'Country',city:'State / city',buyerType:'Buyer type',category:'Product category',product:'Product',size:'Size / capacity',quantity:'Estimated quantity',customization:'Customization',destination:'Destination port / city',branding:'Custom branding requirement',shippingAddress:'Shipping city / address',courierPreference:'Courier preference / account',message:'Message'};
   draft=[subject,...Object.entries(labels).filter(([k])=>data.get(k)).map(([k,label])=>`${label}: ${k==='product'?(p?.name||data.get(k)):k==='category'?(config.categories[data.get(k)]||data.get(k)):data.get(k)}`),file?`Attachment: ${file.name} (attach manually)`:''].filter(Boolean).join('\n');
+  const selected=platformClient.payload(f);if(selected){data.set('items',JSON.stringify(selected.items));draft+='\n\nSelected Product Families\n'+selected.items.map((x,i)=>`${i+1}. ${x.name} (${config.categories[x.category]})${x.quantity?' - Quantity: '+x.quantity:''}${x.notes?' - '+x.notes:''}`).join('\n');}
   const submit=f.querySelector('[type=submit]');submit.disabled=true;status.textContent=config.leadEndpoint?'Sending your enquiry...':'Preparing your enquiry...';
   try{const result=await submitEnquiry(data,{endpoint:config.leadEndpoint,email:config.email,subject,draft});if(result.mode==='email'){f.querySelector('[data-email-link]').href=result.href;f.querySelector('.email-result').hidden=false;status.textContent='Continue in your email app to send this enquiry. Your draft has not been sent.';}else{f.reset();status.textContent='Your enquiry was received.';}}catch{status.textContent='Delivery could not be confirmed. Contact the team by email or phone.';}finally{submit.disabled=false;status.focus();}
  });
  f.querySelector('[data-download-enquiry]').addEventListener('click',()=>{const url=URL.createObjectURL(new Blob([draft],{type:'text/plain'}));const a=document.createElement('a');a.href=url;a.download='skp-enquiry.txt';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);});
 });
-const params=new URLSearchParams(location.search);if(['/rfq','/export'].includes(location.pathname)){const f=document.querySelector('main form');const kind=params.get('kind');if(kind&&[...f.elements.pathway.options].some(o=>o.value===kind)){f.elements.pathway.value=kind;f.elements.enquiryType.value=kind;}if(params.get('category')&&config.categories[params.get('category')])f.elements.category.value=params.get('category')==='plates-trays'?'plates':params.get('category');if(params.get('product'))setProduct(f,params.get('product'));}
+const params=new URLSearchParams(location.search);if(['/rfq','/export'].includes(basePath(location.pathname))){const f=document.querySelector('main form');const kind=params.get('kind');if(kind&&[...f.elements.pathway.options].some(o=>o.value===kind)){f.elements.pathway.value=kind;f.elements.enquiryType.value=kind;}if(params.get('category')&&config.categories[params.get('category')])f.elements.category.value=params.get('category')==='plates-trays'?'plates':params.get('category');if(params.get('product'))setProduct(f,params.get('product'));}
 const search=document.querySelector('#search');if(search){
  const ids=['search','category','material','application','size','custom'];const filterEls=ids.map(id=>document.getElementById(id));
  let resultPage=0;const pageSize=12,pagination=document.querySelector('.catalog-pagination');
@@ -45,8 +49,8 @@ const search=document.querySelector('#search');if(search){
  for(const [id,step] of [['previous-results',-1],['next-results',1]])document.getElementById(id).addEventListener('click',()=>{resultPage+=step;update(false);document.querySelector('.results-bar').scrollIntoView({block:'start'});});
 
  filterEls.filter(Boolean).forEach(el=>el.addEventListener('input',update));
- document.querySelector('#reset-filters').addEventListener('click',()=>{filterEls.filter(Boolean).forEach(el=>el.value='');update();});
- document.querySelector('#category').addEventListener('change',e=>{if(location.pathname!=='/products')location.href='/products'+(e.target.value?'/'+e.target.value:'');});
+ const clearFilters=()=>{filterEls.filter(Boolean).forEach(el=>el.value='');update();};document.querySelector('#reset-filters').addEventListener('click',clearFilters);document.querySelector('[data-clear-filters]')?.addEventListener('click',clearFilters);
+ document.querySelector('#category').addEventListener('change',e=>{if(basePath(location.pathname)!=='/products')location.href=languagePath('/products'+(e.target.value?'/'+e.target.value:''),routeLanguage(location.pathname));});
  search.value=params.get('q')||'';update();
  const toggle=document.querySelector('.filter-toggle'),panel=document.querySelector('#filter-panel'),close=document.querySelector('.filter-close');let inert=[];
  function closeDrawer(){document.body.classList.remove('filters-open');toggle.setAttribute('aria-expanded','false');panel.removeAttribute('role');panel.removeAttribute('aria-modal');for(const [node,prior] of inert)node.inert=prior;inert=[];toggle.focus();}
@@ -69,3 +73,5 @@ const catalogueSelect=document.querySelector('#reference-catalogue');document.qu
 
 // Keep Tab navigation within dialog controls, including browser focus-wrap edge cases.
 for(const dialog of [modal,catalogueModal])dialog.addEventListener('keydown',event=>{if(event.key!=='Tab')return;const controls=[...dialog.querySelectorAll('a[href],button,input,select,textarea,[tabindex]')].filter(el=>!el.disabled&&el.tabIndex>=0&&el.getClientRects().length);const first=controls[0],last=controls.at(-1);if(event.shiftKey&&document.activeElement===first){event.preventDefault();last.focus();}else if(!event.shiftKey&&document.activeElement===last){event.preventDefault();first.focus();}});
+
+initLanguage();

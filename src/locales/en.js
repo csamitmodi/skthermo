@@ -1,0 +1,2 @@
+// English message IDs are the source strings. Hindi resolves the same IDs centrally.
+export const en={products:'Products',catalogues:'Catalogues',enquiryList:'Enquiry List',addToEnquiry:'Add to Enquiry',requestQuote:'Request a Quote',requestBulkQuote:'Request Bulk Quote',requestSamples:'Request Samples',details:'Request Product Details',viewDetails:'View Details',emptyList:'Your list is empty.',emptySearch:'No matching products found.'};

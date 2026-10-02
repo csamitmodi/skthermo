@@ -1,0 +1,2208 @@
+{
+  "routes": 364,
+  "widths": [
+    360,
+    390,
+    430,
+    768,
+    1024,
+    1440
+  ],
+  "pages": [
+    {
+      "route": "/",
+      "title": "Foodservice Disposables & Paper Cup Manufacturing | S. K. Thermoformers",
+      "description": "Explore SKP paper cups, plastic beverage formats, tableware and custom paper cup enquiries with M/s S. K. Thermoformers, Khairthal, Rajasthan.",
+      "status": 200
+    },
+    {
+      "route": "/products",
+      "title": "SKP Product Catalogue | S. K. Thermoformers",
+      "description": "Explore SKP foodservice product families by category, material and application. Request current specifications and a bulk supply quote.",
+      "status": 200
+    },
+    {
+      "route": "/solutions",
+      "title": "Foodservice Application Solutions | S. K. Thermoformers",
+      "description": "Find SKP product families for beverage service, catering, institutional foodservice and custom paper cup branding enquiries.",
+      "status": 200
+    },
+    {
+      "route": "/industries",
+      "title": "Markets We Serve | S. K. Thermoformers",
+      "description": "Explore foodservice buying requirements for restaurants, hospitality, catering, institutions and distributors with SK Thermoformers.",
+      "status": 200
+    },
+    {
+      "route": "/about",
+      "title": "A manufacturing base. A broader foodservice range. | S. K. Thermoformers",
+      "description": "M/s S. K. Thermoformers manufactures paper cups in Khairthal, Rajasthan, and supplies a wider range of disposable foodservice products.",
+      "status": 200
+    },
+    {
+      "route": "/manufacturing",
+      "title": "Manufacturing starts with the specification. | S. K. Thermoformers",
+      "description": "Paper cup manufacturing in Khairthal, Rajasthan, supported by a broader disposable product supply conversation.",
+      "status": 200
+    },
+    {
+      "route": "/custom-solutions",
+      "title": "Made around your requirement. | S. K. Thermoformers",
+      "description": "Discuss paper cup designs, sizes and packaging. Start with the application, specification, artwork and quantity.",
+      "status": 200
+    },
+    {
+      "route": "/quality",
+      "title": "Define quality before the order. | S. K. Thermoformers",
+      "description": "Use a clear specification and application-specific documentation to evaluate your chosen product.",
+      "status": 200
+    },
+    {
+      "route": "/sustainability",
+      "title": "Choose materials with the facts in view. | S. K. Thermoformers",
+      "description": "Paper and plastic options require product-specific information. Composition, use and local recovery infrastructure all affect the decision.",
+      "status": 200
+    },
+    {
+      "route": "/export",
+      "title": "International Packaging Sourcing & Export Enquiries | S. K. Thermoformers",
+      "description": "Explore SKP foodservice packaging for international sourcing enquiries. Discuss products, private-label requirements, documentation, packing and commercial terms.",
+      "status": 200
+    },
+    {
+      "route": "/resources",
+      "title": "Prepare a useful sourcing brief. | S. K. Thermoformers",
+      "description": "A practical checklist for procurement teams, distributors and foodservice buyers.",
+      "status": 200
+    },
+    {
+      "route": "/contact",
+      "title": "Contact SK Thermoformers | S. K. Thermoformers",
+      "description": "Contact M/s S. K. Thermoformers in Khairthal, Rajasthan, about bulk foodservice products, custom paper cups and export enquiries.",
+      "status": 200
+    },
+    {
+      "route": "/rfq",
+      "title": "Request a Quote | S. K. Thermoformers",
+      "description": "Share your product, application, quantity and destination with SK Thermoformers. Prepare a business enquiry for specifications and availability.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues",
+      "title": "SKP Product Catalogues | S. K. Thermoformers",
+      "description": "Browse SKP tableware and food packaging range visuals. Explore categories, sample requirements and bulk enquiries.",
+      "status": 200
+    },
+    {
+      "route": "/enquiry",
+      "title": "SKP Enquiry List | S. K. Thermoformers",
+      "description": "Build a multi-product foodservice packaging enquiry. Share quantities and your business requirement with SKP.",
+      "status": 200
+    },
+    {
+      "route": "/samples",
+      "title": "SKP Sample Requests | S. K. Thermoformers",
+      "description": "Discuss product samples for your business application, expected quantities and delivery destination with SKP.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/cups-glasses",
+      "title": "Cups & Glasses - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the cups & glasses range visual with SKP. Paper cups and plastic beverage formats. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/plates",
+      "title": "Plates - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the plates range visual with SKP. Round, square and compartment plate formats for meal service and catering. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/bowls",
+      "title": "Bowls - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the bowls range visual with SKP. Paper and plastic bowls for foodservice enquiries. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/cutlery",
+      "title": "Cutlery - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the cutlery range visual with SKP. Disposable spoons and forks for your service format. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/paper-products",
+      "title": "Paper Products - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the paper products range visual with SKP. Tissues, rolls and paper cup production inputs. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/thermoformed-products",
+      "title": "Thermoformed Products - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the thermoformed products range visual with SKP. Formed packaging formats for beverage and foodservice requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/custom-products",
+      "title": "Custom Printed Products - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the custom printed products range visual with SKP. Paper cup designs developed around your artwork brief. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/trays",
+      "title": "Trays - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the trays range visual with SKP. Discuss serving and portioning requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/food-containers",
+      "title": "Food Containers - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the food containers range visual with SKP. Define the container and lid format you need. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/clamshell-containers",
+      "title": "Clamshell Containers - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the clamshell containers range visual with SKP. Discuss hinged packaging requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/portion-sauce-cups",
+      "title": "Portion & Sauce Cups - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the portion & sauce cups range visual with SKP. Share your portioning and accompaniment brief. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/dessert-ice-cream-cups",
+      "title": "Dessert & Ice Cream Cups - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the dessert & ice cream cups range visual with SKP. Ask about formats for dessert service. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/takeaway-packaging",
+      "title": "Takeaway Packaging - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the takeaway packaging range visual with SKP. Discuss packaging for your takeaway operation. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/specialty-products",
+      "title": "Specialty Products - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the specialty products range visual with SKP. Tell us about a specific sourcing requirement. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/meal-trays",
+      "title": "Meal & Packing Trays - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the meal & packing trays range visual with SKP. Discuss thali and divided meal packaging. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/utility-cups",
+      "title": "Multipurpose & Utility Cups - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the multipurpose & utility cups range visual with SKP. Define a small serving or sampling format. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/aluminium-foil",
+      "title": "Aluminium Foil Packaging - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the aluminium foil packaging range visual with SKP. Discuss foil-style container and tray requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/sweets-packaging",
+      "title": "Sweets & Mithai Packaging - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the sweets & mithai packaging range visual with SKP. Packaging briefs for sweets and gifting. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/bakery-packaging",
+      "title": "Bakery Packaging - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the bakery packaging range visual with SKP. Discuss boxes and presentation formats for baked goods. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/areca",
+      "title": "Areca / Supari Leaf Tableware - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the areca / supari leaf tableware range visual with SKP. Leaf-style plates and bowls for foodservice and event requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/bagasse",
+      "title": "Bagasse / Sugarcane Tableware - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the bagasse / sugarcane tableware range visual with SKP. Fibre tableware formats for meals, takeaway and catering. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/kraft-packaging",
+      "title": "Paper / Kraft Packaging - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the paper / kraft packaging range visual with SKP. Discuss kraft-style food packaging requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/paper-bags",
+      "title": "Paper Bags & Carry Packaging - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the paper bags & carry packaging range visual with SKP. Discuss carry bag formats and branding requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/tissues",
+      "title": "Tissues & Napkins - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the tissues & napkins range visual with SKP. Napkins and dining formats for foodservice operations. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/wooden-bamboo",
+      "title": "Wooden / Bamboo Accessories - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the wooden / bamboo accessories range visual with SKP. Discuss cutlery and accessory sourcing requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/lids-accessories",
+      "title": "Lids & Accessories - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the lids & accessories range visual with SKP. Define the required fit and compatible container. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/catalogues/catering-range",
+      "title": "Catering & Function Range - Range Catalogue | S. K. Thermoformers",
+      "description": "Explore the catering & function range range visual with SKP. Discuss coordinated tableware and event requirements. Discuss product details and sample requirements.",
+      "status": 200
+    },
+    {
+      "route": "/privacy-policy",
+      "title": "Privacy notice | S. K. Thermoformers",
+      "description": "How your enquiry information is handled.",
+      "status": 200
+    },
+    {
+      "route": "/terms-and-conditions",
+      "title": "Enquiry and ordering information | S. K. Thermoformers",
+      "description": "Website information supports a business enquiry; it is not an order acceptance.",
+      "status": 200
+    },
+    {
+      "route": "/disclaimer",
+      "title": "Product reference disclaimer | S. K. Thermoformers",
+      "description": "Understand the difference between a range reference and a confirmed product specification.",
+      "status": 200
+    },
+    {
+      "route": "/products/cups-glasses",
+      "title": "Cups & Glasses | S. K. Thermoformers",
+      "description": "Explore cups & glasses with SKP. Paper cups and plastic beverage formats. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plates",
+      "title": "Plates | S. K. Thermoformers",
+      "description": "Explore plates with SKP. Round, square and compartment plate formats for meal service and catering. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bowls",
+      "title": "Bowls | S. K. Thermoformers",
+      "description": "Explore bowls with SKP. Paper and plastic bowls for foodservice enquiries. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/cutlery",
+      "title": "Cutlery | S. K. Thermoformers",
+      "description": "Explore cutlery with SKP. Disposable spoons and forks for your service format. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-products",
+      "title": "Paper Products | S. K. Thermoformers",
+      "description": "Explore paper products with SKP. Tissues, rolls and paper cup production inputs. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/thermoformed-products",
+      "title": "Thermoformed Products | S. K. Thermoformers",
+      "description": "Explore thermoformed products with SKP. Formed packaging formats for beverage and foodservice requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/custom-products",
+      "title": "Custom Printed Products | S. K. Thermoformers",
+      "description": "Explore custom printed products with SKP. Paper cup designs developed around your artwork brief. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/trays",
+      "title": "Trays | S. K. Thermoformers",
+      "description": "Explore trays with SKP. Discuss serving and portioning requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/food-containers",
+      "title": "Food Containers | S. K. Thermoformers",
+      "description": "Explore food containers with SKP. Define the container and lid format you need. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/clamshell-containers",
+      "title": "Clamshell Containers | S. K. Thermoformers",
+      "description": "Explore clamshell containers with SKP. Discuss hinged packaging requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/portion-sauce-cups",
+      "title": "Portion & Sauce Cups | S. K. Thermoformers",
+      "description": "Explore portion & sauce cups with SKP. Share your portioning and accompaniment brief. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/dessert-ice-cream-cups",
+      "title": "Dessert & Ice Cream Cups | S. K. Thermoformers",
+      "description": "Explore dessert & ice cream cups with SKP. Ask about formats for dessert service. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/takeaway-packaging",
+      "title": "Takeaway Packaging | S. K. Thermoformers",
+      "description": "Explore takeaway packaging with SKP. Discuss packaging for your takeaway operation. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/specialty-products",
+      "title": "Specialty Products | S. K. Thermoformers",
+      "description": "Explore specialty products with SKP. Tell us about a specific sourcing requirement. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plates-trays",
+      "title": "Plates & Trays | S. K. Thermoformers",
+      "description": "Explore plates & trays with SKP. Tableware and serving enquiries. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/meal-trays",
+      "title": "Meal & Packing Trays | S. K. Thermoformers",
+      "description": "Explore meal & packing trays with SKP. Discuss thali and divided meal packaging. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/utility-cups",
+      "title": "Multipurpose & Utility Cups | S. K. Thermoformers",
+      "description": "Explore multipurpose & utility cups with SKP. Define a small serving or sampling format. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/aluminium-foil",
+      "title": "Aluminium Foil Packaging | S. K. Thermoformers",
+      "description": "Explore aluminium foil packaging with SKP. Discuss foil-style container and tray requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/sweets-packaging",
+      "title": "Sweets & Mithai Packaging | S. K. Thermoformers",
+      "description": "Explore sweets & mithai packaging with SKP. Packaging briefs for sweets and gifting. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bakery-packaging",
+      "title": "Bakery Packaging | S. K. Thermoformers",
+      "description": "Explore bakery packaging with SKP. Discuss boxes and presentation formats for baked goods. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/areca",
+      "title": "Areca / Supari Leaf Tableware | S. K. Thermoformers",
+      "description": "Explore areca / supari leaf tableware with SKP. Leaf-style plates and bowls for foodservice and event requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bagasse",
+      "title": "Bagasse / Sugarcane Tableware | S. K. Thermoformers",
+      "description": "Explore bagasse / sugarcane tableware with SKP. Fibre tableware formats for meals, takeaway and catering. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/kraft-packaging",
+      "title": "Paper / Kraft Packaging | S. K. Thermoformers",
+      "description": "Explore paper / kraft packaging with SKP. Discuss kraft-style food packaging requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-bags",
+      "title": "Paper Bags & Carry Packaging | S. K. Thermoformers",
+      "description": "Explore paper bags & carry packaging with SKP. Discuss carry bag formats and branding requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/tissues",
+      "title": "Tissues & Napkins | S. K. Thermoformers",
+      "description": "Explore tissues & napkins with SKP. Napkins and dining formats for foodservice operations. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/wooden-bamboo",
+      "title": "Wooden / Bamboo Accessories | S. K. Thermoformers",
+      "description": "Explore wooden / bamboo accessories with SKP. Discuss cutlery and accessory sourcing requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/lids-accessories",
+      "title": "Lids & Accessories | S. K. Thermoformers",
+      "description": "Explore lids & accessories with SKP. Define the required fit and compatible container. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/catering-range",
+      "title": "Catering & Function Range | S. K. Thermoformers",
+      "description": "Explore catering & function range with SKP. Discuss coordinated tableware and event requirements. Confirm current product availability and specifications with the team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-cups",
+      "title": "Paper cups | S. K. Thermoformers",
+      "description": "Paper cups for beverages and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/printed-paper-cups",
+      "title": "Printed paper cups | S. K. Thermoformers",
+      "description": "Printed paper cups for beverages and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/100ml-tea-cup",
+      "title": "Tea cup range | S. K. Thermoformers",
+      "description": "Tea cup range for beverages and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/disposable-juice-glass",
+      "title": "Disposable juice glass | S. K. Thermoformers",
+      "description": "Disposable juice glass for beverages and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/water-plastic-glass",
+      "title": "Beverage glasses | S. K. Thermoformers",
+      "description": "Beverage glasses for beverages and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plastic-cups",
+      "title": "Plastic disposable cups | S. K. Thermoformers",
+      "description": "Plastic disposable cups for beverages and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-bowls",
+      "title": "Paper bowls | S. K. Thermoformers",
+      "description": "Paper bowls for food service and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plastic-bowls",
+      "title": "Plastic bowls | S. K. Thermoformers",
+      "description": "Plastic bowls for food service and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-plates",
+      "title": "Round plates | S. K. Thermoformers",
+      "description": "Round plates for catering and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/disposable-spoons-forks",
+      "title": "Disposable spoons | S. K. Thermoformers",
+      "description": "Disposable spoons for food service and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-blanks-bottoms",
+      "title": "Paper blanks & bottoms | S. K. Thermoformers",
+      "description": "Paper blanks & bottoms for production and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/table-tissues",
+      "title": "Table napkins | S. K. Thermoformers",
+      "description": "Table napkins for food service and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/trays-enquiry",
+      "title": "Trays - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Trays for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/food-containers-enquiry",
+      "title": "Food Containers - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Food Containers for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/clamshell-containers-enquiry",
+      "title": "Clamshell Containers - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Clamshell Containers for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/portion-sauce-cups-enquiry",
+      "title": "Portion & Sauce Cups - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Portion & Sauce Cups for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/dessert-ice-cream-cups-enquiry",
+      "title": "Dessert & Ice Cream Cups - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Dessert & Ice Cream Cups for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/takeaway-packaging-enquiry",
+      "title": "Takeaway Packaging - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Takeaway Packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/specialty-products-enquiry",
+      "title": "Specialty Products - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Specialty Products for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/meal-trays-enquiry",
+      "title": "Meal & Packing Trays - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Meal & Packing Trays for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/utility-cups-enquiry",
+      "title": "Multipurpose & Utility Cups - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Multipurpose & Utility Cups for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/aluminium-foil-enquiry",
+      "title": "Aluminium Foil Packaging - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Aluminium Foil Packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/sweets-packaging-enquiry",
+      "title": "Sweets & Mithai Packaging - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Sweets & Mithai Packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bakery-packaging-enquiry",
+      "title": "Bakery Packaging - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Bakery Packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/areca-enquiry",
+      "title": "Areca / Supari Leaf Tableware - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Areca / Supari Leaf Tableware for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bagasse-enquiry",
+      "title": "Bagasse / Sugarcane Tableware - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Bagasse / Sugarcane Tableware for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/kraft-packaging-enquiry",
+      "title": "Paper / Kraft Packaging - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Paper / Kraft Packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/paper-bags-enquiry",
+      "title": "Paper Bags & Carry Packaging - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Paper Bags & Carry Packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/wooden-bamboo-enquiry",
+      "title": "Wooden / Bamboo Accessories - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Wooden / Bamboo Accessories for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/lids-accessories-enquiry",
+      "title": "Lids & Accessories - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Lids & Accessories for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/catering-range-enquiry",
+      "title": "Catering & Function Range - Bulk Enquiry | S. K. Thermoformers",
+      "description": "Catering & Function Range for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/cup-textured",
+      "title": "Textured cup | S. K. Thermoformers",
+      "description": "Textured cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plate-square",
+      "title": "Square plate | S. K. Thermoformers",
+      "description": "Square plate for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plate-compartment",
+      "title": "Compartment plate | S. K. Thermoformers",
+      "description": "Compartment plate for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/plate-textured",
+      "title": "Textured plate | S. K. Thermoformers",
+      "description": "Textured plate for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/tray-serving",
+      "title": "Serving tray | S. K. Thermoformers",
+      "description": "Serving tray for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/tray-square",
+      "title": "Square tray | S. K. Thermoformers",
+      "description": "Square tray for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/tray-compartment",
+      "title": "Compartment tray | S. K. Thermoformers",
+      "description": "Compartment tray for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/meal-round",
+      "title": "Round thali | S. K. Thermoformers",
+      "description": "Round thali for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/meal-divided",
+      "title": "Divided meal tray | S. K. Thermoformers",
+      "description": "Divided meal tray for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/meal-lidded",
+      "title": "Lidded meal tray | S. K. Thermoformers",
+      "description": "Lidded meal tray for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/container-rectangular",
+      "title": "Rectangular container | S. K. Thermoformers",
+      "description": "Rectangular container for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/container-round",
+      "title": "Round container | S. K. Thermoformers",
+      "description": "Round container for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/container-clear",
+      "title": "Clear container | S. K. Thermoformers",
+      "description": "Clear container for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/clamshell-rectangular",
+      "title": "Rectangular hinged | S. K. Thermoformers",
+      "description": "Rectangular hinged for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/clamshell-square",
+      "title": "Square hinged | S. K. Thermoformers",
+      "description": "Square hinged for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/portion-round",
+      "title": "Round portion cup | S. K. Thermoformers",
+      "description": "Round portion cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/portion-square",
+      "title": "Square portion cup | S. K. Thermoformers",
+      "description": "Square portion cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/sauce-lidded",
+      "title": "Lidded sauce cup | S. K. Thermoformers",
+      "description": "Lidded sauce cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/dessert-clear",
+      "title": "Clear dessert cup | S. K. Thermoformers",
+      "description": "Clear dessert cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/dessert-opaque",
+      "title": "Dessert cup | S. K. Thermoformers",
+      "description": "Dessert cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/ice-cream-printed",
+      "title": "Ice cream cup | S. K. Thermoformers",
+      "description": "Ice cream cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/utility-serving-cups",
+      "title": "Utility cup | S. K. Thermoformers",
+      "description": "Utility cup for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/foil-rectangular",
+      "title": "Rectangular foil formats | S. K. Thermoformers",
+      "description": "Rectangular foil formats for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/foil-round",
+      "title": "Round foil formats | S. K. Thermoformers",
+      "description": "Round foil formats for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/foil-divided",
+      "title": "Divided foil formats | S. K. Thermoformers",
+      "description": "Divided foil formats for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/takeaway-boxes",
+      "title": "Takeaway box | S. K. Thermoformers",
+      "description": "Takeaway box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/takeaway-snack",
+      "title": "Snack packaging | S. K. Thermoformers",
+      "description": "Snack packaging for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/sweet-window",
+      "title": "Window sweet box | S. K. Thermoformers",
+      "description": "Window sweet box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/sweet-gift",
+      "title": "Gift box | S. K. Thermoformers",
+      "description": "Gift box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/sweet-divided",
+      "title": "Divided sweet box | S. K. Thermoformers",
+      "description": "Divided sweet box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bakery-boxes",
+      "title": "Bakery box | S. K. Thermoformers",
+      "description": "Bakery box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bakery-domes",
+      "title": "Cake dome | S. K. Thermoformers",
+      "description": "Cake dome for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bakery-slices",
+      "title": "Pastry slice box | S. K. Thermoformers",
+      "description": "Pastry slice box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/areca-round",
+      "title": "Leaf tableware round formats | S. K. Thermoformers",
+      "description": "Leaf tableware round formats for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/areca-square",
+      "title": "Leaf tableware square formats | S. K. Thermoformers",
+      "description": "Leaf tableware square formats for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/areca-bowls",
+      "title": "Leaf bowl formats | S. K. Thermoformers",
+      "description": "Leaf bowl formats for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bagasse-plates",
+      "title": "Fibre plate | S. K. Thermoformers",
+      "description": "Fibre plate for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bagasse-hinged",
+      "title": "Fibre hinged box | S. K. Thermoformers",
+      "description": "Fibre hinged box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bagasse-trays",
+      "title": "Fibre meal tray | S. K. Thermoformers",
+      "description": "Fibre meal tray for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/kraft-burger",
+      "title": "Kraft-style burger box | S. K. Thermoformers",
+      "description": "Kraft-style burger box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/kraft-bowls",
+      "title": "Kraft-style bowl | S. K. Thermoformers",
+      "description": "Kraft-style bowl for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/kraft-meal",
+      "title": "Kraft-style meal box | S. K. Thermoformers",
+      "description": "Kraft-style meal box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bag-handled",
+      "title": "Handled paper bag | S. K. Thermoformers",
+      "description": "Handled paper bag for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bag-flat",
+      "title": "Flat paper bag | S. K. Thermoformers",
+      "description": "Flat paper bag for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bag-diecut",
+      "title": "Die-cut bag | S. K. Thermoformers",
+      "description": "Die-cut bag for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/tissue-boxes",
+      "title": "Tissue box | S. K. Thermoformers",
+      "description": "Tissue box for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/tissue-dinner",
+      "title": "Dinner napkin | S. K. Thermoformers",
+      "description": "Dinner napkin for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/wood-spoons",
+      "title": "Wooden spoon | S. K. Thermoformers",
+      "description": "Wooden spoon for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/wood-forks",
+      "title": "Wooden fork | S. K. Thermoformers",
+      "description": "Wooden fork for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/bamboo-chopsticks",
+      "title": "Bamboo accessory | S. K. Thermoformers",
+      "description": "Bamboo accessory for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/lid-cups",
+      "title": "Cup lid | S. K. Thermoformers",
+      "description": "Cup lid for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/lid-flat-dome",
+      "title": "Flat and dome lid | S. K. Thermoformers",
+      "description": "Flat and dome lid for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/lid-containers",
+      "title": "Container lid | S. K. Thermoformers",
+      "description": "Container lid for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/catering-round",
+      "title": "Catering plate | S. K. Thermoformers",
+      "description": "Catering plate for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/catering-square",
+      "title": "Catering square plate | S. K. Thermoformers",
+      "description": "Catering square plate for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/products/catering-set",
+      "title": "Place-setting concept | S. K. Thermoformers",
+      "description": "Place-setting concept for foodservice, distribution and bulk requirements. Share your intended use, quantity and packing requirements with our team.",
+      "status": 200
+    },
+    {
+      "route": "/industries/restaurants-qsr",
+      "title": "Restaurants & QSR - Market Enquiries | S. K. Thermoformers",
+      "description": "Compare your service formats, expected order volumes and intended food or beverage use. Confirm product suitability and packing before procurement.",
+      "status": 200
+    },
+    {
+      "route": "/industries/hotels",
+      "title": "Hotels - Market Enquiries | S. K. Thermoformers",
+      "description": "Bring together beverage, meal service and tissue requirements across your outlets. Share your packing and delivery preferences.",
+      "status": 200
+    },
+    {
+      "route": "/industries/catering",
+      "title": "Catering - Market Enquiries | S. K. Thermoformers",
+      "description": "Share your menu, portioning needs and event quantities. Compare plates, bowls and cutlery against your intended service.",
+      "status": 200
+    },
+    {
+      "route": "/industries/events",
+      "title": "Events - Market Enquiries | S. K. Thermoformers",
+      "description": "Build your enquiry around beverages, meals and distribution points. Tell us the quantity and delivery date; availability is confirmed by the team.",
+      "status": 200
+    },
+    {
+      "route": "/industries/institutional-buyers",
+      "title": "Institutional Foodservice - Market Enquiries | S. K. Thermoformers",
+      "description": "Procurement teams can share specifications, acceptance criteria and expected quantities. Ask for the documentation needed for your application.",
+      "status": 200
+    },
+    {
+      "route": "/industries/corporate-buyers",
+      "title": "Corporate Buyers - Market Enquiries | S. K. Thermoformers",
+      "description": "Discuss beverage cups, tissue products and tableware requirements for your workplace or event. Confirm suitability for the intended conditions of use.",
+      "status": 200
+    },
+    {
+      "route": "/industries/retail",
+      "title": "Retail & Food Businesses - Market Enquiries | S. K. Thermoformers",
+      "description": "Share the product, intended use and target quantities. Product suitability, packing and availability are confirmed against your enquiry.",
+      "status": 200
+    },
+    {
+      "route": "/industries/wholesalers-distributors",
+      "title": "Distributors & Wholesalers - Market Enquiries | S. K. Thermoformers",
+      "description": "Compare the listed paper and plastic range, then share your quantities by format and destination. Agree specifications and commercial terms with the team.",
+      "status": 200
+    },
+    {
+      "route": "/industries/healthcare",
+      "title": "Healthcare requirement - Market Enquiries | S. K. Thermoformers",
+      "description": "Share your intended use and required documentation. No clinical, sterile or specialist healthcare suitability is claimed.",
+      "status": 200
+    },
+    {
+      "route": "/industries/travel",
+      "title": "Travel service requirement - Market Enquiries | S. K. Thermoformers",
+      "description": "Tell us your use conditions, dimensions and acceptance requirements. Suitability for travel operations is subject to review.",
+      "status": 200
+    },
+    {
+      "route": "/industries/private-label-enquiries",
+      "title": "Private label enquiry - Market Enquiries | S. K. Thermoformers",
+      "description": "Send your private-label or OEM brief for a feasibility discussion. Ask about artwork, product selection and packing.",
+      "status": 200
+    },
+    {
+      "route": "/industries/export-buyers",
+      "title": "Export enquiry - Market Enquiries | S. K. Thermoformers",
+      "description": "Share your destination, product specifications, quantities and required documentation. Export availability, shipping and commercial terms require confirmation.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/beverage-service",
+      "title": "Beverage Service - Solutions | S. K. Thermoformers",
+      "description": "Define the drink, target capacity and service conditions. Explore listed cups and glasses, then confirm the exact construction with the team.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/catering-events",
+      "title": "Catering & Events - Solutions | S. K. Thermoformers",
+      "description": "Build a requirement around meal format, guest quantities and delivery date. Compare listed tableware before requesting a quote.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/institutional-foodservice",
+      "title": "Institutional Foodservice - Solutions | S. K. Thermoformers",
+      "description": "Share the formats, quantities and acceptance criteria your procurement team needs. Request application-specific documentation before approval.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/custom-branding",
+      "title": "Custom Branding - Solutions | S. K. Thermoformers",
+      "description": "Share artwork, colours, capacity and order quantity. Printing feasibility, finish and packaging are confirmed against your brief.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/takeaway-delivery",
+      "title": "Takeaway & Delivery - Solutions | S. K. Thermoformers",
+      "description": "Describe your menu, delivery conditions, container shape and packing brief. Share the service conditions and quantities your operation needs.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/bakery",
+      "title": "Bakery - Solutions | S. K. Thermoformers",
+      "description": "Discuss cake, pastry and bakery packaging formats, visibility, dimensions and carry requirements. Confirm suitability and sourcing feasibility before ordering.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/mithai-halwai",
+      "title": "Mithai & Halwai - Solutions | S. K. Thermoformers",
+      "description": "Explore sweet box and presentation concepts. Share the product, required dimensions, packing quantity and any artwork for a feasibility discussion.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/restaurants-qsr",
+      "title": "Restaurants & QSR - Solutions | S. K. Thermoformers",
+      "description": "Share your service format, intended use and order quantities. Compare the listed tableware with packaging enquiry ranges, then confirm suitability with the team.",
+      "status": 200
+    },
+    {
+      "route": "/solutions/distributors",
+      "title": "Distributors & Wholesalers - Solutions | S. K. Thermoformers",
+      "description": "Identify product families and quantities by destination. Confirm actual specifications, packing, availability and commercial terms with SK Thermoformers.",
+      "status": 200
+    },
+    {
+      "route": "/hi",
+      "title": "फूडसर्विस डिस्पोजेबल्स और पेपर कप विनिर्माण | S. K. Thermoformers",
+      "description": "M/s S. K. Thermoformers, खैरथल, राजस्थान के साथ SKP पेपर कप, प्लास्टिक बेवरेज फ़ॉर्मैट, टेबलवेयर और कस्टम पेपर कप की जानकारी लें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products",
+      "title": "SKP उत्पाद कैटलॉग | S. K. Thermoformers",
+      "description": "श्रेणी, सामग्री और उपयोग के अनुसार SKP फूडसर्विस उत्पाद देखें। वर्तमान स्पेसिफिकेशन और थोक कोटेशन की जानकारी लें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions",
+      "title": "फूडसर्विस उपयोग के लिए समाधान | S. K. Thermoformers",
+      "description": "पेय सर्विस, कैटरिंग, संस्थागत फूडसर्विस और कस्टम पेपर कप ब्रांडिंग के लिए SKP श्रेणियां देखें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries",
+      "title": "उपयोग और बाजार | S. K. Thermoformers",
+      "description": "SK Thermoformers के साथ रेस्टोरेंट, हॉस्पिटैलिटी, कैटरिंग, संस्थान और डिस्ट्रीब्यूटर की फूडसर्विस जरूरतें देखें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/about",
+      "title": "विनिर्माण का आधार। फूडसर्विस की व्यापक श्रेणी। | S. K. Thermoformers",
+      "description": "M/s S. K. Thermoformers खैरथल, राजस्थान में पेपर कप बनाती है और डिस्पोजेबल फूडसर्विस उत्पादों की व्यापक श्रेणी की सप्लाई करती है।",
+      "status": 200
+    },
+    {
+      "route": "/hi/manufacturing",
+      "title": "विनिर्माण की शुरुआत स्पेसिफिकेशन से। | S. K. Thermoformers",
+      "description": "खैरथल, राजस्थान में पेपर कप विनिर्माण और अन्य डिस्पोजेबल उत्पादों की सप्लाई पर चर्चा।",
+      "status": 200
+    },
+    {
+      "route": "/hi/custom-solutions",
+      "title": "आपकी आवश्यकता के अनुसार। | S. K. Thermoformers",
+      "description": "पेपर कप डिज़ाइन, आकार और पैकिंग पर चर्चा करें। उपयोग, स्पेसिफिकेशन, आर्टवर्क और मात्रा बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/quality",
+      "title": "ऑर्डर से पहले गुणवत्ता की आवश्यकता तय करें। | S. K. Thermoformers",
+      "description": "चुने हुए उत्पाद का मूल्यांकन स्पष्ट स्पेसिफिकेशन और उपयोग के दस्तावेज़ के आधार पर करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/sustainability",
+      "title": "सही जानकारी के साथ सामग्री चुनें। | S. K. Thermoformers",
+      "description": "पेपर और प्लास्टिक चुनने के लिए उत्पाद की सही जानकारी जरूरी है। बनावट, उपयोग और स्थानीय निपटान सुविधाएं निर्णय में अहम हैं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/export",
+      "title": "अंतरराष्ट्रीय पैकेजिंग सोर्सिंग और निर्यात पूछताछ | S. K. Thermoformers",
+      "description": "अंतरराष्ट्रीय सोर्सिंग के लिए SKP फूडसर्विस पैकेजिंग देखें। उत्पाद, प्राइवेट लेबल, दस्तावेज़, पैकिंग और व्यावसायिक शर्तों पर चर्चा करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/resources",
+      "title": "उपयोगी सोर्सिंग जानकारी तैयार करें। | S. K. Thermoformers",
+      "description": "खरीद टीम, डिस्ट्रीब्यूटर और फूडसर्विस खरीदारों के लिए उपयोगी सूची।",
+      "status": 200
+    },
+    {
+      "route": "/hi/contact",
+      "title": "SK Thermoformers से संपर्क करें | S. K. Thermoformers",
+      "description": "खैरथल, राजस्थान स्थित M/s S. K. Thermoformers से थोक फूडसर्विस उत्पाद, कस्टम पेपर कप और निर्यात पूछताछ के लिए संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/rfq",
+      "title": "कोटेशन प्राप्त करें | S. K. Thermoformers",
+      "description": "SK Thermoformers को उत्पाद, उपयोग, मात्रा और गंतव्य बताएं। स्पेसिफिकेशन और उपलब्धता के लिए व्यावसायिक पूछताछ तैयार करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues",
+      "title": "SKP उत्पाद कैटलॉग केन्द्र | S. K. Thermoformers",
+      "description": "SKP टेबलवेयर और फूड पैकेजिंग के दृश्य देखें। श्रेणियां, नमूने की आवश्यकताएं और थोक पूछताछ की जानकारी लें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/enquiry",
+      "title": "SKP पूछताछ सूची | S. K. Thermoformers",
+      "description": "कई उत्पादों की फूडसर्विस पैकेजिंग पूछताछ बनाएं। मात्रा और अपनी व्यावसायिक आवश्यकता SKP को बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/samples",
+      "title": "SKP नमूने का अनुरोध | S. K. Thermoformers",
+      "description": "SKP से व्यावसायिक उपयोग के नमूने, अपेक्षित मात्रा और डिलीवरी गंतव्य पर चर्चा करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/cups-glasses",
+      "title": "कप और ग्लास — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के कप और ग्लास की पूरी श्रेणी देखें। पेपर कप और प्लास्टिक बेवरेज फ़ॉर्मैट। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/plates",
+      "title": "प्लेट्स — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के प्लेट्स की पूरी श्रेणी देखें। भोजन और कैटरिंग के लिए गोल, चौकोर और कम्पार्टमेंट प्लेट फ़ॉर्मैट। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/bowls",
+      "title": "बाउल्स — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के बाउल्स की पूरी श्रेणी देखें। फूडसर्विस आवश्यकताओं के लिए पेपर और प्लास्टिक बाउल। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/cutlery",
+      "title": "कटलरी — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के कटलरी की पूरी श्रेणी देखें। आपके सर्विस फ़ॉर्मैट के लिए डिस्पोजेबल चम्मच और फोर्क। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/paper-products",
+      "title": "पेपर उत्पाद — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के पेपर उत्पाद की पूरी श्रेणी देखें। टिश्यू, रोल और पेपर कप बनाने की सामग्री। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/thermoformed-products",
+      "title": "थर्मोफॉर्म्ड उत्पाद — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के थर्मोफॉर्म्ड उत्पाद की पूरी श्रेणी देखें। पेय और फूडसर्विस के लिए फॉर्म्ड पैकेजिंग फ़ॉर्मैट। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/custom-products",
+      "title": "कस्टम प्रिंटेड उत्पाद — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के कस्टम प्रिंटेड उत्पाद की पूरी श्रेणी देखें। आपके आर्टवर्क के अनुसार पेपर कप डिज़ाइन पर चर्चा। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/trays",
+      "title": "ट्रे — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के ट्रे की पूरी श्रेणी देखें। सर्विंग और पोर्शन की आवश्यकताएं बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/food-containers",
+      "title": "फूड कंटेनर — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के फूड कंटेनर की पूरी श्रेणी देखें। अपनी जरूरत का कंटेनर और लिड फ़ॉर्मैट बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/clamshell-containers",
+      "title": "क्लैमशेल कंटेनर — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के क्लैमशेल कंटेनर की पूरी श्रेणी देखें। हिंज वाली पैकेजिंग की आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/portion-sauce-cups",
+      "title": "पोर्शन और सॉस कप — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के पोर्शन और सॉस कप की पूरी श्रेणी देखें। पोर्शन और सॉस सर्विस की आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/dessert-ice-cream-cups",
+      "title": "डेज़र्ट और आइसक्रीम कप — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के डेज़र्ट और आइसक्रीम कप की पूरी श्रेणी देखें। डेज़र्ट सर्विस के फ़ॉर्मैट की जानकारी लें। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/takeaway-packaging",
+      "title": "टेकअवे पैकेजिंग — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के टेकअवे पैकेजिंग की पूरी श्रेणी देखें। अपने टेकअवे व्यवसाय की पैकेजिंग पर चर्चा करें। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/specialty-products",
+      "title": "विशेष उत्पाद — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के विशेष उत्पाद की पूरी श्रेणी देखें। अपनी विशेष सोर्सिंग आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/meal-trays",
+      "title": "मील और पैकिंग ट्रे — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के मील और पैकिंग ट्रे की पूरी श्रेणी देखें। थाली और कम्पार्टमेंट मील पैकेजिंग पर चर्चा करें। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/utility-cups",
+      "title": "मल्टीपर्पज़ और यूटिलिटी कप — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के मल्टीपर्पज़ और यूटिलिटी कप की पूरी श्रेणी देखें। छोटी सर्विंग या सैम्पलिंग का फ़ॉर्मैट बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/aluminium-foil",
+      "title": "एल्युमिनियम फॉयल पैकेजिंग — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के एल्युमिनियम फॉयल पैकेजिंग की पूरी श्रेणी देखें। फॉयल कंटेनर और ट्रे की आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/sweets-packaging",
+      "title": "स्वीट्स और मिठाई पैकेजिंग — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के स्वीट्स और मिठाई पैकेजिंग की पूरी श्रेणी देखें। मिठाई और गिफ्टिंग की पैकेजिंग आवश्यकताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/bakery-packaging",
+      "title": "बेकरी पैकेजिंग — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के बेकरी पैकेजिंग की पूरी श्रेणी देखें। बेकरी उत्पादों के बॉक्स और प्रेज़ेंटेशन पर चर्चा करें। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/areca",
+      "title": "सुपारी पत्ती टेबलवेयर — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के सुपारी पत्ती टेबलवेयर की पूरी श्रेणी देखें। फूडसर्विस और कार्यक्रमों के लिए पत्ती वाली प्लेट्स और बाउल के फ़ॉर्मैट। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/bagasse",
+      "title": "बैगास / गन्ने के फाइबर का टेबलवेयर — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के बैगास / गन्ने के फाइबर का टेबलवेयर की पूरी श्रेणी देखें। भोजन, टेकअवे और कैटरिंग के लिए फाइबर टेबलवेयर फ़ॉर्मैट। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/kraft-packaging",
+      "title": "पेपर / क्राफ्ट पैकेजिंग — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के पेपर / क्राफ्ट पैकेजिंग की पूरी श्रेणी देखें। क्राफ्ट फूड पैकेजिंग की आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/paper-bags",
+      "title": "पेपर बैग और कैरी पैकेजिंग — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के पेपर बैग और कैरी पैकेजिंग की पूरी श्रेणी देखें। कैरी बैग फ़ॉर्मैट और ब्रांडिंग की आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/tissues",
+      "title": "टिश्यू और नैपकिन — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के टिश्यू और नैपकिन की पूरी श्रेणी देखें। फूडसर्विस के लिए नैपकिन और डाइनिंग फ़ॉर्मैट। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/wooden-bamboo",
+      "title": "लकड़ी / बांस की एक्सेसरीज़ — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के लकड़ी / बांस की एक्सेसरीज़ की पूरी श्रेणी देखें। कटलरी और एक्सेसरी सोर्सिंग की आवश्यकता बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/lids-accessories",
+      "title": "लिड्स और एक्सेसरीज़ — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के लिड्स और एक्सेसरीज़ की पूरी श्रेणी देखें। आवश्यक फिट और सही कंटेनर बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/catalogues/catering-range",
+      "title": "कैटरिंग और समारोह श्रेणी — श्रेणी कैटलॉग | S. K. Thermoformers",
+      "description": "SKP के कैटरिंग और समारोह श्रेणी की पूरी श्रेणी देखें। कार्यक्रम के लिए टेबलवेयर और अन्य आवश्यकताएं बताएं। उत्पाद और नमूने की जरूरत बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/privacy-policy",
+      "title": "गोपनीयता सूचना | S. K. Thermoformers",
+      "description": "आपकी पूछताछ जानकारी का उपयोग।",
+      "status": 200
+    },
+    {
+      "route": "/hi/terms-and-conditions",
+      "title": "पूछताछ और ऑर्डर की जानकारी | S. K. Thermoformers",
+      "description": "वेबसाइट की जानकारी व्यावसायिक पूछताछ के लिए है; यह ऑर्डर की स्वीकृति नहीं है।",
+      "status": 200
+    },
+    {
+      "route": "/hi/disclaimer",
+      "title": "उत्पाद दृश्य अस्वीकरण | S. K. Thermoformers",
+      "description": "सांकेतिक श्रेणी और पुष्ट उत्पाद स्पेसिफिकेशन का अंतर समझें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/cups-glasses",
+      "title": "कप और ग्लास | S. K. Thermoformers",
+      "description": "SKP के कप और ग्लास देखें। पेपर कप और प्लास्टिक बेवरेज फ़ॉर्मैट। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plates",
+      "title": "प्लेट्स | S. K. Thermoformers",
+      "description": "SKP के प्लेट्स देखें। भोजन और कैटरिंग के लिए गोल, चौकोर और कम्पार्टमेंट प्लेट फ़ॉर्मैट। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bowls",
+      "title": "बाउल्स | S. K. Thermoformers",
+      "description": "SKP के बाउल्स देखें। फूडसर्विस आवश्यकताओं के लिए पेपर और प्लास्टिक बाउल। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/cutlery",
+      "title": "कटलरी | S. K. Thermoformers",
+      "description": "SKP के कटलरी देखें। आपके सर्विस फ़ॉर्मैट के लिए डिस्पोजेबल चम्मच और फोर्क। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-products",
+      "title": "पेपर उत्पाद | S. K. Thermoformers",
+      "description": "SKP के पेपर उत्पाद देखें। टिश्यू, रोल और पेपर कप बनाने की सामग्री। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/thermoformed-products",
+      "title": "थर्मोफॉर्म्ड उत्पाद | S. K. Thermoformers",
+      "description": "SKP के थर्मोफॉर्म्ड उत्पाद देखें। पेय और फूडसर्विस के लिए फॉर्म्ड पैकेजिंग फ़ॉर्मैट। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/custom-products",
+      "title": "कस्टम प्रिंटेड उत्पाद | S. K. Thermoformers",
+      "description": "SKP के कस्टम प्रिंटेड उत्पाद देखें। आपके आर्टवर्क के अनुसार पेपर कप डिज़ाइन पर चर्चा। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/trays",
+      "title": "ट्रे | S. K. Thermoformers",
+      "description": "SKP के ट्रे देखें। सर्विंग और पोर्शन की आवश्यकताएं बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/food-containers",
+      "title": "फूड कंटेनर | S. K. Thermoformers",
+      "description": "SKP के फूड कंटेनर देखें। अपनी जरूरत का कंटेनर और लिड फ़ॉर्मैट बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/clamshell-containers",
+      "title": "क्लैमशेल कंटेनर | S. K. Thermoformers",
+      "description": "SKP के क्लैमशेल कंटेनर देखें। हिंज वाली पैकेजिंग की आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/portion-sauce-cups",
+      "title": "पोर्शन और सॉस कप | S. K. Thermoformers",
+      "description": "SKP के पोर्शन और सॉस कप देखें। पोर्शन और सॉस सर्विस की आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/dessert-ice-cream-cups",
+      "title": "डेज़र्ट और आइसक्रीम कप | S. K. Thermoformers",
+      "description": "SKP के डेज़र्ट और आइसक्रीम कप देखें। डेज़र्ट सर्विस के फ़ॉर्मैट की जानकारी लें। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/takeaway-packaging",
+      "title": "टेकअवे पैकेजिंग | S. K. Thermoformers",
+      "description": "SKP के टेकअवे पैकेजिंग देखें। अपने टेकअवे व्यवसाय की पैकेजिंग पर चर्चा करें। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/specialty-products",
+      "title": "विशेष उत्पाद | S. K. Thermoformers",
+      "description": "SKP के विशेष उत्पाद देखें। अपनी विशेष सोर्सिंग आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plates-trays",
+      "title": "प्लेट्स और ट्रे | S. K. Thermoformers",
+      "description": "SKP के प्लेट्स और ट्रे देखें। टेबलवेयर और सर्विंग पूछताछ। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/meal-trays",
+      "title": "मील और पैकिंग ट्रे | S. K. Thermoformers",
+      "description": "SKP के मील और पैकिंग ट्रे देखें। थाली और कम्पार्टमेंट मील पैकेजिंग पर चर्चा करें। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/utility-cups",
+      "title": "मल्टीपर्पज़ और यूटिलिटी कप | S. K. Thermoformers",
+      "description": "SKP के मल्टीपर्पज़ और यूटिलिटी कप देखें। छोटी सर्विंग या सैम्पलिंग का फ़ॉर्मैट बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/aluminium-foil",
+      "title": "एल्युमिनियम फॉयल पैकेजिंग | S. K. Thermoformers",
+      "description": "SKP के एल्युमिनियम फॉयल पैकेजिंग देखें। फॉयल कंटेनर और ट्रे की आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/sweets-packaging",
+      "title": "स्वीट्स और मिठाई पैकेजिंग | S. K. Thermoformers",
+      "description": "SKP के स्वीट्स और मिठाई पैकेजिंग देखें। मिठाई और गिफ्टिंग की पैकेजिंग आवश्यकताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bakery-packaging",
+      "title": "बेकरी पैकेजिंग | S. K. Thermoformers",
+      "description": "SKP के बेकरी पैकेजिंग देखें। बेकरी उत्पादों के बॉक्स और प्रेज़ेंटेशन पर चर्चा करें। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/areca",
+      "title": "सुपारी पत्ती टेबलवेयर | S. K. Thermoformers",
+      "description": "SKP के सुपारी पत्ती टेबलवेयर देखें। फूडसर्विस और कार्यक्रमों के लिए पत्ती वाली प्लेट्स और बाउल के फ़ॉर्मैट। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bagasse",
+      "title": "बैगास / गन्ने के फाइबर का टेबलवेयर | S. K. Thermoformers",
+      "description": "SKP के बैगास / गन्ने के फाइबर का टेबलवेयर देखें। भोजन, टेकअवे और कैटरिंग के लिए फाइबर टेबलवेयर फ़ॉर्मैट। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/kraft-packaging",
+      "title": "पेपर / क्राफ्ट पैकेजिंग | S. K. Thermoformers",
+      "description": "SKP के पेपर / क्राफ्ट पैकेजिंग देखें। क्राफ्ट फूड पैकेजिंग की आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-bags",
+      "title": "पेपर बैग और कैरी पैकेजिंग | S. K. Thermoformers",
+      "description": "SKP के पेपर बैग और कैरी पैकेजिंग देखें। कैरी बैग फ़ॉर्मैट और ब्रांडिंग की आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/tissues",
+      "title": "टिश्यू और नैपकिन | S. K. Thermoformers",
+      "description": "SKP के टिश्यू और नैपकिन देखें। फूडसर्विस के लिए नैपकिन और डाइनिंग फ़ॉर्मैट। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/wooden-bamboo",
+      "title": "लकड़ी / बांस की एक्सेसरीज़ | S. K. Thermoformers",
+      "description": "SKP के लकड़ी / बांस की एक्सेसरीज़ देखें। कटलरी और एक्सेसरी सोर्सिंग की आवश्यकता बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/lids-accessories",
+      "title": "लिड्स और एक्सेसरीज़ | S. K. Thermoformers",
+      "description": "SKP के लिड्स और एक्सेसरीज़ देखें। आवश्यक फिट और सही कंटेनर बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/catering-range",
+      "title": "कैटरिंग और समारोह श्रेणी | S. K. Thermoformers",
+      "description": "SKP के कैटरिंग और समारोह श्रेणी देखें। कार्यक्रम के लिए टेबलवेयर और अन्य आवश्यकताएं बताएं। वर्तमान उपलब्धता और स्पेसिफिकेशन के लिए टीम से संपर्क करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-cups",
+      "title": "पेपर कप | S. K. Thermoformers",
+      "description": "पेपर कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/printed-paper-cups",
+      "title": "प्रिंटेड पेपर कप | S. K. Thermoformers",
+      "description": "प्रिंटेड पेपर कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/100ml-tea-cup",
+      "title": "चाय कप श्रेणी | S. K. Thermoformers",
+      "description": "चाय कप श्रेणी — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/disposable-juice-glass",
+      "title": "डिस्पोजेबल जूस ग्लास | S. K. Thermoformers",
+      "description": "डिस्पोजेबल जूस ग्लास — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/water-plastic-glass",
+      "title": "बेवरेज ग्लास | S. K. Thermoformers",
+      "description": "बेवरेज ग्लास — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plastic-cups",
+      "title": "प्लास्टिक डिस्पोजेबल कप | S. K. Thermoformers",
+      "description": "प्लास्टिक डिस्पोजेबल कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-bowls",
+      "title": "पेपर बाउल्स | S. K. Thermoformers",
+      "description": "पेपर बाउल्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plastic-bowls",
+      "title": "प्लास्टिक बाउल्स | S. K. Thermoformers",
+      "description": "प्लास्टिक बाउल्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-plates",
+      "title": "गोल प्लेट्स | S. K. Thermoformers",
+      "description": "गोल प्लेट्स — कैटरिंग और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/disposable-spoons-forks",
+      "title": "डिस्पोजेबल चम्मच | S. K. Thermoformers",
+      "description": "डिस्पोजेबल चम्मच — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-blanks-bottoms",
+      "title": "पेपर ब्लैंक्स और बॉटम्स | S. K. Thermoformers",
+      "description": "पेपर ब्लैंक्स और बॉटम्स — उत्पादन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/table-tissues",
+      "title": "टेबल नैपकिन | S. K. Thermoformers",
+      "description": "टेबल नैपकिन — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/trays-enquiry",
+      "title": "ट्रे — थोक पूछताछ | S. K. Thermoformers",
+      "description": "ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/food-containers-enquiry",
+      "title": "फूड कंटेनर — थोक पूछताछ | S. K. Thermoformers",
+      "description": "फूड कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/clamshell-containers-enquiry",
+      "title": "क्लैमशेल कंटेनर — थोक पूछताछ | S. K. Thermoformers",
+      "description": "क्लैमशेल कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/portion-sauce-cups-enquiry",
+      "title": "पोर्शन और सॉस कप — थोक पूछताछ | S. K. Thermoformers",
+      "description": "पोर्शन और सॉस कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/dessert-ice-cream-cups-enquiry",
+      "title": "डेज़र्ट और आइसक्रीम कप — थोक पूछताछ | S. K. Thermoformers",
+      "description": "डेज़र्ट और आइसक्रीम कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/takeaway-packaging-enquiry",
+      "title": "टेकअवे पैकेजिंग — थोक पूछताछ | S. K. Thermoformers",
+      "description": "टेकअवे पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/specialty-products-enquiry",
+      "title": "विशेष उत्पाद — थोक पूछताछ | S. K. Thermoformers",
+      "description": "विशेष उत्पाद — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/meal-trays-enquiry",
+      "title": "मील और पैकिंग ट्रे — थोक पूछताछ | S. K. Thermoformers",
+      "description": "मील और पैकिंग ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/utility-cups-enquiry",
+      "title": "मल्टीपर्पज़ और यूटिलिटी कप — थोक पूछताछ | S. K. Thermoformers",
+      "description": "मल्टीपर्पज़ और यूटिलिटी कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/aluminium-foil-enquiry",
+      "title": "एल्युमिनियम फॉयल पैकेजिंग — थोक पूछताछ | S. K. Thermoformers",
+      "description": "एल्युमिनियम फॉयल पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/sweets-packaging-enquiry",
+      "title": "स्वीट्स और मिठाई पैकेजिंग — थोक पूछताछ | S. K. Thermoformers",
+      "description": "स्वीट्स और मिठाई पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bakery-packaging-enquiry",
+      "title": "बेकरी पैकेजिंग — थोक पूछताछ | S. K. Thermoformers",
+      "description": "बेकरी पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/areca-enquiry",
+      "title": "सुपारी पत्ती टेबलवेयर — थोक पूछताछ | S. K. Thermoformers",
+      "description": "सुपारी पत्ती टेबलवेयर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bagasse-enquiry",
+      "title": "बैगास / गन्ने के फाइबर का टेबलवेयर — थोक पूछताछ | S. K. Thermoformers",
+      "description": "बैगास / गन्ने के फाइबर का टेबलवेयर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/kraft-packaging-enquiry",
+      "title": "पेपर / क्राफ्ट पैकेजिंग — थोक पूछताछ | S. K. Thermoformers",
+      "description": "पेपर / क्राफ्ट पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/paper-bags-enquiry",
+      "title": "पेपर बैग और कैरी पैकेजिंग — थोक पूछताछ | S. K. Thermoformers",
+      "description": "पेपर बैग और कैरी पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/wooden-bamboo-enquiry",
+      "title": "लकड़ी / बांस की एक्सेसरीज़ — थोक पूछताछ | S. K. Thermoformers",
+      "description": "लकड़ी / बांस की एक्सेसरीज़ — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/lids-accessories-enquiry",
+      "title": "लिड्स और एक्सेसरीज़ — थोक पूछताछ | S. K. Thermoformers",
+      "description": "लिड्स और एक्सेसरीज़ — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/catering-range-enquiry",
+      "title": "कैटरिंग और समारोह श्रेणी — थोक पूछताछ | S. K. Thermoformers",
+      "description": "कैटरिंग और समारोह श्रेणी — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/cup-textured",
+      "title": "टेक्सचर्ड कप | S. K. Thermoformers",
+      "description": "टेक्सचर्ड कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plate-square",
+      "title": "चौकोर प्लेट | S. K. Thermoformers",
+      "description": "चौकोर प्लेट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plate-compartment",
+      "title": "कम्पार्टमेंट प्लेट | S. K. Thermoformers",
+      "description": "कम्पार्टमेंट प्लेट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/plate-textured",
+      "title": "टेक्सचर्ड प्लेट | S. K. Thermoformers",
+      "description": "टेक्सचर्ड प्लेट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/tray-serving",
+      "title": "सर्विंग ट्रे | S. K. Thermoformers",
+      "description": "सर्विंग ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/tray-square",
+      "title": "चौकोर ट्रे | S. K. Thermoformers",
+      "description": "चौकोर ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/tray-compartment",
+      "title": "कम्पार्टमेंट ट्रे | S. K. Thermoformers",
+      "description": "कम्पार्टमेंट ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/meal-round",
+      "title": "गोल थाली | S. K. Thermoformers",
+      "description": "गोल थाली — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/meal-divided",
+      "title": "कम्पार्टमेंट मील ट्रे | S. K. Thermoformers",
+      "description": "कम्पार्टमेंट मील ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/meal-lidded",
+      "title": "लिड वाली मील ट्रे | S. K. Thermoformers",
+      "description": "लिड वाली मील ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/container-rectangular",
+      "title": "आयताकार कंटेनर | S. K. Thermoformers",
+      "description": "आयताकार कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/container-round",
+      "title": "गोल कंटेनर | S. K. Thermoformers",
+      "description": "गोल कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/container-clear",
+      "title": "पारदर्शी कंटेनर | S. K. Thermoformers",
+      "description": "पारदर्शी कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/clamshell-rectangular",
+      "title": "आयताकार हिंज कंटेनर | S. K. Thermoformers",
+      "description": "आयताकार हिंज कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/clamshell-square",
+      "title": "चौकोर हिंज कंटेनर | S. K. Thermoformers",
+      "description": "चौकोर हिंज कंटेनर — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/portion-round",
+      "title": "गोल पोर्शन कप | S. K. Thermoformers",
+      "description": "गोल पोर्शन कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/portion-square",
+      "title": "चौकोर पोर्शन कप | S. K. Thermoformers",
+      "description": "चौकोर पोर्शन कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/sauce-lidded",
+      "title": "लिड वाला सॉस कप | S. K. Thermoformers",
+      "description": "लिड वाला सॉस कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/dessert-clear",
+      "title": "पारदर्शी डेज़र्ट कप | S. K. Thermoformers",
+      "description": "पारदर्शी डेज़र्ट कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/dessert-opaque",
+      "title": "डेज़र्ट कप | S. K. Thermoformers",
+      "description": "डेज़र्ट कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/ice-cream-printed",
+      "title": "आइसक्रीम कप | S. K. Thermoformers",
+      "description": "आइसक्रीम कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/utility-serving-cups",
+      "title": "यूटिलिटी कप | S. K. Thermoformers",
+      "description": "यूटिलिटी कप — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/foil-rectangular",
+      "title": "आयताकार फॉयल फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "आयताकार फॉयल फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/foil-round",
+      "title": "गोल फॉयल फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "गोल फॉयल फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/foil-divided",
+      "title": "कम्पार्टमेंट फॉयल फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "कम्पार्टमेंट फॉयल फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/takeaway-boxes",
+      "title": "टेकअवे बॉक्स | S. K. Thermoformers",
+      "description": "टेकअवे बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/takeaway-snack",
+      "title": "स्नैक पैकेजिंग | S. K. Thermoformers",
+      "description": "स्नैक पैकेजिंग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/sweet-window",
+      "title": "विंडो मिठाई बॉक्स | S. K. Thermoformers",
+      "description": "विंडो मिठाई बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/sweet-gift",
+      "title": "गिफ्ट बॉक्स | S. K. Thermoformers",
+      "description": "गिफ्ट बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/sweet-divided",
+      "title": "कम्पार्टमेंट मिठाई बॉक्स | S. K. Thermoformers",
+      "description": "कम्पार्टमेंट मिठाई बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bakery-boxes",
+      "title": "बेकरी बॉक्स | S. K. Thermoformers",
+      "description": "बेकरी बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bakery-domes",
+      "title": "केक डोम | S. K. Thermoformers",
+      "description": "केक डोम — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bakery-slices",
+      "title": "पेस्ट्री स्लाइस बॉक्स | S. K. Thermoformers",
+      "description": "पेस्ट्री स्लाइस बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/areca-round",
+      "title": "गोल पत्ती टेबलवेयर फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "गोल पत्ती टेबलवेयर फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/areca-square",
+      "title": "चौकोर पत्ती टेबलवेयर फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "चौकोर पत्ती टेबलवेयर फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/areca-bowls",
+      "title": "पत्ती वाले बाउल फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "पत्ती वाले बाउल फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bagasse-plates",
+      "title": "फाइबर प्लेट | S. K. Thermoformers",
+      "description": "फाइबर प्लेट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bagasse-hinged",
+      "title": "फाइबर हिंज बॉक्स | S. K. Thermoformers",
+      "description": "फाइबर हिंज बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bagasse-trays",
+      "title": "फाइबर मील ट्रे | S. K. Thermoformers",
+      "description": "फाइबर मील ट्रे — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/kraft-burger",
+      "title": "क्राफ्ट बर्गर बॉक्स फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "क्राफ्ट बर्गर बॉक्स फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/kraft-bowls",
+      "title": "क्राफ्ट बाउल फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "क्राफ्ट बाउल फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/kraft-meal",
+      "title": "क्राफ्ट मील बॉक्स फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "क्राफ्ट मील बॉक्स फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bag-handled",
+      "title": "हैंडल वाला पेपर बैग | S. K. Thermoformers",
+      "description": "हैंडल वाला पेपर बैग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bag-flat",
+      "title": "फ्लैट पेपर बैग | S. K. Thermoformers",
+      "description": "फ्लैट पेपर बैग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bag-diecut",
+      "title": "डाई-कट बैग | S. K. Thermoformers",
+      "description": "डाई-कट बैग — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/tissue-boxes",
+      "title": "टिश्यू बॉक्स | S. K. Thermoformers",
+      "description": "टिश्यू बॉक्स — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/tissue-dinner",
+      "title": "डिनर नैपकिन | S. K. Thermoformers",
+      "description": "डिनर नैपकिन — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/wood-spoons",
+      "title": "लकड़ी का चम्मच | S. K. Thermoformers",
+      "description": "लकड़ी का चम्मच — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/wood-forks",
+      "title": "लकड़ी का फोर्क | S. K. Thermoformers",
+      "description": "लकड़ी का फोर्क — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/bamboo-chopsticks",
+      "title": "बांस की एक्सेसरी | S. K. Thermoformers",
+      "description": "बांस की एक्सेसरी — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/lid-cups",
+      "title": "कप लिड | S. K. Thermoformers",
+      "description": "कप लिड — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/lid-flat-dome",
+      "title": "फ्लैट और डोम लिड | S. K. Thermoformers",
+      "description": "फ्लैट और डोम लिड — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/lid-containers",
+      "title": "कंटेनर लिड | S. K. Thermoformers",
+      "description": "कंटेनर लिड — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/catering-round",
+      "title": "कैटरिंग प्लेट | S. K. Thermoformers",
+      "description": "कैटरिंग प्लेट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/catering-square",
+      "title": "चौकोर कैटरिंग प्लेट | S. K. Thermoformers",
+      "description": "चौकोर कैटरिंग प्लेट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/products/catering-set",
+      "title": "टेबल सर्विस फ़ॉर्मैट | S. K. Thermoformers",
+      "description": "टेबल सर्विस फ़ॉर्मैट — फूडसर्विस, डिस्ट्रीब्यूशन और थोक आवश्यकताओं के लिए। टीम को उपयोग, मात्रा और पैकिंग की आवश्यकता बताएं।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/restaurants-qsr",
+      "title": "रेस्टोरेंट और QSR — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "सर्विस फ़ॉर्मैट, अपेक्षित मात्रा और भोजन या पेय का उपयोग बताएं। खरीद से पहले उपयुक्तता और पैकिंग तय करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/hotels",
+      "title": "होटल — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "अपने आउटलेट्स के लिए पेय, भोजन सर्विस और टिश्यू की जरूरत एक साथ बताएं। पैकिंग और डिलीवरी की प्राथमिकताएं साझा करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/catering",
+      "title": "कैटरिंग — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "मेन्यू, पोर्शन की जरूरत और कार्यक्रम की मात्रा बताएं। सर्विस के अनुसार प्लेट्स, बाउल और कटलरी देखें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/events",
+      "title": "कार्यक्रम — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "पेय, भोजन और सर्विस स्थान के अनुसार पूछताछ बनाएं। मात्रा और डिलीवरी तारीख बताएं; टीम उपलब्धता की जानकारी देगी।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/institutional-buyers",
+      "title": "संस्थागत फूडसर्विस — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "खरीद टीम स्पेसिफिकेशन, स्वीकृति मानदंड और मात्रा बता सकती है। अपने उपयोग के जरूरी दस्तावेज़ की जानकारी लें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/corporate-buyers",
+      "title": "कॉर्पोरेट खरीदार — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "कार्यस्थल या कार्यक्रम के लिए कप, टिश्यू और टेबलवेयर की जरूरत बताएं। उपयोग की स्थिति के अनुसार उपयुक्तता तय करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/retail",
+      "title": "रिटेल और फूड व्यवसाय — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "उत्पाद, उपयोग और मात्रा बताएं। पूछताछ के अनुसार उपयुक्तता, पैकिंग और उपलब्धता तय की जाती है।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/wholesalers-distributors",
+      "title": "डिस्ट्रीब्यूटर और होलसेलर — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "पेपर और प्लास्टिक की श्रेणियां देखें, फिर फ़ॉर्मैट व गंतव्य के अनुसार मात्रा बताएं। टीम के साथ स्पेसिफिकेशन और व्यावसायिक शर्तें तय करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/healthcare",
+      "title": "हेल्थकेयर आवश्यकता — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "उपयोग और जरूरी दस्तावेज़ बताएं। क्लिनिकल, स्टेराइल या विशेष हेल्थकेयर उपयुक्तता का दावा नहीं किया जाता।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/travel",
+      "title": "ट्रैवल सर्विस की आवश्यकता — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "उपयोग की स्थिति, माप और स्वीकृति की जरूरतें बताएं। यात्रा सर्विस की उपयुक्तता समीक्षा के बाद तय होती है।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/private-label-enquiries",
+      "title": "प्राइवेट लेबल पूछताछ — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "प्राइवेट लेबल या OEM की जरूरत बताकर संभावना समझें। आर्टवर्क, उत्पाद चयन और पैकिंग पर चर्चा करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/industries/export-buyers",
+      "title": "निर्यात पूछताछ — बाजार पूछताछ | S. K. Thermoformers",
+      "description": "गंतव्य, स्पेसिफिकेशन, मात्रा और जरूरी दस्तावेज़ बताएं। निर्यात उपलब्धता, शिपिंग और व्यावसायिक शर्तें टीम से समझें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/beverage-service",
+      "title": "बेवरेज सर्विस — समाधान | S. K. Thermoformers",
+      "description": "पेय, आवश्यक क्षमता और सर्विस की स्थिति बताएं। कप और ग्लास की श्रेणियां देखें और टीम से बनावट की जानकारी लें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/catering-events",
+      "title": "कैटरिंग और कार्यक्रम — समाधान | S. K. Thermoformers",
+      "description": "भोजन फ़ॉर्मैट, मेहमानों की संख्या और डिलीवरी तारीख के अनुसार जरूरत बताएं। कोटेशन से पहले टेबलवेयर विकल्प देखें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/institutional-foodservice",
+      "title": "संस्थागत फूडसर्विस — समाधान | S. K. Thermoformers",
+      "description": "खरीद टीम की जरूरत के फ़ॉर्मैट, मात्रा और स्वीकृति मानदंड बताएं। मंजूरी से पहले उपयोग के संबंधित दस्तावेज़ मांगें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/custom-branding",
+      "title": "कस्टम ब्रांडिंग — समाधान | S. K. Thermoformers",
+      "description": "आर्टवर्क, रंग, क्षमता और मात्रा बताएं। आपकी आवश्यकता के अनुसार प्रिंटिंग की संभावना, फिनिश और पैकिंग तय होती है।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/takeaway-delivery",
+      "title": "टेकअवे और डिलीवरी — समाधान | S. K. Thermoformers",
+      "description": "मेन्यू, डिलीवरी की स्थिति, कंटेनर का आकार और पैकिंग बताएं। सर्विस की जरूरत और मात्रा साझा करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/bakery",
+      "title": "बेकरी — समाधान | S. K. Thermoformers",
+      "description": "केक, पेस्ट्री और बेकरी पैकेजिंग के फ़ॉर्मैट, प्रेज़ेंटेशन, माप और कैरी की जरूरत बताएं। ऑर्डर से पहले उपयुक्तता और सोर्सिंग की संभावना समझें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/mithai-halwai",
+      "title": "मिठाई और हलवाई — समाधान | S. K. Thermoformers",
+      "description": "मिठाई बॉक्स और प्रेज़ेंटेशन विकल्प देखें। उत्पाद, जरूरी माप, पैकिंग मात्रा और आर्टवर्क बताकर संभावना समझें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/restaurants-qsr",
+      "title": "रेस्टोरेंट और QSR — समाधान | S. K. Thermoformers",
+      "description": "सर्विस फ़ॉर्मैट, उपयोग और मात्रा बताएं। टेबलवेयर व पैकेजिंग की श्रेणियां देखें, फिर टीम से उपयुक्तता तय करें।",
+      "status": 200
+    },
+    {
+      "route": "/hi/solutions/distributors",
+      "title": "डिस्ट्रीब्यूटर और होलसेलर — समाधान | S. K. Thermoformers",
+      "description": "गंतव्य के अनुसार उत्पाद श्रेणी और मात्रा चुनें। SK Thermoformers से स्पेसिफिकेशन, पैकिंग, उपलब्धता और व्यावसायिक शर्तें तय करें।",
+      "status": 200
+    }
+  ],
+  "overflow": [],
+  "errors": [],
+  "checks": [
+    "Pagination, 24 search terms, verified-only filters and printing enquiries, clear and no-result states",
+    "Every product enquiry prefill, modal dismissal and focus restore",
+    "All category image/catalogue mapping, RFQ context and focus restore",
+    "All 28 full reference catalogues load only on demand",
+    "Export required fields, product prefill, destination, honest email draft, download and invalid attachment; no message sent",
+    "Grouped desktop menu, mobile accordions, filter drawer and catalogue zoom at all six sizes",
+    "No full catalogue requests on homepage; original PNGs excluded from build"
+  ]
+}
