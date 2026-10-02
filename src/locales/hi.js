@@ -480,6 +480,20 @@ Office employees in a pantry setting with cups and foodservice products => ऑ�
 Staff arranging foodservice packaging in a retail supply environment => रिटेल सप्लाई क्षेत्र में फूडसर्विस पैकेजिंग व्यवस्थित करते कर्मचारी
 Distribution staff working around cartons and foodservice products => कार्टन और फूडसर्विस उत्पादों के साथ काम करते वितरण कर्मचारी
 `.trim().split('\n').map(line=>line.split(' => '))));
+Object.assign(hi,{
+ 'Explore Relevant Products':'संबंधित उत्पाद देखें',
+ 'YOUR APPLICATION':'आपका उपयोग',
+ 'Share the format, expected quantities, packing preferences and destination.':'फॉर्मेट, अनुमानित मात्रा, पैकिंग की पसंद और डिलीवरी स्थान बताइए।',
+ 'Tell us what you are serving, packing or distributing. Share your quantities and the details that matter to your operation.':'बताइए कि आप क्या सर्व, पैक या वितरित करते हैं। मात्रा और अपने काम से जुड़ी जरूरी जानकारी साझा कीजिए।',
+ 'SEND YOUR REQUIREMENT':'अपनी आवश्यकता भेजें',
+ 'Start the product discussion.':'उत्पाद के बारे में चर्चा करें।',
+ 'Include your application, quantities and delivery destination.':'उपयोग, मात्रा और डिलीवरी स्थान बताइए।'
+ ,'Related product formats':'संबंधित उत्पाद फॉर्मेट'
+ ,'Explore the product family':'उत्पाद श्रेणी देखें'
+ ,'Need current sizes, packing details or available variants?':'वर्तमान साइज़, पैकिंग या उपलब्ध विकल्पों की जानकारी चाहिए?'
+ ,'Share your application, expected quantities and packing requirements.':'उपयोग, अनुमानित मात्रा और पैकिंग की आवश्यकता बताइए।'
+ ,'Verified product information':'उत्पाद की सत्यापित जानकारी'
+});
 const folded=new Map(Object.entries(hi).map(([key,value])=>[key.toLowerCase(),value]));
 export function translate(text){const trimmed=String(text).replace(/\s+/g,' ').trim();if(hi[trimmed])return hi[trimmed];if(folded.has(trimmed.toLowerCase()))return folded.get(trimmed.toLowerCase());
  if(trimmed.endsWith(' Share your intended use, quantity and packing requirements with our team.'))return translate(trimmed.replace(' Share your intended use, quantity and packing requirements with our team.',''))+' '+translate('Share your intended use, quantity and packing requirements with our team.');

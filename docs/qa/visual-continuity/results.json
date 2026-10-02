@@ -1,0 +1,1230 @@
+{
+  "responsive": [
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "beverage-service",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "catering-events",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "institutional-foodservice",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "custom-branding",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "takeaway-delivery",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "bakery",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "sweets-confectionery",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "solution",
+      "slug": "distributors",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "restaurants-qsr",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "hotels",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "catering",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "events",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "institutional-buyers",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "corporate-buyers",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "retail",
+      "lang": "hi",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "en",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "en",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "en",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "en",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "en",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "en",
+      "width": 360
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "hi",
+      "width": 1440
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "hi",
+      "width": 1024
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "hi",
+      "width": 768
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "hi",
+      "width": 430
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "hi",
+      "width": 390
+    },
+    {
+      "type": "industry",
+      "slug": "wholesalers-distributors",
+      "lang": "hi",
+      "width": 360
+    }
+  ],
+  "journeys": 17,
+  "errors": []
+}

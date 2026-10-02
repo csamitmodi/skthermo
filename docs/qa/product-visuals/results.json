@@ -1,0 +1,701 @@
+{
+  "products": [
+    {
+      "slug": "paper-cups",
+      "name": "Paper cups",
+      "category": "Cups & Glasses",
+      "visual": "/assets/products/cups-glasses/cup-paper-485.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "printed-paper-cups",
+      "name": "Printed paper cups",
+      "category": "Cups & Glasses",
+      "visual": "/assets/products/custom-products/cup-print-425.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "100ml-tea-cup",
+      "name": "Tea cup range",
+      "category": "Cups & Glasses",
+      "visual": "/assets/product-scenes/tea-cup-912.webp",
+      "role": "application",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "disposable-juice-glass",
+      "name": "Disposable juice glass",
+      "category": "Cups & Glasses",
+      "visual": "/assets/products/cups-glasses/cup-clear-225.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "water-plastic-glass",
+      "name": "Beverage glasses",
+      "category": "Thermoformed Products",
+      "visual": "/assets/products/cups-glasses/cup-clear-225.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "plastic-cups",
+      "name": "Plastic disposable cups",
+      "category": "Cups & Glasses",
+      "visual": "/assets/products/cups-glasses/cup-clear-225.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "paper-bowls",
+      "name": "Paper bowls",
+      "category": "Bowls",
+      "visual": "/assets/products/bowls/bowl-paper-514.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "plastic-bowls",
+      "name": "Plastic bowls",
+      "category": "Bowls",
+      "visual": "/assets/products/bowls/bowl-plastic-446.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "paper-plates",
+      "name": "Round plates",
+      "category": "Plates",
+      "visual": "/assets/products/plates/plate-round-492.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "disposable-spoons-forks",
+      "name": "Disposable spoons",
+      "category": "Cutlery",
+      "visual": "/assets/products/cutlery/cutlery-spoons-330.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "paper-blanks-bottoms",
+      "name": "Paper blanks & bottoms",
+      "category": "Paper Products",
+      "visual": "Neutral production-input treatment",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "table-tissues",
+      "name": "Table napkins",
+      "category": "Paper Products",
+      "visual": "/assets/products/tissues/tissue-napkins-374.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "trays-enquiry",
+      "name": "Trays",
+      "category": "Trays",
+      "visual": "/assets/products/trays/tray-serving-673.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "food-containers-enquiry",
+      "name": "Food Containers",
+      "category": "Food Containers",
+      "visual": "/assets/products/food-containers/container-rectangular-519.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "clamshell-containers-enquiry",
+      "name": "Clamshell Containers",
+      "category": "Clamshell Containers",
+      "visual": "/assets/products/clamshell-containers/clamshell-rectangular-583.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "portion-sauce-cups-enquiry",
+      "name": "Portion & Sauce Cups",
+      "category": "Portion & Sauce Cups",
+      "visual": "/assets/products/portion-sauce-cups/portion-round-529.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "dessert-ice-cream-cups-enquiry",
+      "name": "Dessert & Ice Cream Cups",
+      "category": "Dessert & Ice Cream Cups",
+      "visual": "/assets/products/dessert-ice-cream-cups/dessert-clear-531.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "takeaway-packaging-enquiry",
+      "name": "Takeaway Packaging",
+      "category": "Takeaway Packaging",
+      "visual": "/assets/products/takeaway-packaging/takeaway-boxes-375.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "specialty-products-enquiry",
+      "name": "Specialty Products",
+      "category": "Specialty Products",
+      "visual": "/assets/skp/thermoformed-372.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "meal-trays-enquiry",
+      "name": "Meal & Packing Trays",
+      "category": "Meal & Packing Trays",
+      "visual": "/assets/products/meal-trays/meal-round-738.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "utility-cups-enquiry",
+      "name": "Multipurpose & Utility Cups",
+      "category": "Multipurpose & Utility Cups",
+      "visual": "/assets/products/utility-cups/utility-serving-cups-509.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "aluminium-foil-enquiry",
+      "name": "Aluminium Foil Packaging",
+      "category": "Aluminium Foil Packaging",
+      "visual": "/assets/products/aluminium-foil/foil-rectangular-574.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "sweets-packaging-enquiry",
+      "name": "Sweets & Confectionery",
+      "category": "Sweets & Confectionery",
+      "visual": "/assets/products/sweets-packaging/sweet-window-418.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bakery-packaging-enquiry",
+      "name": "Bakery Packaging",
+      "category": "Bakery Packaging",
+      "visual": "/assets/products/bakery-packaging/bakery-boxes-516.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "areca-enquiry",
+      "name": "Areca / Supari Leaf Tableware",
+      "category": "Areca / Supari Leaf Tableware",
+      "visual": "/assets/products/areca/areca-round-579.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bagasse-enquiry",
+      "name": "Bagasse / Sugarcane Tableware",
+      "category": "Bagasse / Sugarcane Tableware",
+      "visual": "/assets/products/bagasse/bagasse-plates-492.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "kraft-packaging-enquiry",
+      "name": "Paper / Kraft Packaging",
+      "category": "Paper / Kraft Packaging",
+      "visual": "/assets/products/kraft-packaging/kraft-burger-399.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "paper-bags-enquiry",
+      "name": "Paper Bags & Carry Packaging",
+      "category": "Paper Bags & Carry Packaging",
+      "visual": "/assets/products/paper-bags/bag-handled-205.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "wooden-bamboo-enquiry",
+      "name": "Wooden / Bamboo Accessories",
+      "category": "Wooden / Bamboo Accessories",
+      "visual": "/assets/products/wooden-bamboo/wood-spoons-445.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "lids-accessories-enquiry",
+      "name": "Lids & Accessories",
+      "category": "Lids & Accessories",
+      "visual": "/assets/products/lids-accessories/lid-cups-532.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "catering-range-enquiry",
+      "name": "Catering & Function Range",
+      "category": "Catering & Function Range",
+      "visual": "/assets/products/catering-range/catering-round-393.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "cup-textured",
+      "name": "Textured cup",
+      "category": "Cups & Glasses",
+      "visual": "/assets/products/cups-glasses/cup-textured-373.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "plate-square",
+      "name": "Square plate",
+      "category": "Plates",
+      "visual": "/assets/products/plates/plate-square-490.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "plate-compartment",
+      "name": "Compartment plate",
+      "category": "Plates",
+      "visual": "/assets/products/plates/plate-compartment-474.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "plate-textured",
+      "name": "Textured plate",
+      "category": "Plates",
+      "visual": "/assets/products/plates/plate-textured-485.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "tray-serving",
+      "name": "Serving tray",
+      "category": "Trays",
+      "visual": "/assets/products/trays/tray-serving-673.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "tray-square",
+      "name": "Square tray",
+      "category": "Trays",
+      "visual": "/assets/products/trays/tray-square-392.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "tray-compartment",
+      "name": "Compartment tray",
+      "category": "Trays",
+      "visual": "/assets/products/trays/tray-compartment-586.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "meal-round",
+      "name": "Round thali",
+      "category": "Meal & Packing Trays",
+      "visual": "/assets/products/meal-trays/meal-round-738.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "meal-divided",
+      "name": "Divided meal tray",
+      "category": "Meal & Packing Trays",
+      "visual": "/assets/products/meal-trays/meal-divided-728.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "meal-lidded",
+      "name": "Lidded meal tray",
+      "category": "Meal & Packing Trays",
+      "visual": "/assets/products/meal-trays/meal-lidded-415.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "container-rectangular",
+      "name": "Rectangular container",
+      "category": "Food Containers",
+      "visual": "/assets/products/food-containers/container-rectangular-519.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "container-round",
+      "name": "Round container",
+      "category": "Food Containers",
+      "visual": "/assets/products/food-containers/container-round-453.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "container-clear",
+      "name": "Clear container",
+      "category": "Food Containers",
+      "visual": "/assets/products/food-containers/container-clear-357.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "clamshell-rectangular",
+      "name": "Rectangular hinged",
+      "category": "Clamshell Containers",
+      "visual": "/assets/products/clamshell-containers/clamshell-rectangular-583.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "clamshell-square",
+      "name": "Square hinged",
+      "category": "Clamshell Containers",
+      "visual": "/assets/products/clamshell-containers/clamshell-square-460.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "portion-round",
+      "name": "Round portion cup",
+      "category": "Portion & Sauce Cups",
+      "visual": "/assets/products/portion-sauce-cups/portion-round-529.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "portion-square",
+      "name": "Square portion cup",
+      "category": "Portion & Sauce Cups",
+      "visual": "/assets/products/portion-sauce-cups/portion-square-415.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "sauce-lidded",
+      "name": "Lidded sauce cup",
+      "category": "Portion & Sauce Cups",
+      "visual": "/assets/products/portion-sauce-cups/sauce-lidded-490.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "dessert-clear",
+      "name": "Clear dessert cup",
+      "category": "Dessert & Ice Cream Cups",
+      "visual": "/assets/products/dessert-ice-cream-cups/dessert-clear-531.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "dessert-opaque",
+      "name": "Dessert cup",
+      "category": "Dessert & Ice Cream Cups",
+      "visual": "/assets/products/dessert-ice-cream-cups/dessert-opaque-494.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "ice-cream-printed",
+      "name": "Ice cream cup",
+      "category": "Dessert & Ice Cream Cups",
+      "visual": "/assets/products/dessert-ice-cream-cups/ice-cream-printed-422.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "utility-serving-cups",
+      "name": "Utility cup",
+      "category": "Multipurpose & Utility Cups",
+      "visual": "/assets/products/utility-cups/utility-serving-cups-509.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "foil-rectangular",
+      "name": "Rectangular foil formats",
+      "category": "Aluminium Foil Packaging",
+      "visual": "/assets/products/aluminium-foil/foil-rectangular-574.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "foil-round",
+      "name": "Round foil formats",
+      "category": "Aluminium Foil Packaging",
+      "visual": "/assets/products/aluminium-foil/foil-round-572.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "foil-divided",
+      "name": "Divided foil formats",
+      "category": "Aluminium Foil Packaging",
+      "visual": "/assets/products/aluminium-foil/foil-divided-363.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "takeaway-boxes",
+      "name": "Takeaway box",
+      "category": "Takeaway Packaging",
+      "visual": "/assets/products/takeaway-packaging/takeaway-boxes-375.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "takeaway-snack",
+      "name": "Snack packaging",
+      "category": "Takeaway Packaging",
+      "visual": "/assets/products/takeaway-packaging/takeaway-snack-357.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "sweet-window",
+      "name": "Window sweet box",
+      "category": "Sweets & Confectionery",
+      "visual": "/assets/products/sweets-packaging/sweet-window-418.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "sweet-gift",
+      "name": "Gift box",
+      "category": "Sweets & Confectionery",
+      "visual": "/assets/products/sweets-packaging/sweet-gift-484.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "sweet-divided",
+      "name": "Divided sweet box",
+      "category": "Sweets & Confectionery",
+      "visual": "/assets/products/sweets-packaging/sweet-divided-499.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bakery-boxes",
+      "name": "Bakery box",
+      "category": "Bakery Packaging",
+      "visual": "/assets/products/bakery-packaging/bakery-boxes-516.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bakery-domes",
+      "name": "Cake dome",
+      "category": "Bakery Packaging",
+      "visual": "/assets/products/bakery-packaging/bakery-domes-516.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bakery-slices",
+      "name": "Pastry slice box",
+      "category": "Bakery Packaging",
+      "visual": "/assets/products/bakery-packaging/bakery-slices-414.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "areca-round",
+      "name": "Leaf tableware round formats",
+      "category": "Areca / Supari Leaf Tableware",
+      "visual": "/assets/products/areca/areca-round-579.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "areca-square",
+      "name": "Leaf tableware square formats",
+      "category": "Areca / Supari Leaf Tableware",
+      "visual": "/assets/products/areca/areca-square-430.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "areca-bowls",
+      "name": "Leaf bowl formats",
+      "category": "Areca / Supari Leaf Tableware",
+      "visual": "/assets/products/areca/areca-bowls-477.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bagasse-plates",
+      "name": "Fibre plate",
+      "category": "Bagasse / Sugarcane Tableware",
+      "visual": "/assets/products/bagasse/bagasse-plates-492.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bagasse-hinged",
+      "name": "Fibre hinged box",
+      "category": "Bagasse / Sugarcane Tableware",
+      "visual": "/assets/products/bagasse/bagasse-hinged-236.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bagasse-trays",
+      "name": "Fibre meal tray",
+      "category": "Bagasse / Sugarcane Tableware",
+      "visual": "/assets/products/bagasse/bagasse-trays-493.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "kraft-burger",
+      "name": "Kraft-style burger box",
+      "category": "Paper / Kraft Packaging",
+      "visual": "/assets/products/kraft-packaging/kraft-burger-399.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "kraft-bowls",
+      "name": "Kraft-style bowl",
+      "category": "Paper / Kraft Packaging",
+      "visual": "/assets/products/kraft-packaging/kraft-bowls-425.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "kraft-meal",
+      "name": "Kraft-style meal box",
+      "category": "Paper / Kraft Packaging",
+      "visual": "/assets/products/kraft-packaging/kraft-meal-346.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bag-handled",
+      "name": "Handled paper bag",
+      "category": "Paper Bags & Carry Packaging",
+      "visual": "/assets/products/paper-bags/bag-handled-205.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bag-flat",
+      "name": "Flat paper bag",
+      "category": "Paper Bags & Carry Packaging",
+      "visual": "/assets/products/paper-bags/bag-flat-409.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bag-diecut",
+      "name": "Die-cut bag",
+      "category": "Paper Bags & Carry Packaging",
+      "visual": "/assets/products/paper-bags/bag-diecut-387.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "tissue-boxes",
+      "name": "Tissue box",
+      "category": "Tissues & Napkins",
+      "visual": "/assets/products/tissues/tissue-boxes-372.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "tissue-dinner",
+      "name": "Dinner napkin",
+      "category": "Tissues & Napkins",
+      "visual": "/assets/products/tissues/tissue-dinner-307.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "wood-spoons",
+      "name": "Wooden spoon",
+      "category": "Wooden / Bamboo Accessories",
+      "visual": "/assets/products/wooden-bamboo/wood-spoons-445.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "wood-forks",
+      "name": "Wooden fork",
+      "category": "Wooden / Bamboo Accessories",
+      "visual": "/assets/products/wooden-bamboo/wood-forks-257.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "bamboo-chopsticks",
+      "name": "Bamboo accessory",
+      "category": "Wooden / Bamboo Accessories",
+      "visual": "/assets/products/wooden-bamboo/bamboo-chopsticks-253.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "lid-cups",
+      "name": "Cup lid",
+      "category": "Lids & Accessories",
+      "visual": "/assets/products/lids-accessories/lid-cups-532.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "lid-flat-dome",
+      "name": "Flat and dome lid",
+      "category": "Lids & Accessories",
+      "visual": "/assets/products/lids-accessories/lid-flat-dome-451.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "lid-containers",
+      "name": "Container lid",
+      "category": "Lids & Accessories",
+      "visual": "/assets/products/lids-accessories/lid-containers-484.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "catering-round",
+      "name": "Catering plate",
+      "category": "Catering & Function Range",
+      "visual": "/assets/products/catering-range/catering-round-393.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "catering-square",
+      "name": "Catering square plate",
+      "category": "Catering & Function Range",
+      "visual": "/assets/products/catering-range/catering-square-347.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    },
+    {
+      "slug": "catering-set",
+      "name": "Place-setting concept",
+      "category": "Catering & Function Range",
+      "visual": "/assets/products/catering-range/catering-set-297.webp",
+      "role": "product-family",
+      "dedicatedPhotographyRequired": true
+    }
+  ],
+  "errors": []
+}
