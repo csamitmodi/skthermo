@@ -1,0 +1,647 @@
+{
+  "responsive": [
+    {
+      "lang": "en",
+      "path": "/industries",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/restaurants-qsr",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/hotels",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/catering",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/events",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/institutional-buyers",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/corporate-buyers",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/retail",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries/wholesalers-distributors",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/contact",
+      "width": 1440
+    },
+    {
+      "lang": "en",
+      "path": "/industries",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/restaurants-qsr",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/hotels",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/catering",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/events",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/institutional-buyers",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/corporate-buyers",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/retail",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries/wholesalers-distributors",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/contact",
+      "width": 1024
+    },
+    {
+      "lang": "en",
+      "path": "/industries",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/restaurants-qsr",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/hotels",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/catering",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/events",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/institutional-buyers",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/corporate-buyers",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/retail",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries/wholesalers-distributors",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/contact",
+      "width": 768
+    },
+    {
+      "lang": "en",
+      "path": "/industries",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/restaurants-qsr",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/hotels",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/catering",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/events",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/institutional-buyers",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/corporate-buyers",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/retail",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries/wholesalers-distributors",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/contact",
+      "width": 430
+    },
+    {
+      "lang": "en",
+      "path": "/industries",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/restaurants-qsr",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/hotels",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/catering",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/events",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/institutional-buyers",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/corporate-buyers",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/retail",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries/wholesalers-distributors",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/contact",
+      "width": 390
+    },
+    {
+      "lang": "en",
+      "path": "/industries",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/restaurants-qsr",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/hotels",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/catering",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/events",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/institutional-buyers",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/corporate-buyers",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/retail",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/industries/wholesalers-distributors",
+      "width": 360
+    },
+    {
+      "lang": "en",
+      "path": "/contact",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/restaurants-qsr",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/hotels",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/catering",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/events",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/institutional-buyers",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/corporate-buyers",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/retail",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/wholesalers-distributors",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/contact",
+      "width": 1440
+    },
+    {
+      "lang": "hi",
+      "path": "/industries",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/restaurants-qsr",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/hotels",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/catering",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/events",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/institutional-buyers",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/corporate-buyers",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/retail",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/wholesalers-distributors",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/contact",
+      "width": 1024
+    },
+    {
+      "lang": "hi",
+      "path": "/industries",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/restaurants-qsr",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/hotels",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/catering",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/events",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/institutional-buyers",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/corporate-buyers",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/retail",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/wholesalers-distributors",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/contact",
+      "width": 768
+    },
+    {
+      "lang": "hi",
+      "path": "/industries",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/restaurants-qsr",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/hotels",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/catering",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/events",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/institutional-buyers",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/corporate-buyers",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/retail",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/wholesalers-distributors",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/contact",
+      "width": 430
+    },
+    {
+      "lang": "hi",
+      "path": "/industries",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/restaurants-qsr",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/hotels",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/catering",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/events",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/institutional-buyers",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/corporate-buyers",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/retail",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/wholesalers-distributors",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/contact",
+      "width": 390
+    },
+    {
+      "lang": "hi",
+      "path": "/industries",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/restaurants-qsr",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/hotels",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/catering",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/events",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/institutional-buyers",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/corporate-buyers",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/retail",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/industries/wholesalers-distributors",
+      "width": 360
+    },
+    {
+      "lang": "hi",
+      "path": "/contact",
+      "width": 360
+    }
+  ],
+  "journeys": [
+    {
+      "industry": "Restaurants & QSR",
+      "category": "/products/cups-glasses",
+      "context": "Restaurants & QSR"
+    },
+    {
+      "industry": "Hotels",
+      "category": "/products/cups-glasses",
+      "context": "Hotels"
+    },
+    {
+      "industry": "Catering",
+      "category": "/products/plates",
+      "context": "Catering"
+    },
+    {
+      "industry": "Events",
+      "category": "/products/cups-glasses",
+      "context": "Events"
+    },
+    {
+      "industry": "Institutional Foodservice",
+      "category": "/products/cups-glasses",
+      "context": "Institutional Foodservice"
+    },
+    {
+      "industry": "Corporate Buyers",
+      "category": "/products/cups-glasses",
+      "context": "Corporate Buyers"
+    },
+    {
+      "industry": "Retail & Food Businesses",
+      "category": "/products/cups-glasses",
+      "context": "Retail & Food Businesses"
+    },
+    {
+      "industry": "Distributors & Wholesalers",
+      "category": "/products/cups-glasses",
+      "context": "Distributors & Wholesalers"
+    }
+  ],
+  "errors": []
+}

@@ -441,6 +441,45 @@ Cartons and product stacks illustrating a distribution environment => वित�
 Tell us how your business serves food. => अपने व्यवसाय की भोजन सेवा के बारे में बताएं।
 Share your application, product formats and quantities. We can discuss the details around your requirement. => उपयोग, उत्पाद विकल्प और मात्रा बताएं। आपकी आवश्यकता के अनुसार विवरण पर चर्चा करें।
 `.trim().split('\n').map(line=>line.split(' => '))));
+Object.assign(hi, Object.fromEntries(String.raw`
+Industry / Application => उद्योग / उपयोग
+Explore Industries => उद्योग देखें
+INDUSTRY SOLUTIONS => उद्योगों के लिए समाधान
+INDUSTRY REQUIREMENTS => उद्योग की आवश्यकताएं
+Discuss Requirement => आवश्यकता पर चर्चा करें
+RELEVANT PRODUCT FAMILIES => संबंधित उत्पाद श्रेणियां
+Explore formats for your business. => अपने व्यवसाय के लिए विकल्प देखें।
+APPLICATION & SERVICE => उपयोग और सेवा
+Counter service, beverages and takeaway => काउंटर सेवा, पेय और टेकअवे
+Guest service and food outlets => अतिथि सेवा और फूड आउटलेट
+Buffet and organised meal service => बुफे और व्यवस्थित भोजन सेवा
+Foodservice at functions and events => समारोह और कार्यक्रमों में फूडसर्विस
+Organised meal service => व्यवस्थित भोजन सेवा
+Pantry and workplace foodservice => पैंट्री और कार्यस्थल की फूडसर्विस
+Display and food-business requirements => डिस्प्ले और फूड व्यवसाय की आवश्यकताएं
+Distribution and bulk sourcing => वितरण और थोक खरीद
+Consider how meals and drinks move from preparation to service. Share your menu, portioning needs and packing preferences. => भोजन और पेय की तैयारी से सेवा तक की जरूरतें बताएं। मेन्यू, परोसने की मात्रा और पैकिंग की पसंद साझा करें।
+Coordinate beverage, breakfast and meal-service requirements across your outlets. Include packing and delivery preferences in your brief. => अपने आउटलेट की पेय, नाश्ते और भोजन सेवा की आवश्यकताएं बताएं। पैकिंग और डिलीवरी की पसंद भी साझा करें।
+Build a product mix around the menu, service format and guest quantities. Include serving, portioning and carry requirements. => मेन्यू, सेवा के तरीके और मेहमानों की संख्या के अनुसार उत्पाद चुनें। सर्विंग, मात्रा और कैरी पैकेजिंग की जरूरतें बताएं।
+Plan meal and beverage formats around your event. Share expected quantities, serving arrangements and delivery destination. => कार्यक्रम के अनुसार भोजन और पेय के विकल्प चुनें। अनुमानित मात्रा, सेवा व्यवस्था और डिलीवरी स्थान बताएं।
+Share the formats, acceptance criteria and documentation your procurement team needs. Discuss packing and expected quantities by application. => खरीद टीम को चाहिए विकल्प, स्वीकृति मानदंड और दस्तावेज बताएं। उपयोग के अनुसार पैकिंग और अनुमानित मात्रा पर चर्चा करें।
+Coordinate pantry, workplace meal and meeting-service requirements. Describe the intended use, formats and buying quantities. => पैंट्री, कार्यस्थल के भोजन और मीटिंग सेवा की आवश्यकताएं बताएं। उपयोग, विकल्प और खरीद की मात्रा साझा करें।
+Build a product selection around your business needs. Share preferred formats, quantities and any branding or packing requirements. => अपने व्यवसाय की जरूरतों के अनुसार उत्पाद चुनें। पसंदीदा विकल्प, मात्रा, ब्रांडिंग और पैकिंग आवश्यकताएं बताएं।
+Create a sourcing brief by product family and destination. Discuss quantities, packing configuration and commercial requirements. => उत्पाद श्रेणी और डिलीवरी स्थान के अनुसार खरीद की आवश्यकता बताएं। मात्रा, पैकिंग व्यवस्था और व्यावसायिक जरूरतों पर चर्चा करें।
+Tell us how the product will be served, packed or distributed. Bring your quantities, packing preferences and any custom requirements into the discussion. => बताएं कि उत्पाद कैसे सर्व, पैक या वितरित किया जाएगा। मात्रा, पैकिंग की पसंद और कस्टम आवश्यकताओं पर चर्चा करें।
+BULK & CUSTOM REQUIREMENTS => थोक और कस्टम आवश्यकताएं
+Discuss your industry requirement. => अपने उद्योग की आवश्यकता बताएं।
+Share the details your business needs. => अपने व्यवसाय की जरूरतों का विवरण साझा करें।
+SEND A BUSINESS ENQUIRY => व्यावसायिक पूछताछ भेजें
+Restaurant staff preparing food with takeaway packaging in the foreground => रेस्तरां में भोजन तैयार करते कर्मचारी और सामने टेकअवे पैकेजिंग
+Hospitality staff serving in a hotel dining setting with tableware => होटल में सेवा देते कर्मचारी और टेबलवेयर
+Catering staff arranging a buffet with tableware and food containers => बुफे की व्यवस्था करते कैटरिंग कर्मचारी, टेबलवेयर और फूड कंटेनर
+Service staff in an event dining environment with plates and cutlery => कार्यक्रम के भोजन क्षेत्र में सेवा कर्मचारी, प्लेट और कटलरी
+People using an organised dining area with compartment meal trays => व्यवस्थित भोजन क्षेत्र में लोग और कंपार्टमेंट मील ट्रे
+Office employees in a pantry setting with cups and foodservice products => ऑफिस पैंट्री में कर्मचारी, कप और फूडसर्विस उत्पाद
+Staff arranging foodservice packaging in a retail supply environment => रिटेल सप्लाई क्षेत्र में फूडसर्विस पैकेजिंग व्यवस्थित करते कर्मचारी
+Distribution staff working around cartons and foodservice products => कार्टन और फूडसर्विस उत्पादों के साथ काम करते वितरण कर्मचारी
+`.trim().split('\n').map(line=>line.split(' => '))));
 const folded=new Map(Object.entries(hi).map(([key,value])=>[key.toLowerCase(),value]));
 export function translate(text){const trimmed=String(text).replace(/\s+/g,' ').trim();if(hi[trimmed])return hi[trimmed];if(folded.has(trimmed.toLowerCase()))return folded.get(trimmed.toLowerCase());
  if(trimmed.endsWith(' Share your intended use, quantity and packing requirements with our team.'))return translate(trimmed.replace(' Share your intended use, quantity and packing requirements with our team.',''))+' '+translate('Share your intended use, quantity and packing requirements with our team.');
