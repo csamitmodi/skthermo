@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "route": "/leadership",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/about",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/leadership",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 430,
+      "route": "/about",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/leadership",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/about",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/leadership",
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/about",
+      "status": 200,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

@@ -1,3 +1,4 @@
+import {leadershipPage} from './components/leadership.js';
 import {productVisual} from './data/productVisuals.js';
 import {solutionExperiences} from './data/solutionExperience.js';
 import {industryExperiences} from './data/industryExperience.js';
@@ -10,7 +11,7 @@ import {exportPage} from './components/export.js';
 import {company,categories,products,industries,solutions,pages,routes} from './data.js';import {legalPages} from './data/pages.js';import {esc} from './components/ui.js';import {catalogue,detail} from './components/catalogue.js';import {home,general,industryPage,solutionPage,contact,rfq,legal,notFound} from './components/pages.js';import {header,footer} from './components/layout.js';
 export {esc} from './components/ui.js';export {quote} from './components/ui.js';export {form} from './components/forms.js';
 export function content(path){
- if(path==='/catalogues')return catalogueCentre();if(path.startsWith('/catalogues/'))return catalogueViewer(path.split('/').at(-1))||notFound();if(path==='/enquiry')return enquiryPage();if(path==='/samples')return samplePage();if(path==='/')return home();if(path==='/export')return exportPage();
+ if(path==='/leadership')return leadershipPage();if(path==='/catalogues')return catalogueCentre();if(path.startsWith('/catalogues/'))return catalogueViewer(path.split('/').at(-1))||notFound();if(path==='/enquiry')return enquiryPage();if(path==='/samples')return samplePage();if(path==='/')return home();if(path==='/export')return exportPage();
  if(path==='/products'||categories.some(c=>path==='/products/'+c.slug))return catalogue(path);
  const p=products.find(p=>path==='/products/'+p.slug);if(p)return detail(p);
  if(path==='/industries'||industries.some(i=>path==='/industries/'+i.slug))return industryPage(path);
@@ -22,6 +23,7 @@ export function metadata(path,baseUrl=company.url){
  const language=routeLanguage(path),requestedPath=path;path=basePath(path);
  const product=products.find(p=>path==='/products/'+p.slug),category=categories.find(c=>path==='/products/'+c.slug),industry=industries.find(i=>path==='/industries/'+i.slug),solution=solutions.find(s=>path==='/solutions/'+s.slug),page=pages[path.slice(1)]||legalPages[path.slice(1)];
  const known=routes.includes(path);const defaults={
+ '/leadership':['Our Group & Leadership','Meet Co-Founders Nitesh Data and Gaurav Data, and explore the Data Group of Industries entrepreneurial background behind S. K. Thermoformers.'],
  '/':['Foodservice Disposables & Paper Cup Manufacturing','Explore SKP paper cups, plastic beverage formats, tableware and custom paper cup enquiries with M/s S. K. Thermoformers, Khairthal, Rajasthan.'],
  '/products':['SKP Product Catalogue','Explore SKP foodservice product families by category, material and application. Request current specifications and a bulk supply quote.'],
  '/solutions':['Foodservice Application Solutions','Find SKP product families for beverage service, catering, institutional foodservice and custom paper cup branding enquiries.'],

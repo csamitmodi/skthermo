@@ -1,5 +1,7 @@
 // Page copy and product-family names share one locale layer, not a second product database.
 export const hiContent=Object.fromEntries(String.raw`
+Our Group & Leadership => हमारा समूह और नेतृत्व
+Meet Co-Founders Nitesh Data and Gaurav Data, and explore the Data Group of Industries entrepreneurial background behind S. K. Thermoformers. => सह-संस्थापक Nitesh Data और Gaurav Data से मिलें और S. K. Thermoformers के पीछे Data Group of Industries की उद्यमशील पृष्ठभूमि जानें।
 Cups => कप
 Bagasse / sugarcane range => बैगास / गन्ने के फाइबर की श्रेणी
 Food / clamshell containers => फूड / क्लैमशेल कंटेनर
